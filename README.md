@@ -86,6 +86,18 @@ Keywords: load forecasting; renewable energy forecasting; microgrids; persistenc
 
 C. Ghenai, T. Salameh, A. Merabet and A. K. Hamid, "Modeling and optimization of hybrid solar-diesel-battery power system," 2017 7th International Conference on Modeling, Simulation, and Applied Optimization (ICMSAO), Sharjah, United Arab Emirates, 2017, pp. 1-5, doi: 10.1109/ICMSAO.2017.7934885.
 
+Karim Moharm,
+State of the art in big data applications in microgrid: A review,
+Advanced Engineering Informatics,
+Volume 42,
+2019,
+100945,
+ISSN 1474-0346,
+https://doi.org/10.1016/j.aei.2019.100945.
+(https://www.sciencedirect.com/science/article/pii/S147403461830702X)
+Abstract: The prospering Big data era is emerging in the power grid. Multiple world-wide studies are emphasizing the big data applications in the microgrid due to the huge amount of produced data. Big data analytics can impact the design and applications towards safer, better, more profitable, and effective power grid. This paper presents the recognition and challenges of the big data and the microgrid. The construction of big data analytics is introduced. The data sources, big data opportunities, and enhancement areas in the microgrid like stability improvement, asset management, renewable energy prediction, and decision-making support are summarized. Diverse case studies are presented including different planning, operation control, decision making, load forecasting, data attacks detection, and maintenance aspects of the microgrid. Finally, the open challenges of big data in the microgrid are discussed.
+Keywords: Big data; Microgrid
+
 Lorenzoni, Luca & Cherubini, Paolo & Fioriti, Davide & Poli, Davide & Micangeli, Andrea & Giglioli, Romano. (2020). Classification and modeling of load profiles of isolated mini-grids in developing countries: A data-driven approach. Energy for Sustainable Development. 59. 208-225. 10.1016/j.esd.2020.10.001. 
 
 ## 2021 and after
@@ -157,6 +169,8 @@ Babanezhad, Hamed & Ghafouri, Alireza. (2022). Increasing the Accessibility of R
 
 Rana MM, Rahman A, Uddin M, Sarkar MR, Shezan SA, Ishraque MF, Rafin SMSH, Atef M. A Comparative Analysis of Peak Load Shaving Strategies for Isolated Microgrid Using Actual Data. Energies. 2022; 15(1):330. https://doi.org/10.3390/en15010330
 
+Trivedi, Rohit & Patra, Sandipan & Khadem, Md. Shafiuzzaman Khan. (2022). A Data-Driven Short-Term PV Generation and Load Forecasting Approach for Microgrid Applications. IEEE Journal of Emerging and Selected Topics in Industrial Electronics. 3. 1-1. 10.1109/JESTIE.2022.3179961. 
+
 Md Mustafa Kamal, Imtiaz Ashraf, Eugene Fernandez,
 Planning and optimization of microgrid for rural electrification with integration of renewable energy resources,
 Journal of Energy Storage,
@@ -169,5 +183,8 @@ https://doi.org/10.1016/j.est.2022.104782.
 Abstract: Microgrids are an effective means to provide power to urban and rural communities. Microgrid planning must anticipate both the system's economic feasibility and long-term stability. Due to existing challenging ambitions, limitations, and the uncertainty of renewable energy production, the planning of microgrids is a difficult task. In the present work, a standalone microgrid is planned to integrate solar, wind turbine, diesel generator, and battery for the rural community of the hilly state of Uttarakhand (India). The Feasibility and techno-economic analysis of a proposed microgrid is conducted. The microgrid's performance is investigated using differential evolution and other existing algorithms, particle swarm optimization, and genetic algorithm to ascertain the cheapest option to energize the area. The sizing of components and sensitivity analysis of energy cost with changes in various parameters of the energy system is investigated. The optimization results suggest that the energy cost is $0.16/kWh, with a renewable fraction of 92% and a net present cost of $ 41,078. The obtained results indicated that a renewable-based energy system provides a more effective solution for the electrification of the rural population.
 Keywords: Renewable resources; Planning; Optimization; Cost of energy; Sensitivity; Viability solar; Wind
 
+Yoo, Yeuntae & Jang, Gilsoo & Lee, Jaehyeong & Jung, Seungmin. (2022). Stochastic forecast error estimation of high PV penetration system considering net‐load/PV decoupling for microgrid operation. IET Renewable Power Generation. 16. n/a-n/a. 10.1049/rpg2.12506. 
+
+Qiyue Huang, Yuqing Zheng, Yuxuan Xu, and François Vallée. 2022. Microgrid Load Forecasting Based on Improved Long Short-Term Memory Network. JECE 2022 (2022). https://doi.org/10.1155/2022/4017708
 
 Kühnel, Sven & Ahmed, Tallal & Mehta, Kedar & Ehrenwirth, Mathias & Besner, Rebekka & Knepper, Karoline & Ileka, Helvi & Trinkl, Christoph & Zörner, Wilfried. (2022). Holistic approach to develop electricity load profiles for rural off- grid communities in sub-Saharan Africa. 
