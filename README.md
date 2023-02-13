@@ -74,11 +74,24 @@ Keywords: Demand response; Thermal storage; Domestic hot water; Renewable energy
 
 A. Tesfaye and M. A. Khader, "Strategies for promoting the use of renewable energy in Ethiopia," AFRICON 2015, Addis Ababa, Ethiopia, 2015, pp. 1-7, doi: 10.1109/AFRCON.2015.7331914.
 
+Shreya Dutta, Yanling Li, Aditya Venkataraman, Luis M. Costa, Tianxiang Jiang, Robert Plana, Philippe Tordjman, Fook Hoong Choo, Chek Fok Foo, Hans B. Puttgen,
+Load and Renewable Energy Forecasting for a Microgrid using Persistence Technique,
+Energy Procedia,
+Volume 143,
+2017,
+Pages 617-622,
+ISSN 1876-6102,
+https://doi.org/10.1016/j.egypro.2017.12.736.
+(https://www.sciencedirect.com/science/article/pii/S1876610217365001)
+Abstract: A microgrid system, be it connected to the utility grid or an independent system, usually consists of a mix of generation - renewable and non-renewable; loads - controllable or non-controllable and Energy Storage Systems (ESSs) such as batteries or flywheels. In order to determine how much power is utilized from the controllable resources such as ESS, diesel generators, micro-turbines or gas turbines, we first need to determine how much the demand is or how much the renewable energy sources are generating is which is accomplished using forecasting techniques. Due to the intermittent nature of renewable resources such as wind energy or solar energy, it is difficult to forecast wind power or solar power accurately. These forecasts are highly dependent on weather forecasts. It is evident that forecast of any data based on forecast of other parameters would lead to further inaccuracy, even if the relation between the inputs and output maybe predetermined through regression methods. Therefore, this paper illustrates an approach to use historical power data instead of numerical weather predictions to produce short-term forecast results. The concept is based on persistence method presented in [1]. This method uses the “today equals tomorrow” concept. From [2], we know that persistence technique produces results that are more accurate as compared to other forecasting techniques for a look-ahead time of 4-6 hours. Both [1] and [2] were based on wind power forecasting. In this paper, we investigate persistence method for short-term electrical demand, solar PV (Photovoltaic) power and wind power forecasting. Since the forecasts are dependent on historical averages of the data in the ‘near’ past, the accuracy is inversely proportional to the variation of power between the historical data and the actual data.
+Keywords: load forecasting; renewable energy forecasting; microgrids; persistence
+
+
 C. Ghenai, T. Salameh, A. Merabet and A. K. Hamid, "Modeling and optimization of hybrid solar-diesel-battery power system," 2017 7th International Conference on Modeling, Simulation, and Applied Optimization (ICMSAO), Sharjah, United Arab Emirates, 2017, pp. 1-5, doi: 10.1109/ICMSAO.2017.7934885.
 
 Lorenzoni, Luca & Cherubini, Paolo & Fioriti, Davide & Poli, Davide & Micangeli, Andrea & Giglioli, Romano. (2020). Classification and modeling of load profiles of isolated mini-grids in developing countries: A data-driven approach. Energy for Sustainable Development. 59. 208-225. 10.1016/j.esd.2020.10.001. 
 
-## 2021 and adter
+## 2021 and after
 A. Yadav, S. Khan and M. T. Aahmad, "Economics and Environment Analysis of Hybrid System for Rural Hilly Terrain," 2021 1st International Conference on Power Electronics and Energy (ICPEE), Bhubaneswar, India, 2021, pp. 1-6, doi: 10.1109/ICPEE50452.2021.9358650.
 
 B. Ugwoke, S. Sulemanu, S.P. Corgnati, P. Leone, J.M. Pearce,
@@ -92,6 +105,8 @@ https://doi.org/10.1016/j.rser.2021.110983.
 (https://www.sciencedirect.com/science/article/pii/S1364032121002756)
 Abstract: With the vast rural population, the availability of locational renewable energy resources and limited finances in low-income (developing) countries, there is the need for an integrated and holistic energy planning framework to unlock their potential for achieving energy-based economic development. The integrated rural energy planning framework provides a unified road map for energy planning and system design with renewable energy integration geared towards improving energy access in rural areas. Therefore, this study presents the application of case studies to this framework to foster improved localized renewable energy access in low-income (developing) countries. Using rural Nigeria as the geographic scope, the site identification and selection and the locational estimation of annual energy demand steps of the framework are performed for rural areas. Utilizing GIS-based tools, rural communities are identified, and their viable renewable energy resources are estimated. Adopting the reference building approach, seasonal disaggregated energy demand profiles are obtained at community scale with an hourly time-step. These are obtained in the absence of smart-metering equipment and measured datasets on energy use. The obtained results provide insights to inform localized energy policy design by combining rural electrification with energy conservation strategies. This framework has wide applicability across areas with similar energy access and rural development issues especially in sub-Saharan Africa and developing Asia.
 Keywords: Integrated energy planning; Integrated rural planning; Demand profile; GIS; Nigeria
+
+Hecht, C., Sprake, D., Vagapov, Y. et al. Domestic demand-side management: analysis of microgrid with renewable energy sources using historical load data. Electr Eng 103, 1791–1806 (2021). https://doi.org/10.1007/s00202-020-01197-y
 
 Rana, Md & Atef, Mohamed & Sarkar, Md. Rasel & Uddin, Moslem & Shafiullah, Gm. (2022). A Review on Peak Load Shaving in Microgrid—Potential Benefits, Challenges, and Future Trend. Energies. 15. 2278. 10.3390/en15062278. 
 
@@ -142,6 +157,8 @@ Abstract: Aiming at utilizing a large number of distributed energy sources in ru
 Keywords: Virtual power plant; Power-to-gas; Benefit allocation; Optimal operation; Uncertainty
 
 Babanezhad, Hamed & Ghafouri, Alireza. (2022). Increasing the Accessibility of Rural Microgrid's Load to Resources in Multi‐Microgrid System with Considering Minimum Operation Cost. IEEJ Transactions on Electrical and Electronic Engineering. 17. 10.1002/tee.23588. 
+
+Rana MM, Rahman A, Uddin M, Sarkar MR, Shezan SA, Ishraque MF, Rafin SMSH, Atef M. A Comparative Analysis of Peak Load Shaving Strategies for Isolated Microgrid Using Actual Data. Energies. 2022; 15(1):330. https://doi.org/10.3390/en15010330
 
 Md Mustafa Kamal, Imtiaz Ashraf, Eugene Fernandez,
 Planning and optimization of microgrid for rural electrification with integration of renewable energy resources,
