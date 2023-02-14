@@ -596,6 +596,19 @@ Wang, Y., Chen, Q., Kang, C. (2020). Residential Load Data Generation. In: Smart
 
 Kababji, Samer & Srikantha, Pirathayini. (2020). A Data-Driven Approach for Generating Synthetic Load Patterns and Usage Habits. IEEE Transactions on Smart Grid. PP. 1-1. 10.1109/TSG.2020.3007984. 
 
+Tianzhen Hong, Zhe Wang, Xuan Luo, Wanni Zhang,
+State-of-the-art on research and applications of machine learning in the building life cycle,
+Energy and Buildings,
+Volume 212,
+2020,
+109831,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2020.109831.
+(https://www.sciencedirect.com/science/article/pii/S0378778819337879)
+Abstract: Fueled by big data, powerful and affordable computing resources, and advanced algorithms, machine learning has been explored and applied to buildings research for the past decades and has demonstrated its potential to enhance building performance. This study systematically surveyed how machine learning has been applied at different stages of building life cycle. By conducting a literature search on the Web of Knowledge platform, we found 9579 papers in this field and selected 153 papers for an in-depth review. The number of published papers is increasing year by year, with a focus on building design, operation, and control. However, no study was found using machine learning in building commissioning. There are successful pilot studies on fault detection and diagnosis of HVAC equipment and systems, load prediction, energy baseline estimate, load shape clustering, occupancy prediction, and learning occupant behaviors and energy use patterns. None of the existing studies were adopted broadly by the building industry, due to common challenges including (1) lack of large scale labeled data to train and validate the model, (2) lack of model transferability, which limits a model trained with one data-rich building to be used in another building with limited data, (3) lack of strong justification of costs and benefits of deploying machine learning, and (4) the performance might not be reliable and robust for the stated goals, as the method might work for some buildings but could not be generalized to others. Findings from the study can inform future machine learning research to improve occupant comfort, energy efficiency, demand flexibility, and resilience of buildings, as well as to inspire young researchers in the field to explore multidisciplinary approaches that integrate building science, computing science, data science, and social science.
+Keywords: Machine learning; Artificial intelligence; Buildings; Building life cycle; Building control; Building performance
+
+
 Roth, Jonathan & Martin, Amory & Miller, Clayton & Jain, Rishee. (2020). SynCity: Using open data to create a synthetic city of hourly building energy estimates by integrating data-driven and physics-based methods. Applied Energy. 280. 10.1016/j.apenergy.2020.115981. 
 
 Zhe Wang, Tianzhen Hong,
