@@ -13,6 +13,7 @@ Aigner, D. J., Sorooshian, C., & Kerwin, P. (1984). Conditional Demand Analysis 
 Capasso, A, Lamedica, R, Prudenzi, A, and Grattieri, W. A bottom-up approach to residential load modeling. United States: N. p., 1994. Web. doi:10.1109/59.317650.
 
 R. Ruther, D. C. Martins and E. Bazzo, "Hybrid diesel/photovoltaic systems without storage for isolated mini-grids in Northern Brazil," Conference Record of the Twenty-Eighth IEEE Photovoltaic Specialists Conference - 2000 (Cat. No.00CH37036), Anchorage, AK, USA, 2000, pp. 1567-1570, doi: 10.1109/PVSC.2000.916196.
+
 ## 2001 - 2010
 H. Murata and T. Onoda, "Estimation of power consumption for household electric appliances," Proceedings of the 9th International Conference on Neural Information Processing, 2002. ICONIP '02., Singapore, 2002, pp. 2299-2303 vol.5, doi: 10.1109/ICONIP.2002.1201903.
 
@@ -29,6 +30,8 @@ https://doi.org/10.1016/j.enbuild.2004.09.007.
 (https://www.sciencedirect.com/science/article/pii/S037877880400307X)
 Abstract: There are varieties of physical and behavioral factors to determine energy demand load profile. The attainment of the optimum mix of measures and renewable energy system deployment requires a simple method suitable for using at the early design stage. A simple method of formulating load profile (SMLP) for UK domestic buildings has been presented in this paper. Domestic space heating load profile for different types of houses have been produced using thermal dynamic model which has been developed using thermal resistant network method. The daily breakdown energy demand load profile of appliance, domestic hot water and space heating can be predicted using this method. The method can produce daily load profile from individual house to urban community. It is suitable to be used at Renewable energy system strategic design stage.
 Keywords: Domestic building; Load profiles; Energy-consumption; Appliance; Renewable energy (RE)
+
+Paatero, Jukka & Lund, P.. (2006). A model for generating household electricity load profile. International Journal of Energy Research. 30. 273 - 290. 10.1002/er.1136. 
 
 Giles, Lauren, Skolnik, Edward G, Marchionini, Brian, and Fall, Ndeye K. Remote Area Power Supply (RAPS) load and resource profiles.. United States: N. p., 2007. Web. doi:10.2172/912664.
 
@@ -298,6 +301,19 @@ https://doi.org/10.1016/j.esd.2016.01.005.
 Abstract: In this paper, we describe the development, implementation and application of a novel mathematical procedure devoted to formulating the daily load profiles of off-grid consumers in rural areas. The procedure aims at providing such profiles as input data for the design process of off-grid systems for rural electrification. Indeed, daily load profiles represent an essential input for off-grid systems capacity planning methods based on steady-state energy simulation and lifetime techno-economic analyses, and for the analysis of the logics to control the energy fluxes among the different system components. Nevertheless, no particular attention has been devoted so far in the scientific literature as regards specific approaches for daily load profiles estimates for rural consumers. In order to contribute to covering this gap, we developed a new mathematical procedure taking into consideration the specific features of rural areas. The procedure is based on a set of data that can be surveyed and/or assumed in rural areas, and it relies on a stochastic bottom-up approach with correlations between the different load profile parameters (i.e. load factor, coincidence factor and number of consumers) in order to build up the coincidence behavior of the electrical appliances. We have implemented the procedure in a software tool (LoadProGen) which can eventually support the off-grid systems design process for rural electrification. Finally, we have applied the procedure to a case study in order to clarify the proposed approach.
 Keywords: Renewables; Rural electrification; Electric consumptions; Load model; Stochastic model; Off-grid energy systems
 
+C. Sandels, D. Brodén, J. Widén, L. Nordström, E. Andersson,
+Modeling office building consumer load with a combined physical and behavioral approach: Simulation and validation,
+Applied Energy,
+Volume 162,
+2016,
+Pages 472-485,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2015.10.141.
+(https://www.sciencedirect.com/science/article/pii/S0306261915013835)
+Abstract: Due to an expanding integration of renewable energy resources in the power systems, mismatches between electricity supply and demand will increase. A promising solution to deal with these issues is Demand Response (DR), which incentives end-users to be flexible in their electricity consumption. This paper presents a bottom up simulation model that generates office building electricity load profiles representative for Northern Europe. The model connects behavioral aspects of office workers with electricity usage from appliances, and physical representation of the building to describe the energy use of the Heating Ventilation and Air Conditioning systems. To validate the model, simulations are performed with respect to two data sets, and compared with real load measurements. The validation shows that the model can reproduce load profiles with reasonable accuracy for both data sets. With the presented model approach, it is possible to define simple portfolio office building models which subsequently can be used for simulation and analysis of DR in the power systems.
+Keywords: Office electricity demand; Office building design and architecture; HVAC system; Markov-chain models; Demand response; Holistic
+
+
 Normazlina Mat Isa, Himadry Shekhar Das, Chee Wei Tan, A.H.M. Yatim, Kwan Yiew Lau,
 A techno-economic assessment of a combined heat and power photovoltaic/fuel cell/battery energy system in Malaysia hospital,
 Energy,
@@ -353,6 +369,18 @@ Keywords: load forecasting; renewable energy forecasting; microgrids; persistenc
 
 Subieta, S.L., Tarantino, A., Sabatini, S., Riva, F., Bonamini, G., & Quoilin, S. (2017). Feasibility Study of PV & Li-Ion Battery Based Micro-Grids for Bolivian Off-Grid Communities.
 
+Avishek Ray, Kuntal Jana, Sudipta De,
+Polygeneration for an off-grid Indian village: Optimization by economic and reliability analysis,
+Applied Thermal Engineering,
+Volume 116,
+2017,
+Pages 182-196,
+ISSN 1359-4311,
+https://doi.org/10.1016/j.applthermaleng.2016.11.020.
+(https://www.sciencedirect.com/science/article/pii/S1359431116330137)
+Abstract: Indian power supply is dominated by large coal based power plants connected to the national grid. Though it is economically viable for large consumption in industries but it may not be sustainable for many poor Indian villages, specifically for remote off-grid connection. Decentralized small scale power or even multi utility systems using local resources may be a sustainable option for these villages. Multi-utility energy system, i.e. polygeneration helps to cater to the secondary energy needs of a locality. But the secondary energy supply should be available at affordable cost. Minimization of the cost of secondary energy helps to increase the economic acceptability of a distributed energy system. In this paper, a polygeneration with solar PV, biomass power, ethanol production unit and cooling is proposed for an Indian off grid village. An economic model developed in MATLAB using linear programming approach to determine the optimal size of the system by maximization of the annualized profit has been reported. Results show that multiple energy utility supply is possible through distributed polygeneration. This renewable energy based polygeneration reduce CO2 emission significantly as compared to diesel generator set. Reliability and sensitivity analysis as well as comparison of estimated performance for four different locations in India is reported.
+Keywords: Polygeneration; Solar insolation; Reliability; Ethanol; Loss of power supply probability; Unmet load
+
 C. Ghenai, T. Salameh, A. Merabet and A. K. Hamid, "Modeling and optimization of hybrid solar-diesel-battery power system," 2017 7th International Conference on Modeling, Simulation, and Applied Optimization (ICMSAO), Sharjah, United Arab Emirates, 2017, pp. 1-5, doi: 10.1109/ICMSAO.2017.7934885.
 
 Sawle, Y, Gupta, SC, Bohre, AK. A novel methodology for scrutiny of autonomous hybrid renewable energy system. Int J Energy Res. 2018; 42: 570- 586. https://doi.org/10.1002/er.3841
@@ -371,6 +399,8 @@ https://doi.org/10.1016/j.esd.2018.01.009.
 Abstract: Mini-grids are seen as an important option for increasing access to electricity in non-electrified rural areas where grid-extension is unfeasible. Appropriately dimensioning and constructing mini-grids requires knowledge of electricity usage. There is currently a lack of measured load profiles from mini-grids and the most common method for estimating electricity usage is through appliance data collected via interviews. Thus, this paper compares and investigates the differences between measured daily load profiles and daily load profiles created from appliance data collected through interviews and how the two methods impact the dimensioning and operation of a mini-grid. This is done by comparing load profiles for an entire mini-grid, a household and SME customers with large loads. The paper reports differing results from the two methodologies. Generally, the results show that the interview-based load profiles fail to provide an accurate overall estimate. The calculated performance metrics for the two methods also shows large differences. The interview-based load profiles mainly fail to provide accurate estimates of energy and the energy related (capacity factor and load factor) performance metrics. Accordingly, the implications for mini-grid operators and developers could be significant. The interview-based load profiles indicate the mini-grid system to be considerably less technically and economically desirable than measurements show. Suggestions for how the interview process can be improved are presented.
 Keywords: Rural electrification; Load profiles; Load assessments; Mini-grids
 
+Dominguez, Cristina & Orehounig, Kristina & Carmeliet, Jan. (2018). One step further for electrifying rural households in Africa: A novel electricity demand modelling approach. 
+
 Gao B, Liu X, Zhu Z. A Bottom-Up Model for Household Load Profile Based on the Consumption Behavior of Residents. Energies. 2018; 11(8):2112. https://doi.org/10.3390/en11082112
 
 Yashwant Sawle, S.C. Gupta, Aashish Kumar Bohre,
@@ -386,6 +416,8 @@ Abstract: PV and wind hybrid are found to be the most lucrative solution for the
 Keywords: PV system; Wind systems; Modeling; Homer; PSO techniques
 
 C. Zhang, S. R. Kuppannagari, R. Kannan and V. K. Prasanna, "Generative Adversarial Network for Synthetic Time Series Data Generation in Smart Grids," 2018 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Aalborg, Denmark, 2018, pp. 1-6, doi: 10.1109/SmartGridComm.2018.8587464.
+
+Gao B, Liu X, Zhu Z. A Bottom-Up Model for Household Load Profile Based on the Consumption Behavior of Residents. Energies. 2018; 11(8):2112. https://doi.org/10.3390/en11082112
 
 Tefek, M.F., Uğuz, H. & Güçyetmez, M. A new hybrid gravitational search–teaching–learning-based optimization method for energy demand estimation of Turkey. Neural Comput & Applic 31, 2939–2954 (2019). https://doi.org/10.1007/s00521-017-3244-9
 
