@@ -470,3 +470,17 @@ Qiyue Huang, Yuqing Zheng, Yuxuan Xu, and François Vallée. 2022. Microgrid Loa
 Kamal, Md & Ashraf, Imtiaz & Fernandez, Eugene. (2022). Efficient Two‐layer Rural Electrification Planning and Techno‐economic Assessment Integrating Renewable Sources. Energy Storage. 4. 10.1002/est2.314. 
 
 Kühnel, Sven & Ahmed, Tallal & Mehta, Kedar & Ehrenwirth, Mathias & Besner, Rebekka & Knepper, Karoline & Ileka, Helvi & Trinkl, Christoph & Zörner, Wilfried. (2022). Holistic approach to develop electricity load profiles for rural off- grid communities in sub-Saharan Africa. 
+
+Andante Hadi Pandyaswargo, Alan Dwi Wibowo, Hiroshi Onoda,
+Socio-techno-economic assessment to design an appropriate renewable energy system for remote agricultural communities in developing countries,
+Sustainable Production and Consumption,
+Volume 31,
+2022,
+Pages 492-511,
+ISSN 2352-5509,
+https://doi.org/10.1016/j.spc.2022.03.009.
+(https://www.sciencedirect.com/science/article/pii/S2352550922000628)
+Abstract: Access to clean energy for communities living in remote areas where grid extension is considered unfeasible can be provided by off-grid electrification systems using renewable energy (RE). Especially in developing countries, ensuring the appropriateness of such systems is crucial because it will determine the system's sustainability despite its limited resources. This study demonstrates the design process of an appropriate system by assessing the potential of three RE sources: solar, wind, and biomass in an oil palm and rubber-tree plantation village in South Kalimantan Province, Indonesia. A social assessment is done to avoid sustainability issues of the previously introduced technology intervention by identifying correlations between residents' attributes and satisfaction levels on a selection of social values through multiple correspondence analysis (MCA) and nonparametric methods. The techno-economic assessment and sensitivity analysis uses local data processed with the Hybrid Optimization of Multiple Energy Resources (HOMER) software. Results identified the need for a more appropriate clean energy supply for cooking, the potential role of modern technology, and access to information and communication in income generation, among other needs and opportunities that can be linked with the energy system design. The technical assessment showed that a centralized solar power plant paired with a diesel engine could provide power to the village. However, the cost of electricity (COE) is much higher than the price cap introduced by the national electricity company. This study urges a clear mechanism and a guarantee for the delivery of feed-in-tariffs (FIT) and a price cap exemption for off-grid RE systems. Furthermore, a people-centered public–private partnership business model and a remote capacity-building intervention are also needed. An appropriate energy system design must be supported by an enabling environment and supporting policies to be feasible.
+Keywords: Renewable energy; Off-grid electrification; Sustainable development; Rural development; MCA; Sustainability assessment
+
+M. A. Zaman and M. A. Razzak, "Sustainable Microgrid Analysis for Kutubdia Island of Bangladesh," in IEEE Access, vol. 10, pp. 37533-37556, 2022, doi: 10.1109/ACCESS.2022.3164677.
