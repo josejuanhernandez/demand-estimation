@@ -113,6 +113,33 @@ S. Y. Wong and A. Chai, "An Off-Grid Solar System for Rural Village in Malaysia,
 
 Sahu, A.K., Shandilya, D.A., & Bhardwaj, D.S. (2013). Forecasting and Management of Load for Rural Areas.
 
+Kaden, Robert & Kolbe, Thomas. (2013). City-wide total energy demand estimation of buildings using semantic 3D city models and statistical data. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences. II-2/W1. 163-171. 10.5194/isprsannals-II-2-W1-163-2013. 
+
+Gholamreza Zahedi, Saeed Azizi, Alireza Bahadori, Ali Elkamel, Sharifah R. Wan Alwi,
+Electricity demand estimation using an adaptive neuro-fuzzy network: A case study from the Ontario province – Canada,
+Energy,
+Volume 49,
+2013,
+Pages 323-328,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2012.10.019.
+(https://www.sciencedirect.com/science/article/pii/S0360544212007815)
+Abstract: Electricity is an important asset that influences not only the economy, but political or social security of a country. Reliable and accurate planning and prediction of electricity demand for a country are therefore vital. In this paper, electricity demand in Ontario province of Canada from the year 1976–2005 is modeled by using an (adaptive neuro fuzzy inference system) ANFIS. A neuro fuzzy structure can be defined as an ANN (artificial neural network) which is trained by experimental data to find the parameters of (fuzzy inference system) FIS. Inputs for the model include number of employment, (gross domestic product) GDP, population, dwelling count and two meteorological parameters related to annual weather temperature. The data were collected and screened using statistical methods. Then, based on the data, a neuro-fuzzy model for the electricity demand is built. It was found that electricity demand is most sensitive to employment.
+Keywords: Electricity demand; Neuro-fuzzy; Forecasting
+
+Philip C.M. Leung, Eric W.M. Lee,
+Estimation of electrical power consumption in subway station design by intelligent approach,
+Applied Energy,
+Volume 101,
+2013,
+Pages 634-643,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2012.07.017.
+(https://www.sciencedirect.com/science/article/pii/S0306261912005296)
+Abstract: According to the records of Hong Kong rail operator, MTR Corporation, the weekly electrical consumption of each railway station ranges from 18MWh to 230MWh. Since the electrical consumption of stations is a major factor in the planning of infrastructure, a good prediction of the electrical consumption will greatly assist in the design of the station infrastructure. This study develops an intelligent approach to predict the energy consumption of railway stations. Multi-layered Perceptron (MLP) is adopted to mimic the non-linear correlation between energy consumption, the spatial design of the station, meteorological factors and also the usage of the 19 stations selected. Coefficient of correlation is obtained between the MLP predicted results and the actual collected data to evaluate the performance of the prediction. We apply statistical approach to assess the performance of the developed MLP model. It shows that minimum coefficient of correlation is 0.96 with a 95% confidence level which is considered sufficient for engineering application. This approach is also adopted to predict the profile of the weekly electrical consumption of a selected station. The predicted profile reasonably agrees with that of the actual consumption. This study develops a useful tool to estimate the electrical power consumption of new MTR stations.
+Keywords: Artificial neural network; Energy consumption; Subway station
+
+
 B. Ould. Bilal, V. Sambou, P.A. Ndiaye, C.M.F. Kébé, M. Ndongo,
 Study of the Influence of Load Profile Variation on the Optimal Sizing of a Standalone Hybrid PV/Wind/Battery/Diesel System,
 Energy Procedia,
@@ -180,6 +207,8 @@ https://doi.org/10.1016/j.esd.2015.10.009.
 (https://www.sciencedirect.com/science/article/pii/S0973082615001040)
 Abstract: The potential for small self-contained grid systems to provide electricity for currently unserved regions of the developing world is widely recognised. However planning and managing the electrical demand that will be supported, so that a mini-grid system is not overloaded and its available resource is used as fully as possible, is actually more difficult than for a large scale grid system. This paper discusses the mathematical reasons why this is the case, and describes a practical software tool for mini-grid demand estimation and planning that is complementary to the widely used HOMER software. This software tool is made available for download on an open source basis. Finally a conclusion is offered that mini-grid systems should aim to serve at least 50 households so that demand variability is more manageable and economies of scale can be realised.
 Keywords: Mini-grid; Micro-grid; Demand diversity; Monte Carlo model
+
+Kush, Ramazon & Chen, George & Abelson, Brian & Nowocin, Kendall & Sakhrani, Vivek & Xu, Ling & Spatocco, Brian. (2015). Targeting Villages for Rural Development Using Satellite Image Analysis. Big Data. 3. 41-53. 10.1089/big.2014.0061. 
 
 Nathaniel J. Williams, Paulina Jaramillo, Jay Taneja, Taha Selim Ustun,
 Enabling private sector investment in microgrid-based rural electrification in developing countries: A review,
@@ -328,6 +357,8 @@ C. Ghenai, T. Salameh, A. Merabet and A. K. Hamid, "Modeling and optimization of
 
 Sawle, Y, Gupta, SC, Bohre, AK. A novel methodology for scrutiny of autonomous hybrid renewable energy system. Int J Energy Res. 2018; 42: 570- 586. https://doi.org/10.1002/er.3841
 
+S. Thorve, S. Swarup, A. Marathe, Y. Chungbaek, E. K. Nordberg and M. V. Marathe, "SIMULATING RESIDENTIAL ENERGY DEMAND IN URBAN AND RURAL AREAS," 2018 Winter Simulation Conference (WSC), Gothenburg, Sweden, 2018, pp. 548-559, doi: 10.1109/WSC.2018.8632203.
+
 Elias Hartvigsson, Erik O. Ahlgren,
 Comparison of load profiles in a mini-grid: Assessment of performance metrics using measured and interview-based data,
 Energy for Sustainable Development,
@@ -339,6 +370,8 @@ https://doi.org/10.1016/j.esd.2018.01.009.
 (https://www.sciencedirect.com/science/article/pii/S0973082617309675)
 Abstract: Mini-grids are seen as an important option for increasing access to electricity in non-electrified rural areas where grid-extension is unfeasible. Appropriately dimensioning and constructing mini-grids requires knowledge of electricity usage. There is currently a lack of measured load profiles from mini-grids and the most common method for estimating electricity usage is through appliance data collected via interviews. Thus, this paper compares and investigates the differences between measured daily load profiles and daily load profiles created from appliance data collected through interviews and how the two methods impact the dimensioning and operation of a mini-grid. This is done by comparing load profiles for an entire mini-grid, a household and SME customers with large loads. The paper reports differing results from the two methodologies. Generally, the results show that the interview-based load profiles fail to provide an accurate overall estimate. The calculated performance metrics for the two methods also shows large differences. The interview-based load profiles mainly fail to provide accurate estimates of energy and the energy related (capacity factor and load factor) performance metrics. Accordingly, the implications for mini-grid operators and developers could be significant. The interview-based load profiles indicate the mini-grid system to be considerably less technically and economically desirable than measurements show. Suggestions for how the interview process can be improved are presented.
 Keywords: Rural electrification; Load profiles; Load assessments; Mini-grids
+
+Gao B, Liu X, Zhu Z. A Bottom-Up Model for Household Load Profile Based on the Consumption Behavior of Residents. Energies. 2018; 11(8):2112. https://doi.org/10.3390/en11082112
 
 Yashwant Sawle, S.C. Gupta, Aashish Kumar Bohre,
 Review of hybrid renewable energy systems with comparative analysis of off-grid hybrid system,
@@ -355,6 +388,19 @@ Keywords: PV system; Wind systems; Modeling; Homer; PSO techniques
 C. Zhang, S. R. Kuppannagari, R. Kannan and V. K. Prasanna, "Generative Adversarial Network for Synthetic Time Series Data Generation in Smart Grids," 2018 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Aalborg, Denmark, 2018, pp. 1-6, doi: 10.1109/SmartGridComm.2018.8587464.
 
 Tefek, M.F., Uğuz, H. & Güçyetmez, M. A new hybrid gravitational search–teaching–learning-based optimization method for energy demand estimation of Turkey. Neural Comput & Applic 31, 2939–2954 (2019). https://doi.org/10.1007/s00521-017-3244-9
+
+Kyriaki Foteinaki, Rongling Li, Carsten Rode, Rune Korsholm Andersen,
+Modelling household electricity load profiles based on Danish time-use survey data,
+Energy and Buildings,
+Volume 202,
+2019,
+109355,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2019.109355.
+(https://www.sciencedirect.com/science/article/pii/S0378778818338660)
+Abstract: The relationship among occupants’ presence, activities and appliance use is essential for households’ energy use. In the present work, we aimed to link occupants’ energy-related activities to electricity demand, in order to obtain a representative daily electricity load profile for Danish households using Danish time-use survey (DTUS) data. The approach was to combine appliance ownership and power ratings with occupant activities from the DTUS. Two modelling approaches were implemented: in the first approach, the occupant activities profiles from the DTUS were used directly to determine activities at 10-minute intervals. In the second approach, the probabilities of starting time and duration of the occupant activities were used to determine activities. In both approaches, appliance use was assigned to the energy-related activities. The set of appliances used in each activity was determined from a national database of appliance ownership, and the appliances’ power was calibrated using information from apartments in Copenhagen, Denmark. The modelled daily electricity load profile was compared with three measured datasets of varying sizes and from different parts of Denmark. Both approaches captured important qualitative characteristics of the measured load profiles. However, the first approach used a more simple method and resulted in smaller errors than the second approach.
+Keywords: Household electricity profile; Time-use survey data; Load modelling; Daily load profiles; Residential building
+
 
 Barelli L, Bidini G, Cherubini P, Micangeli A, Pelosi D, Tacconelli C. How Hybridization of Energy Storage Technologies Can Provide Additional Flexibility and Competitiveness to Microgrids in the Context of Developing Countries. Energies. 2019; 12(16):3138. https://doi.org/10.3390/en12163138
 
@@ -456,6 +502,8 @@ https://doi.org/10.1016/j.apenergy.2019.114004.
 Abstract: Small-scale off-grid renewable energy systems are being increasingly used for rural electrification, commonly as stand-alone home systems or community micro-grids. With the variety of technologies and configurations available, it is not clear which options are sustainable for remote communities. This study investigates the life cycle environmental sustainability of both home and community installations, designed as part of this work, which utilise diesel, solar, and wind resources coupled with battery storage. A total of 21 system configurations (six home systems and 15 micro-grids) have been designed and optimised for a prototypical rural community in the Philippines, considering both stand-alone and hybrid systems. Life cycle assessment (LCA) considering 18 potential impact categories has been carried out to compare the environmental impacts associated with electricity production of each option. At the household level, hybrid solar photovoltaics (PV)-wind systems with storage have 17–40% lower impacts than the equivalent stand-alone installations per kWh generated. Batteries are a major environmental hotspot, causing up to 88% of the life cycle impacts of a home energy system. Among the community micro-grid options, the PV-wind-lead acid battery hybrid system has the lowest impacts in many categories, including climate change, ozone depletion, and acidification. Comparing equivalent architectures for single-household and community-scale installations, PV systems are environmentally more sustainable if installed individually in households, while larger turbines in community micro-grids are environmentally better for wind utilisation. The results suggest that a household-scale PV system integrated within a micro-grid with community-scale wind turbines and Li-ion batteries is environmentally the most sustainable configuration.
 Keywords: Hybrid energy systems; Life cycle assessment (LCA); Microgeneration; Off-grid energy; Rural electrification; Renewable energy
 
+Falchetta, Giacomo & Stevanato, Nicolo & Moner-Girona, Magda & Mazzoni, Davide & Colombo, Emanuela & Hafner, Manfred. (2020). M-LED: Multi-sectoral Latent Electricity Demand Assessment for Energy Access Planning. SSRN Electronic Journal. 10.2139/ssrn.3700858. 
+
 Massidda L, Marrocu M, Manca S. Non-Intrusive Load Disaggregation by Convolutional Neural Network and Multilabel Classification. Applied Sciences. 2020; 10(4):1454. https://doi.org/10.3390/app10041454
 ## 2021 and after
 A. Yadav, S. Khan and M. T. Aahmad, "Economics and Environment Analysis of Hybrid System for Rural Hilly Terrain," 2021 1st International Conference on Power Electronics and Energy (ICPEE), Bhubaneswar, India, 2021, pp. 1-6, doi: 10.1109/ICPEE50452.2021.9358650.
@@ -471,6 +519,8 @@ https://doi.org/10.1016/j.egyai.2021.100087.
 (https://www.sciencedirect.com/science/article/pii/S2666546821000410)
 Abstract: Building consumption data is integral to numerous applications including retrofit analysis, Smart Grid integration and optimization, and load forecasting. Still, due to technical limitations, privacy concerns and the proprietary nature of the industry, usable data is often unavailable for research and development. Generative adversarial networks (GANs) - which generate synthetic instances that resemble those from an original training dataset - have been proposed to help address this issue. Previous studies use GANs to generate building sequence data, but the models are not typically designed for time series problems, they often require relatively large amounts of input data (at least 20,000 sequences) and it is unclear whether they correctly capture the temporal behaviour of the buildings. In this work we implement a conditional temporal GAN that addresses these issues, and we show that it exhibits state-of-the-art performance on small datasets. 22 different experiments that vary according to their data inputs are benchmarked using Jensen-Shannon divergence (JSD) and predictive forecasting validation error. Of these, the best performing is also evaluated using a curated set of metrics that extends those of previous work to include PCA, deep-learning based forecasting and measurements of trend and seasonality. Two case studies are included: one for residential and one for commercial buildings. The model achieves a JSD of 0.012 on the former data and 0.037 on the latter, using only 396 and 156 original load sequences, respectively.
 Keywords: Generative adversarial network; Building load profile; Machine learning; Data scarcity
+
+Cheng S, Tian Z, Wu X, Niu J. Bottom-Up Model of Random Daily Electrical Load Curve for Office Building. Applied Sciences. 2021; 11(21):10471. https://doi.org/10.3390/app112110471
 
 A. Pinceti, L. Sankar and O. Kosut, "Synthetic Time-Series Load Data via Conditional Generative Adversarial Networks," 2021 IEEE Power & Energy Society General Meeting (PESGM), Washington, DC, USA, 2021, pp. 1-5, doi: 10.1109/PESGM46819.2021.9637821.
 
