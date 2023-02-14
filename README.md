@@ -263,6 +263,20 @@ https://doi.org/10.1016/j.renene.2014.12.051.
 Abstract: In recent years, renewable energy can be seen as one of the important prospect of today's research, as it is likely to enlighten the lives of millions of people by fulfilling demand of electricity in their daily life. The present work focuses on the development of optimal hybrid energy system sizing model based on comparative analysis of particle swarm optimization, genetic algorithm and Homer software for energy index ratio of 1. The model also incorporates renewable fraction, emissions of carbon di oxide from diesel generator, net present cost and cost of energy. The system is developed to supply the demand of 7 un-electrified villages of Dhauladevi block of Almora district in Uttarakhand, India with the help of the available resources of solar, hydro, biomass and biogas energy along with the addition of diesel generator, for meeting out the energy deficit. From the optimization results, minimum cost of energy and maximum renewable fraction are obtained as 5.77 Rs/kWh and 92.6% respectively.
 Keywords: Hybrid energy system (HES); Net present cost (NPC); Cost of energy (COE); Renewable fraction (RF); Particle swarm optimization (PSO)
 
+L. Chuan and A. Ukil, "Modeling and Validation of Electrical Load Profiling in Residential Buildings in Singapore," in IEEE Transactions on Power Systems, vol. 30, no. 5, pp. 2800-2809, Sept. 2015, doi: 10.1109/TPWRS.2014.2367509.
+
+Jimeno A. Fonseca, Arno Schlueter,
+Integrated model for characterization of spatiotemporal building energy consumption patterns in neighborhoods and city districts,
+Applied Energy,
+Volume 142,
+2015,
+Pages 247-265,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2014.12.068.
+(https://www.sciencedirect.com/science/article/pii/S0306261914013257)
+Abstract: We introduce an integrated model for characterization of spatiotemporal building energy consumption patterns in neighborhoods and city districts. The model addresses the need for a comprehensive method to identify present and potential states of building energy consumption in the context of urban transformation. The focus lies on determining the spatiotemporal variability of energy services in both standing and future buildings in the residential, commercial and industrial sectors. This detailed characterization facilitates the assessment of potential energy efficiency measures at the neighborhood and city district scales. In a novel approach we integrated existing methods in urban and energy planning domains such as spatial analysis, dynamic building energy modeling and energy mapping to provide a comprehensive, multi-scale and multi-dimensional model of analysis. The model is part of a geographic information system (GIS), which serves as a platform for the allocation and future dissemination of spatiotemporal data. The model is validated against measured data and a peer model for a city district in Switzerland. In this context, we present practical applications in the analysis of energy efficiency measures in buildings and urban zoning. We furthermore discuss potential applications in educational, urban and energy planning practices.
+Keywords: Urban energy modeling; Geographic information systems; Spatiotemporal analysis; Neighborhoods and city districts; Energy efficiency; Characterization of energy services
+
 S.R. Tito, T.T. Lie, T.N. Anderson,
 Optimal sizing of a wind-photovoltaic-battery hybrid renewable energy system considering socio-demographic factors,
 Solar Energy,
