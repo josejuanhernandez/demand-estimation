@@ -225,6 +225,19 @@ https://doi.org/10.1016/j.rser.2015.07.153.
 Abstract: Access to electricity is widely recognized as an important factor for economic and social development. Low rates of access, particularly in remote rural areas in regions such as sub-Saharan Africa, South Asia, and Southeast Asia, have led developing nations and international organizations to set ambitious goals to expand the reach of electricity. Decentralized solutions such as microgrids have been proposed as cost effective solutions to reaching communities located far from central grid infrastructure. Lack of capital from public and donor sources has severely impeded achieving access goals, leading to calls for greater private sector participation in electrification activities. However, due to the high level of risk associated with decentralized electrification projects in low-income areas, marginal expected returns on investment, and a lack of clear and effective public policy, the private sector has not shown significant interest in participating in such projects. The purpose of this paper is to review barriers to private sector participation in decentralized electrification projects and to identify solutions that have been implemented and proposed to overcome these barriers. The barriers discussed include unsecure revenue streams, inability to finance projects, and long-term project risks such as grid encroachment. The range of interventions and business models reviewed include methods to secure reliable demand, subsidy models, risk guarantees, and different revenue models. This paper does not include an analysis of the effectiveness of the different interventions described. Future research should evaluate the relative costs and benefits of these interventions in order to provide robust policy guidance to decision makers in developing countries.
 Keywords: Rural electrification; Private sector; Energy poverty; Microgrid
 
+Sara Ghaem Sigarchian, Rita Paleta, Anders Malmquist, André Pina,
+Feasibility study of using a biogas engine as backup in a decentralized hybrid (PV/wind/battery) power generation system – Case study Kenya,
+Energy,
+Volume 90, Part 2,
+2015,
+Pages 1830-1841,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2015.07.008.
+(https://www.sciencedirect.com/science/article/pii/S0360544215009020)
+Abstract: In this study, a hybrid power system consisting of PV (Photovoltaics) panels, a wind turbine and a biogas engine is proposed to supply the electricity demand of a village in Kenya. The average and the peak load of the village are around 8 kW and 16.5 kW respectively. The feasibility of using locally produced biogas to drive a backup engine in comparison to using a diesel engine as backup has been explored through a techno-economic analysis using HOMER (Hybrid Optimization Model for Electric Renewables). This hybrid system has also been compared with a single diesel based power system. The results show that the hybrid system integrated with the biogas engine as backup can be a better solution than using a diesel engine as backup. The share of power generation by PV, wind and biogas are 49%, 19% and 32%, respectively. The LCOE (Levelized Cost of Electricity) of generated electricity by this hybrid system ($0.25/kWh) is about 20% cheaper than that with a diesel engine as backup ($0.31/kWh), while the capital cost and the total NPC (Net Present Cost) are about 30% and 18% lower, respectively. Regarding CO2 emissions, using a biogas engine as backup saves 17 tons of CO2 per year compared to using the diesel engine as backup.
+Keywords: Biogas engine; Decentralized energy system; Polygeneration; Techno-economic optimization; HOMER; Rural electrification
+
+
 Lanre Olatomiwa, Saad Mekhilef, A.S.N. Huda, Olayinka S. Ohunakin,
 Economic evaluation of hybrid energy systems for rural electrification in six geo-political zones of Nigeria,
 Renewable Energy,
@@ -327,6 +340,30 @@ https://doi.org/10.1016/j.apenergy.2015.10.141.
 Abstract: Due to an expanding integration of renewable energy resources in the power systems, mismatches between electricity supply and demand will increase. A promising solution to deal with these issues is Demand Response (DR), which incentives end-users to be flexible in their electricity consumption. This paper presents a bottom up simulation model that generates office building electricity load profiles representative for Northern Europe. The model connects behavioral aspects of office workers with electricity usage from appliances, and physical representation of the building to describe the energy use of the Heating Ventilation and Air Conditioning systems. To validate the model, simulations are performed with respect to two data sets, and compared with real load measurements. The validation shows that the model can reproduce load profiles with reasonable accuracy for both data sets. With the presented model approach, it is possible to define simple portfolio office building models which subsequently can be used for simulation and analysis of DR in the power systems.
 Keywords: Office electricity demand; Office building design and architecture; HVAC system; Markov-chain models; Demand response; Holistic
 
+Anna Marszal-Pomianowska, Per Heiselberg, Olena Kalyanova Larsen,
+Household electricity demand profiles – A high-resolution load model to facilitate modelling of energy flexible buildings,
+Energy,
+Volume 103,
+2016,
+Pages 487-501,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2016.02.159.
+(https://www.sciencedirect.com/science/article/pii/S0360544216302213)
+Abstract: The objective is to present a high-resolution model of household electricity use developed based upon a combination of measured and statistical data. It is a bottom-up model, which uses the 1-min cycle power use characteristics of a single appliance as the main building block. The effect of parameters, such as the number of occupants and their attitude towards energy use is included in the model. Moreover, the model accounts for phenomena related to unexpected weather conditions and local/national events, e.g. TV shows. The main aim of model is to generate high-resolution household load profiles for investigation of flexibility potential of domestic appliances and network modelling. The model is validated with two datasets of 1-h and 5-min data from 89 to 16 households, respectively. The comparison between measured and modelled values indicates that model well captures the characteristics of domestic electricity load profiles on a daily as well seasonal basis. For high-resolution data, the model represents well the differences in demand between households of dissimilar size as well as the diversity of demand between households of the same size. For the individual household, the high-end power consumption is under-represented since the timing of peaks is more diverse in the model.
+Keywords: Household load profiles; Flexible demand; Energy modelling; Domestic electricity consumption
+
+M. Nijhuis, M. Gibescu, J.F.G. Cobben,
+Bottom-up Markov Chain Monte Carlo approach for scenario based residential load modelling with publicly available data,
+Energy and Buildings,
+Volume 112,
+2016,
+Pages 121-129,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2015.12.004.
+(https://www.sciencedirect.com/science/article/pii/S0378778815304436)
+Abstract: In the residential sector, with the introduction of electric vehicles and photovoltaics, developments are taking place which have an impact on residential load curves. In order to assess the integration of these new types of technologies on both the generation and load side, as well as to develop mitigation strategies like demand side management, detailed information is required about the load curve of a household. To gain knowledge about this load curve a residential load model is developed based on publicly available data. The model utilises a Markov Chain Monte Carlo method to model the occupancy in a household based on time use surveys, which together with weather variables, neighbourhood characteristics and behavioural data are used to model the switching pattern of appliances. The modelling approach described in this paper is applied for the situation in the Netherlands. The resulting load curve probability distributions are validated with smart meter measurements for 100 Dutch households for a week. The validation shows that the model presented in this paper can be employed for further studies on demand side management approaches and integration issues of new appliances in distribution grids.
+Keywords: Residential energy consumption modelling; Electricity consumption; Occupancy; Household appliance; Markov Chain; Load curves
+
 
 Normazlina Mat Isa, Himadry Shekhar Das, Chee Wei Tan, A.H.M. Yatim, Kwan Yiew Lau,
 A techno-economic assessment of a combined heat and power photovoltaic/fuel cell/battery energy system in Malaysia hospital,
@@ -382,6 +419,8 @@ Abstract: A microgrid system, be it connected to the utility grid or an independ
 Keywords: load forecasting; renewable energy forecasting; microgrids; persistence
 
 Subieta, S.L., Tarantino, A., Sabatini, S., Riva, F., Bonamini, G., & Quoilin, S. (2017). Feasibility Study of PV & Li-Ion Battery Based Micro-Grids for Bolivian Off-Grid Communities.
+
+D. J. Zimmerle and S. H. Kuppa, "Statistical failure estimation method to size off-grid electrical systems for villages in developing countries," 2017 IEEE Global Humanitarian Technology Conference (GHTC), San Jose, CA, USA, 2017, pp. 1-6, doi: 10.1109/GHTC.2017.8239285.
 
 Avishek Ray, Kuntal Jana, Sudipta De,
 Polygeneration for an off-grid Indian village: Optimization by economic and reliability analysis,
