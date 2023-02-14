@@ -7,12 +7,16 @@
 ## 1961 - 1970
 ## 1971 - 1980
 ## 1981 - 1990
+C. W. Gellings and R. W. Taylor, "Electric Load Curve Synthesis - A Computer Simulation of an Electric Utility Load Shape," in IEEE Transactions on Power Apparatus and Systems, vol. PAS-100, no. 1, pp. 60-65, Jan. 1981, doi: 10.1109/TPAS.1981.316887.
+
 Aigner, D. J., Sorooshian, C., & Kerwin, P. (1984). Conditional Demand Analysis for Estimating Residential End-Use Load Profiles. The Energy Journal, 5(3), 81–97. http://www.jstor.org/stable/41321696
 
 ## 1991 - 2000
 Capasso, A, Lamedica, R, Prudenzi, A, and Grattieri, W. A bottom-up approach to residential load modeling. United States: N. p., 1994. Web. doi:10.1109/59.317650.
 
 R. Ruther, D. C. Martins and E. Bazzo, "Hybrid diesel/photovoltaic systems without storage for isolated mini-grids in Northern Brazil," Conference Record of the Twenty-Eighth IEEE Photovoltaic Specialists Conference - 2000 (Cat. No.00CH37036), Anchorage, AK, USA, 2000, pp. 1567-1570, doi: 10.1109/PVSC.2000.916196.
+
+S. A. Villalba and C. A. Bel, "Hybrid demand model for load estimation and short term load forecasting in distribution electric systems," in IEEE Transactions on Power Delivery, vol. 15, no. 2, pp. 764-769, April 2000, doi: 10.1109/61.853017.
 
 ## 2001 - 2010
 H. Murata and T. Onoda, "Estimation of power consumption for household electric appliances," Proceedings of the 9th International Conference on Neural Information Processing, 2002. ICONIP '02., Singapore, 2002, pp. 2299-2303 vol.5, doi: 10.1109/ICONIP.2002.1201903.
@@ -556,11 +560,43 @@ https://doi.org/10.1016/j.aei.2019.100945.
 Abstract: The prospering Big data era is emerging in the power grid. Multiple world-wide studies are emphasizing the big data applications in the microgrid due to the huge amount of produced data. Big data analytics can impact the design and applications towards safer, better, more profitable, and effective power grid. This paper presents the recognition and challenges of the big data and the microgrid. The construction of big data analytics is introduced. The data sources, big data opportunities, and enhancement areas in the microgrid like stability improvement, asset management, renewable energy prediction, and decision-making support are summarized. Diverse case studies are presented including different planning, operation control, decision making, load forecasting, data attacks detection, and maintenance aspects of the microgrid. Finally, the open challenges of big data in the microgrid are discussed.
 Keywords: Big data; Microgrid
 
+Simone Ferrari, Federica Zagarella, Paola Caputo, Antonino D'Amico,
+Results of a literature review on methods for estimating buildings energy demand at district level,
+Energy,
+Volume 175,
+2019,
+Pages 1130-1137,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2019.03.172.
+(https://www.sciencedirect.com/science/article/pii/S0360544219305924)
+Abstract: In the framework of distributed energy planning, evaluating reliable energy profiles of different sectors has a prominent role. At the same time, it is a quite challenging task, since the availability of actual energy profiles of buildings at the district level is not widespread. A survey of over 70 studies in scientific literature has been accomplished and a set of criteria has been defined for classifying the selected contributions based on the energy demand data features, source and/or estimation methods, highlighting the ones adopting hourly energy profiles. As final results, tables summarizing the main methods characteristics and a selection of studies providing directly useable energy profiles are reported. Therefore, this study could be useful for stakeholders involved in energy simulations of buildings stocks and community energy planning in assessing the buildings energy demand, with different desired level of detail and available data. The research, broadly, demonstrates that the potential replicability of analysed methods is constrained to the datasets availability and, particularly, highlights the need of reliable hourly energy profiles definition for developing accurate energy scenarios.
+Keywords: Urban district energy planning; Distributed energy systems; Urban district energy demand estimation; Urban energy profiles estimation methods; Buildings hourly energy consumptions
+
+
 Yousif M, Ai Q, Gao Y, Wattoo WA, Hao R, Jiang Z. Dataset for Scheduling Strategies for Microgrids Coupled with Natural Gas Networks. Data. 2019; 4(1):24. https://doi.org/10.3390/data4010024
 
 Lorenzoni, Luca & Cherubini, Paolo & Fioriti, Davide & Poli, Davide & Micangeli, Andrea & Giglioli, Romano. (2020). Classification and modeling of load profiles of isolated mini-grids in developing countries: A data-driven approach. Energy for Sustainable Development. 59. 208-225. 10.1016/j.esd.2020.10.001. 
 
+Tianzhen Hong, Zhe Wang, Xuan Luo, Wanni Zhang,
+State-of-the-art on research and applications of machine learning in the building life cycle,
+Energy and Buildings,
+Volume 212,
+2020,
+109831,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2020.109831.
+(https://www.sciencedirect.com/science/article/pii/S0378778819337879)
+Abstract: Fueled by big data, powerful and affordable computing resources, and advanced algorithms, machine learning has been explored and applied to buildings research for the past decades and has demonstrated its potential to enhance building performance. This study systematically surveyed how machine learning has been applied at different stages of building life cycle. By conducting a literature search on the Web of Knowledge platform, we found 9579 papers in this field and selected 153 papers for an in-depth review. The number of published papers is increasing year by year, with a focus on building design, operation, and control. However, no study was found using machine learning in building commissioning. There are successful pilot studies on fault detection and diagnosis of HVAC equipment and systems, load prediction, energy baseline estimate, load shape clustering, occupancy prediction, and learning occupant behaviors and energy use patterns. None of the existing studies were adopted broadly by the building industry, due to common challenges including (1) lack of large scale labeled data to train and validate the model, (2) lack of model transferability, which limits a model trained with one data-rich building to be used in another building with limited data, (3) lack of strong justification of costs and benefits of deploying machine learning, and (4) the performance might not be reliable and robust for the stated goals, as the method might work for some buildings but could not be generalized to others. Findings from the study can inform future machine learning research to improve occupant comfort, energy efficiency, demand flexibility, and resilience of buildings, as well as to inspire young researchers in the field to explore multidisciplinary approaches that integrate building science, computing science, data science, and social science.
+Keywords: Machine learning; Artificial intelligence; Buildings; Building life cycle; Building control; Building performance
+
+
 Fekri MN, Ghosh AM, Grolinger K. Generating Energy Data for Machine Learning with Recurrent Generative Adversarial Networks. Energies. 2020; 13(1):130. https://doi.org/10.3390/en13010130
+
+Wang, Y., Chen, Q., Kang, C. (2020). Residential Load Data Generation. In: Smart Meter Data Analytics. Springer, Singapore. https://doi.org/10.1007/978-981-15-2624-4_5
+
+Kababji, Samer & Srikantha, Pirathayini. (2020). A Data-Driven Approach for Generating Synthetic Load Patterns and Usage Habits. IEEE Transactions on Smart Grid. PP. 1-1. 10.1109/TSG.2020.3007984. 
+
+Roth, Jonathan & Martin, Amory & Miller, Clayton & Jain, Rishee. (2020). SynCity: Using open data to create a synthetic city of hourly building energy estimates by integrating data-driven and physics-based methods. Applied Energy. 280. 10.1016/j.apenergy.2020.115981. 
 
 Zhe Wang, Tianzhen Hong,
 Generating realistic building electrical load profiles through the Generative Adversarial Network (GAN),
@@ -592,6 +628,19 @@ Falchetta, Giacomo & Stevanato, Nicolo & Moner-Girona, Magda & Mazzoni, Davide &
 Massidda L, Marrocu M, Manca S. Non-Intrusive Load Disaggregation by Convolutional Neural Network and Multilabel Classification. Applied Sciences. 2020; 10(4):1454. https://doi.org/10.3390/app10041454
 ## 2021 and after
 A. Yadav, S. Khan and M. T. Aahmad, "Economics and Environment Analysis of Hybrid System for Rural Hilly Terrain," 2021 1st International Conference on Power Electronics and Energy (ICPEE), Bhubaneswar, India, 2021, pp. 1-6, doi: 10.1109/ICPEE50452.2021.9358650.
+
+Cristina Dominguez, Kristina Orehounig, Jan Carmeliet,
+Estimating hourly lighting load profiles of rural households in East Africa applying a data-driven characterization of occupant behavior and lighting devices ownership,
+Development Engineering,
+Volume 6,
+2021,
+100073,
+ISSN 2352-7285,
+https://doi.org/10.1016/j.deveng.2021.100073.
+(https://www.sciencedirect.com/science/article/pii/S2352728521000154)
+Abstract: To design energy access solutions for rural households in developing countries it is important to have an accurate estimation of what their electricity consumption is. Studies reveal that they mainly use electricity to meet their lighting needs, as they cannot afford high power-consuming appliances. However, the scarce data availability and modeling complexity are a challenge to compute correctly the load profiles without collecting data on-site. This paper presents a methodology that computes the hourly lighting load profiles of rural households in East Africa requiring a small amount of publicly available input data. Combining data from household surveys, climate, and satellite imagery, the methodology applies machine learning for determining occupant behavior patterns, and lamps ownership for indoor and outdoor usage. For this, an average prediction accuracy of 80% is reached. After applying lighting requirement functions, load profiles are generated and then validated using measured data from 13 households in Kenya. Results show that the methodology is able to compute the load profiles with an average normalized root mean squared error of 0.7%, which is less compared to existing simulation approaches using on-site data. To demonstrate a broad application, the monthly lighting consumption is computed and projected geospatially for households in Kenya.
+Keywords: Lighting; Energy demand; Electricity consumption; Occupant behavior; Energy access; Rural electrification
+
 
 Gaby Baasch, Guillaume Rousseau, Ralph Evins,
 A Conditional Generative adversarial Network for energy use in multiple buildings using scarce data,
@@ -724,3 +773,5 @@ https://doi.org/10.1016/B978-0-323-90396-7.00013-4.
 (https://www.sciencedirect.com/science/article/pii/B9780323903967000134)
 Abstract: Planners at utilities want automated and accurate load forecasts for short-, medium- and long-term load planning. Accurate forecasts are crucial to meet future load demand in response to national growth and to use as a baseline for tariff discussions. Here we propose an end-to-end approach for the data model, forecast model, and forecasting and demand reporting methods. Such an approach can help plan distribution across various geographic areas, such as urban areas, development areas, remote villages/villages, agricultural land, and farms. Such a solution and approach would also look at a top-down forecasting model to consider the electricity consumption pattern relative to macroeconomic factors and weather-related parameters and then disaggregate it while considering distribution losses and other parameters. This model also addresses the rebalancing of peak demand within a feeder. Optimization techniques can create a group of feeders for optimal demand management without needing a new feeder or substation. This study can be used for multiple purposes, and this system can provide a higher degree of predictability and productivity to identify gaps and accelerate reconciliation. Automated and peak load prediction solutions based on data and artificial intelligence can help create a variety of energy demand scenarios for annual peak load and energy requirements. Accurate load prediction can reduce the cost of holding capacity and reliably avoid power and related outages. Automating the forecasting process can help achieve consistent forecasting, supplement field knowledge, and reduce manual errors, leading to timely, high-level forecasts and efficient use of human resources.
 Keywords: Artificial intelligence; Data quality; Demand management; Electricity distribution management; Load forecasting; Time series analysis
+
+Dong, B., Liu, Y., Mu, W. et al. A Global Building Occupant Behavior Database. Sci Data 9, 369 (2022). https://doi.org/10.1038/s41597-022-01475-3
