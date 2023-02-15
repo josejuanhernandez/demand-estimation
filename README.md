@@ -624,6 +624,8 @@ https://doi.org/10.1016/j.rser.2015.04.020.
 Abstract: District heating systems can play significant role in achieving stringent targets for CO2 emissions with concurrent increase in fuel efficiency. However, there are a lot of the potentials for future improvement of their operation. One of the potential domains is control and prediction. Control of the most district heating systems is feed forward without any feedback from consumers. With reliable predictions of consumers heat need, production could be altered to match the real consumers’ needs. This will have effect on lowering the distribution cost, heat losses and especially on lowered return secondary and primary temperature which will result in increase of overall efficiency of combined heat and power plants. In this paper, to predict the heat load for individual consumers in district heating systems, an adaptive neuro-fuzzy inferences system (ANFIS) was constructed. Simulation results indicate that further improvements on model are needed especially for prediction horizons greater than 1h.
 Keywords: District heating systems; Heat load; Prediction; Neuro-fuzzy; ANFIS
 
+Mandelli, Stefano. (2016). Strategies for access to energy in developing countries: methods and models for off-grid power systems design. 
+
 Oladeji, Akinola & Sule, B.. (2015). Electrical Load Survey and Forecast for a Decentralized Hybrid Power System at Elebu, Kwara State, Nigeria. Nigerian Journal of Technology. 34. 591. 10.4314/njt.v34i3.23. 
 
 S.R. Tito, T.T. Lie, T.N. Anderson,
