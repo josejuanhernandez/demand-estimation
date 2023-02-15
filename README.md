@@ -59,6 +59,8 @@ https://doi.org/10.1016/j.enconman.2004.01.006.
 Abstract: The paper illustrates a combined approach based on unsupervised and supervised neural networks for the electric energy demand forecasting of a suburban area with a prediction time of 24 h. A preventive classification of the historical load data is performed during the unsupervised stage by means of a Kohonen's self organizing map (SOM). The actual forecast is obtained using a two layered feed forward neural network, trained with the back propagation with momentum learning algorithm. In order to investigate the influence of climate variability on the electricity consumption, the neural network is trained using weather data (temperature, relative humidity, global solar radiation) along with historical load data available for a part of the electric grid of the town of Palermo (Italy) from 2001 to 2003. The model validation is performed by comparing model predictions with load data that were not used for the network's training. The results obtained bear out the suitability of the adopted methodology for the short term load forecasting (STLF) problem also at so small a spatial scale as the suburban one.
 Keywords: Short term load forecasting; Weather-electricity demand relation; Artificial neural network (ANN); Self organizing map (SOM); Multi-layer perceptron (MLP)
 
+Feinberg, E.A. (2004). Chapter 12 LOAD FORECASTING.
+
 Stokes, M. (2005). Removing barriers to embedded generation : a fine-grained load model to support low voltage network performance analysis.
 
 Runming Yao, Koen Steemers,
@@ -78,6 +80,18 @@ Paatero, Jukka & Lund, P.. (2006). A model for generating household electricity 
 Giles, Lauren, Skolnik, Edward G, Marchionini, Brian, and Fall, Ndeye K. Remote Area Power Supply (RAPS) load and resource profiles.. United States: N. p., 2007. Web. doi:10.2172/912664.
 
 Muñoz, J., Narvarte, L. and Lorenzo, E. (2007), Experience with PV-diesel hybrid village power systems in Southern Morocco. Prog. Photovolt: Res. Appl., 15: 529-539. https://doi.org/10.1002/pip.756
+
+A.N. Celik,
+Effect of different load profiles on the loss-of-load probability of stand-alone photovoltaic systems,
+Renewable Energy,
+Volume 32, Issue 12,
+2007,
+Pages 2096-2115,
+ISSN 0960-1481,
+https://doi.org/10.1016/j.renene.2006.11.002.
+(https://www.sciencedirect.com/science/article/pii/S0960148106003296)
+Abstract: As well as the technical design criteria, the performance of a stand-alone photovoltaic (PV) system depends on other variables, such as the solar radiation distribution and load profile. Different load profiles are encountered in stand-alone PV applications. Load profiles may vary from 24-h constant to only nighttime or oppositely only daytime load profiles. This article presents results of system performance simulations for analysing the effect of different load profiles on the system performance. The load demand used in this article is appropriate for an average residential application with an average 9.4kWh of daily energy demand. The loss-of-load probability (LLP) of the PV system is simulated for five different weekly load profiles and the results are examined based on techno-economic parameters, including the total system cost or alternatively the cost of electricity per kWh for a 20-year system lifetime. The results are drawn based on 1-year long hourly time-series solar radiation and ambient temperature data.
+Keywords: Photovoltaic system performance; Stand-alone photovoltaic systems; Load profile; Loss-of-load probability
 
 K. Kato, M. Sakawa, Keiichi Ishimaru, S. Ushiro and Toshihiro Shibano, "Heat load prediction through recurrent neural network in district heating and cooling systems," 2008 IEEE International Conference on Systems, Man and Cybernetics, Singapore, 2008, pp. 1401-1406, doi: 10.1109/ICSMC.2008.4811482.
 
@@ -119,6 +133,18 @@ https://doi.org/10.1016/j.rser.2008.09.033.
 Abstract: There is a growing interest in reducing energy consumption and the associated greenhouse gas emissions in every sector of the economy. The residential sector is a substantial consumer of energy in every country, and therefore a focus for energy consumption efforts. Since the energy consumption characteristics of the residential sector are complex and inter-related, comprehensive models are needed to assess the technoeconomic impacts of adopting energy efficiency and renewable energy technologies suitable for residential applications. The aim of this paper is to provide an up-to-date review of the various modeling techniques used for modeling residential sector energy consumption. Two distinct approaches are identified: top-down and bottom-up. The top-down approach treats the residential sector as an energy sink and is not concerned with individual end-uses. It utilizes historic aggregate energy values and regresses the energy consumption of the housing stock as a function of top-level variables such as macroeconomic indicators (e.g. gross domestic product, unemployment, and inflation), energy price, and general climate. The bottom-up approach extrapolates the estimated energy consumption of a representative set of individual houses to regional and national levels, and consists of two distinct methodologies: the statistical method and the engineering method. Each technique relies on different levels of input information, different calculation or simulation techniques, and provides results with different applicability. A critical review of each technique, focusing on the strengths, shortcomings and purposes, is provided along with a review of models reported in the literature.
 Keywords: Residential energy model; Residential energy consumption; Housing energy model; Energy model
 
+Joakim Widén, Magdalena Lundh, Iana Vassileva, Erik Dahlquist, Kajsa Ellegård, Ewa Wäckelgård,
+Constructing load profiles for household electricity and hot water from time-use data—Modelling approach and validation,
+Energy and Buildings,
+Volume 41, Issue 7,
+2009,
+Pages 753-768,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2009.02.013.
+(https://www.sciencedirect.com/science/article/pii/S0378778809000413)
+Abstract: Time-use data, describing in detail the everyday life of household members as high-resolved activity sequences, have a largely unrealized potential of contributing to domestic energy demand modelling. A model for computation of daily electricity and hot-water demand profiles from time-use data was developed, using simple conversion schemes, mean appliance and water-tap data and general daylight availability distributions. Validation against detailed, end-use specific electricity measurements in a small sample of households reveals that the model for household electricity reproduces hourly load patterns with preservation of important qualitative features. The output from the model, when applied to a large data set of time use in Sweden, also shows correspondence to aggregate profiles for both household electricity and hot water from recent Swedish measurement surveys. Deviations on individual household level are predominantly due to occasionally ill-reported time-use data and on aggregate population level due to slightly non-representative samples. Future uses and developments are identified and it is suggested that modelling energy use from time-use data could be an alternative, or a complement, to energy demand measurements in households.
+Keywords: Load modelling; Time-use data; Household electricity; Hot water; Load profiles
+
 A. Rajoriya & E. Fernandez (2010) Sustainable energy generation using hybrid energy system for remote hilly rural area in India, International Journal of Sustainable Engineering, 3:3, 219-227, DOI: 10.1080/19397038.2010.484870
 
 Duffy, Aidan & McLoughlin, Fintan & Conlon, Michael. (2010). The Generation of Domestic Electricity Load Profiles through Markov Chain Modelling. 
@@ -141,6 +167,8 @@ Abstract: An Integrated Renewable Energy Optimization Model (IREOM) model has be
 Keywords: Sizing; Optimization; Off-grid electrification; Reliability index; Cost of energy
 
 J. Dickert and P. Schegner, "A time series probabilistic synthetic load curve model for residential customers," 2011 IEEE Trondheim PowerTech, Trondheim, Norway, 2011, pp. 1-6, doi: 10.1109/PTC.2011.6019365.
+
+Mahmud, Md. Apel. (2011). Isolated Area Load Forecasting Using Linear Regression Analysis: Practical Approach. Energy and Power Engineering. 3. 10.4236/epe.2011.34067. 
 
 Lal, Deepak & Dash, Bibhuti & Akella, A.K.. (2011). Optimization of PV/Wind/Micro-Hydro/Diesel Hybrid Power System in HOMER for the Study Area. International Journal on Electrical Engineering and Informatics. 3. 307-325. 10.15676/ijeei.2011.3.3.4. 
 
@@ -240,6 +268,8 @@ https://doi.org/10.1016/j.apenergy.2012.07.017.
 Abstract: According to the records of Hong Kong rail operator, MTR Corporation, the weekly electrical consumption of each railway station ranges from 18MWh to 230MWh. Since the electrical consumption of stations is a major factor in the planning of infrastructure, a good prediction of the electrical consumption will greatly assist in the design of the station infrastructure. This study develops an intelligent approach to predict the energy consumption of railway stations. Multi-layered Perceptron (MLP) is adopted to mimic the non-linear correlation between energy consumption, the spatial design of the station, meteorological factors and also the usage of the 19 stations selected. Coefficient of correlation is obtained between the MLP predicted results and the actual collected data to evaluate the performance of the prediction. We apply statistical approach to assess the performance of the developed MLP model. It shows that minimum coefficient of correlation is 0.96 with a 95% confidence level which is considered sufficient for engineering application. This approach is also adopted to predict the profile of the weekly electrical consumption of a selected station. The predicted profile reasonably agrees with that of the actual consumption. This study develops a useful tool to estimate the electrical power consumption of new MTR stations.
 Keywords: Artificial neural network; Energy consumption; Subway station
 
+Islam, Asif & Hasib, Samiur & Shariful Islam, Md. (2013). Short term electricity demand forecasting of an isolated area using two different approach. Journal of Power Technololies. 93. 185-193. 
+
 B. Ould. Bilal, V. Sambou, P.A. Ndiaye, C.M.F. Kébé, M. Ndongo,
 Study of the Influence of Load Profile Variation on the Optimal Sizing of a Standalone Hybrid PV/Wind/Battery/Diesel System,
 Energy Procedia,
@@ -281,6 +311,8 @@ https://doi.org/10.1016/j.energy.2014.07.064.
 (https://www.sciencedirect.com/science/article/pii/S036054421400886X)
 Abstract: Load forecasting is critical for planning and optimizing operations for large energy systems on a dynamic basis. As system complexity increases, the task of developing accurate forecasting models from first principles becomes increasingly impractical. However, for large campuses with many buildings, the large sample size has a smoothing effect on the data so that aggregate trends can be predicted using empirical modeling techniques. The distinguishing features of this work are the large scale of the energy system (a college campus with approximately 70,000 students and employees) and the simultaneous forecasting of heating, cooling, and electrical loads. This work evaluates several different models and discusses each model's ability to accurately forecast hourly loads for a district energy system up to 24 h in advance using weather and time variables (month, hour, and day) as inputs. A NARX (Nonlinear Autoregressive Model with Exogenous Inputs) shows the best fit to data. This time series model uses a neural network with recursion so that measured loads can be used as a reference point for future load predictions. 95% confidence limits are used to quantify the uncertainty of the predictions and the model is validated with measured data and shown to be accurate for a 24 h prediction.
 Keywords: Load forecasting; District energy; Combined heat and power; Energy storage; Distributed energy; Microgrid
+
+Flynn, Damian & Neu, Olivier & sherlock, bronagh & Oxizidis, Simeon & finn, donal. (2014). Developing building archetypes for electrical load shifting assessment: Analysis of Irish residential stock. 
 
 B. J. Johnson, M. R. Starke, O. A. Abdelaziz, R. K. Jackson and L. M. Tolbert, "A MATLAB based occupant driven dynamic model for predicting residential power demand," 2014 IEEE PES T&D Conference and Exposition, Chicago, IL, USA, 2014, pp. 1-5, doi: 10.1109/TDC.2014.6863381.
 
@@ -455,6 +487,8 @@ https://doi.org/10.1016/j.rser.2015.04.020.
 Abstract: District heating systems can play significant role in achieving stringent targets for CO2 emissions with concurrent increase in fuel efficiency. However, there are a lot of the potentials for future improvement of their operation. One of the potential domains is control and prediction. Control of the most district heating systems is feed forward without any feedback from consumers. With reliable predictions of consumers heat need, production could be altered to match the real consumers’ needs. This will have effect on lowering the distribution cost, heat losses and especially on lowered return secondary and primary temperature which will result in increase of overall efficiency of combined heat and power plants. In this paper, to predict the heat load for individual consumers in district heating systems, an adaptive neuro-fuzzy inferences system (ANFIS) was constructed. Simulation results indicate that further improvements on model are needed especially for prediction horizons greater than 1h.
 Keywords: District heating systems; Heat load; Prediction; Neuro-fuzzy; ANFIS
 
+Oladeji, Akinola & Sule, B.. (2015). Electrical Load Survey and Forecast for a Decentralized Hybrid Power System at Elebu, Kwara State, Nigeria. Nigerian Journal of Technology. 34. 591. 10.4314/njt.v34i3.23. 
+
 S.R. Tito, T.T. Lie, T.N. Anderson,
 Optimal sizing of a wind-photovoltaic-battery hybrid renewable energy system considering socio-demographic factors,
 Solar Energy,
@@ -516,6 +550,18 @@ https://doi.org/10.1016/j.energy.2015.11.079.
 (https://www.sciencedirect.com/science/article/pii/S0360544215016424)
 Abstract: District heating systems operation can be improved by control strategies. One of the options is the introduction of predictive control model. Predictive models of heat load can be applied to improve district heating system performances. In this article, short-term multistep-ahead predictive models of heat load for consumers connected to district heating system were developed using SVMs (Support Vector Machines) with FFA (Firefly Algorithm). Firefly algorithm was used to optimize SVM parameters. Seven SVM-FFA predictive models for different time horizons were developed. Obtained results of the SVM-FFA models were compared with GP (genetic programming), ANNs (artificial neural networks), and SVMs models with grid search algorithm. The experimental results show that the developed SVM-FFA models can be used with certainty for further work on formulating novel model predictive strategies in district heating systems.
 Keywords: District heating systems; Heat load; Estimation; Prediction; Support Vector Machines; Firefly algorithm
+
+Henry Louie, Peter Dauenhauer,
+Effects of load estimation error on small-scale off-grid photovoltaic system design, cost and reliability,
+Energy for Sustainable Development,
+Volume 34,
+2016,
+Pages 30-43,
+ISSN 0973-0826,
+https://doi.org/10.1016/j.esd.2016.08.002.
+(https://www.sciencedirect.com/science/article/pii/S097308261630374X)
+Abstract: The proliferation of off-grid photovoltaic (PV) systems is rapidly increasing in the least developed countries. The sizing of system components—primarily PV panels and batteries—is critically influenced by the expected daily load. However, accurately estimating incipient electrical load of rural consumers is fraught with challenges. Load estimation error is propagated through the design phase, potentially resulting in a system that is unduly expensive or fails to meet reliability targets. This article investigates the effects of daily load estimation error on system design, cost and reliability. Load and insolation data from seven off-grid systems in Malawi were collected. The systems were redesigned using three different intuitive design approaches considering different levels of load estimation error, ranging from ±90% of the actual measured load. The cost of each design is estimated from in-country prices. The reliability of each design is determined from an hourly simulation using the measured data. The results show that PV array and battery sizing scale proportionately with load estimation error and that the cost of load over-estimation is approximately US$1.92 to US$6.02 per watthour, whereas under-estimation can precipitously degrade reliability. A cost-versus-reliability analysis shows that for the Malawi systems, on average 46% of the PV and battery costs are used to improve the simulated hourly reliability from 99% to 100%. Moreover, the results point to the challenges with intuitive design approaches, showing that consideration of average load alone can lead to over- or under-designed systems.
+Keywords: Microgrids; Solar power; Reliability; Rural electrification
 
 Stefano Mandelli, Marco Merlo, Emanuela Colombo,
 Novel procedure to formulate load profiles for off-grid rural areas,
@@ -592,6 +638,19 @@ https://doi.org/10.1016/j.esd.2017.08.002.
 Abstract: Mini-grids for rural electrification in developing countries are growing in popularity but are not yet widely deployed. A key barrier of mini-grid proliferation is the uncertainty in predicting customer electricity consumption, which adds financial risk. Energy-use surveys deployed in the pre-feasibility stage that capture present and aspirational consumption are intended to reduce this uncertainty. However, the general reliability and accuracy of these surveys has not been demonstrated. This research compares survey-predicted electrical energy use to actual measured consumption of customers of eight mini-grids in rural Kenya. A follow-up audit compares the aspirational inventory of appliances to the realized inventory. The analysis shows that the ability to accurately estimate past consumption based on survey or audit data, even in a relatively short time-horizon is prone to appreciable error — a mean absolute error of 426Wh/day per customer on a mean consumption of 113Wh/day per customer. An alternative data-driven proxy village approach, which uses average customer consumption from each mini-grid to predict consumption at other mini-grids, was more accurate and reduced the mean absolute error to 75Wh/day per customer. Hourly load profiles were constructed to provide insight into potential causes of error and to suggest how the data provided in this work can be used in computer-aided mini-grid design programs.
 Keywords: Micro-grids; Mini-grids; Rural electrification; Energy estimation; Energy-use survey; Solar power
 
+S. Mandelli, C. Brivio, M. Moncecchi, F. Riva, G. Bonamini, M. Merlo,
+Novel LoadProGen procedure for micro-grid design in emerging country scenarios: application to energy storage sizing,
+Energy Procedia,
+Volume 135,
+2017,
+Pages 367-378,
+ISSN 1876-6102,
+https://doi.org/10.1016/j.egypro.2017.09.528.
+(https://www.sciencedirect.com/science/article/pii/S1876610217346404)
+Abstract: This paper is devoted to describe the development, implementation and application of a novel procedure to properly design the electrification process in rural areas of Emerging Countries (EC). The procedure exploits a bottom-up approach, i.e. target applications are related to micro-grids devoted to satisfy the electrical needs of small communities. The procedure starts from microscopic data (i.e. single electric appliances) to effectively catch the customer needs (i.e. bottom) and it matches them with the available energy sources in the target area. In particular, a tool named LoadProGen developed by the Energy4Growing research group of Politecnico di Milano, is presented: the mathematical approach proposed is detailed and a real field case study relevant to a micro-grid deployed in Tanzania is provided. The tool is based on the gathering of information about the target area, i.e. to get information from interview and field audit, and on a stochastic approach to build up realistic estimation of the electric load profile of the considered uses. The energy needs forecast (cfr. load profile) is then adopted in a second procedure devoted to design a micro-grid capable to properly feed the loads. In this work, for sake of exemplification, this latter is supposed to be a photovoltaic based micro-grid integrated with an electrochemical storage.
+Keywords: Microgrid; Emerging Countries; Electrochemical Energy Storage; Photovolatic; Energy Design
+
+Boait P, Gammon R, Advani V, Wade N, Greenwood D, Davison P. ESCoBox: A Set of Tools for Mini-Grid Sustainability in the Developing World. Sustainability. 2017; 9(5):738. https://doi.org/10.3390/su9050738
 
 Chukwuma Leonard Azimoh, Patrik Klintenberg, Charles Mbohwa, Fredrik Wallin,
 Replicability and scalability of mini-grid solution to rural electrification programs in sub-Saharan Africa,
@@ -687,6 +746,17 @@ https://doi.org/10.1016/j.enbuild.2019.109355.
 Abstract: The relationship among occupants’ presence, activities and appliance use is essential for households’ energy use. In the present work, we aimed to link occupants’ energy-related activities to electricity demand, in order to obtain a representative daily electricity load profile for Danish households using Danish time-use survey (DTUS) data. The approach was to combine appliance ownership and power ratings with occupant activities from the DTUS. Two modelling approaches were implemented: in the first approach, the occupant activities profiles from the DTUS were used directly to determine activities at 10-minute intervals. In the second approach, the probabilities of starting time and duration of the occupant activities were used to determine activities. In both approaches, appliance use was assigned to the energy-related activities. The set of appliances used in each activity was determined from a national database of appliance ownership, and the appliances’ power was calibrated using information from apartments in Copenhagen, Denmark. The modelled daily electricity load profile was compared with three measured datasets of varying sizes and from different parts of Denmark. Both approaches captured important qualitative characteristics of the measured load profiles. However, the first approach used a more simple method and resulted in smaller errors than the second approach.
 Keywords: Household electricity profile; Time-use survey data; Load modelling; Daily load profiles; Residential building
 
+K. Murugaperumal, P. Ajay D Vimal Raj,
+Feasibility design and techno-economic analysis of hybrid renewable energy system for rural electrification,
+Solar Energy,
+Volume 188,
+2019,
+Pages 1068-1083,
+ISSN 0038-092X,
+https://doi.org/10.1016/j.solener.2019.07.008.
+(https://www.sciencedirect.com/science/article/pii/S0038092X19306620)
+Abstract: This paper validates the optimal design and techno-economic feasibility of hybrid renewable energy system (HRES) for rural area electrifying applications. Plan to a design of improved performance electrification system through village owned renewable resources, such as solar irradiations, wind speed and bio mass etc. The selected HRE system has to meet out electrical needs in optimum performance manner. Hear conducted a case study on remote village Korkadu is located in Union Territory of Pondicherry, India. The expected village demand of 179.32 Kwh/day and peak of 19.56 Kw was met with proposed HRE structure, which is consists of solar PV array, wind turbine, Bio mass power generator and Battery backup system in effectively. Load growth of the village was predicted through artificial neural network (ANN-BP) feed-back propagation and Levenberg-Marguardt (LM) data training optimum technique. Encounter the optimum performance of different HRE configuration was evaluated over by HOMER software. System’s economic dispatch was analysed through various dispatch strategy and come across the proposing companied dispatch strategy has more economical and performance benefits as total NPC of system as INR 1.21 million, one unit energy generation cost as INR 13.71 and annual battery throughput as 36.648 KWh/yr. This study also expresses the comparison analysis between proposed HRES structure performance with basic utility grid extension. The consequence of the proposed work shows the HRES in remote location can be a cost effective solution for sustainable development of rural regions.
+Keywords: Rural Electrification; PV; Wind; Bio-energy; Hybrid energy system; Economic analysis; Investment resource management
 
 Barelli L, Bidini G, Cherubini P, Micangeli A, Pelosi D, Tacconelli C. How Hybridization of Energy Storage Technologies Can Provide Additional Flexibility and Competitiveness to Microgrids in the Context of Developing Countries. Energies. 2019; 12(16):3138. https://doi.org/10.3390/en12163138
 
@@ -802,6 +872,20 @@ Keywords: Machine learning; Artificial intelligence; Buildings; Building life cy
 Fekri MN, Ghosh AM, Grolinger K. Generating Energy Data for Machine Learning with Recurrent Generative Adversarial Networks. Energies. 2020; 13(1):130. https://doi.org/10.3390/en13010130
 
 Wang, Y., Chen, Q., Kang, C. (2020). Residential Load Data Generation. In: Smart Meter Data Analytics. Springer, Singapore. https://doi.org/10.1007/978-981-15-2624-4_5
+
+Krishnamoorthy Murugaperumal, Suresh Srinivasn, G.R.K.D. Satya Prasad,
+Optimum design of hybrid renewable energy system through load forecasting and different operating strategies for rural electrification,
+Sustainable Energy Technologies and Assessments,
+Volume 37,
+2020,
+100613,
+ISSN 2213-1388,
+https://doi.org/10.1016/j.seta.2019.100613.
+(https://www.sciencedirect.com/science/article/pii/S2213138818306325)
+Abstract: This paper demonstrates the optimum design and techno-economic assessment of hybrid renewable energy system (HRES) for rural electrification in the remote district of Korkadu, India. The renewable energy resources namely solar photovoltaic, wind turbine and bio generators are considered as the main sources because of its high potential in Korkadu district. This paper estimates the load forecasting for the selected district, which is a mixture of different load patterns namely residential, commercial, institutional and agricultural demands. The desired HRES has to meet the forecasted load demand for reliable electrification. The optimum design and techno-economic analysis of proposed HRES system is carried using powerful tool HOMER. This study also compares HRES’s operational behavior with different operational strategies such as load following strategy, cycle charging strategy and combined strategy of the system. The outcome of the proposed dispatched strategy expressed the contribution of solar power as 86.8%, wind as 12.7% and bio gen power as 0.5% to meet out developed rural load pattern with 6.8% of battery bank losses and 1.78% of converter losses. This research work also illustrate the HRES based power generation can be a cost effective sustainable power alternative to the conventional grid extension system.
+Keywords: Hybrid renewable energy system (PV/wind/Bioenergy); Rural electrification; Load following; Cycle charging and combined dispatch strategy; Techno-economic analysis
+
+Narayan, Nishant & Qin, Zian & Popovic, Jelena & Diehl, Jan Carel & Bauer, Pavol & Zeman, Miro. (2020). Stochastic load profile construction for the multi-tier framework for household electricity access using off-grid DC appliances. Energy Efficiency. 13. 10.1007/s12053-018-9725-6. 
 
 Kababji, Samer & Srikantha, Pirathayini. (2020). A Data-Driven Approach for Generating Synthetic Load Patterns and Usage Habits. IEEE Transactions on Smart Grid. PP. 1-1. 10.1109/TSG.2020.3007984. 
 
