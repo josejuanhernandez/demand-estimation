@@ -12,14 +12,52 @@ C. W. Gellings and R. W. Taylor, "Electric Load Curve Synthesis - A Computer Sim
 Aigner, D. J., Sorooshian, C., & Kerwin, P. (1984). Conditional Demand Analysis for Estimating Residential End-Use Load Profiles. The Energy Journal, 5(3), 81–97. http://www.jstor.org/stable/41321696
 
 ## 1991 - 2000
+Robert Bartels, Denzil G. Fiebig, Michael Garben, Robert Lumsdaine,
+An end-use electricity load simulation model: Delmod,
+Utilities Policy,
+Volume 2, Issue 1,
+1992,
+Pages 71-82,
+ISSN 0957-1787,
+https://doi.org/10.1016/0957-1787(92)90055-N.
+(https://www.sciencedirect.com/science/article/pii/095717879290055N)
+Abstract: DELMOD is a domestic end-use forecasting and simulation model for the residential electricity load curve in New South Wales, Australia. For a given scenario it produces profiles for average working and non-working days for a given month. With its detailed representation of the appliance stock and socio-demographic characteristics, and its facilities for investigating conservation effects and weather sensitivity, it is an extremely flexible tool for examining a great variety of future scenarios. The paper outlines the structure of DELMOD, discusses the estimation procedures employed, and presents a range of scenario forecasts produced by the model.
+Keywords: Electricity; End-use model; Forecasting
+
 Capasso, A, Lamedica, R, Prudenzi, A, and Grattieri, W. A bottom-up approach to residential load modeling. United States: N. p., 1994. Web. doi:10.1109/59.317650.
 
 R. Ruther, D. C. Martins and E. Bazzo, "Hybrid diesel/photovoltaic systems without storage for isolated mini-grids in Northern Brazil," Conference Record of the Twenty-Eighth IEEE Photovoltaic Specialists Conference - 2000 (Cat. No.00CH37036), Anchorage, AK, USA, 2000, pp. 1567-1570, doi: 10.1109/PVSC.2000.916196.
+
+J. A. Jardini, C. M. V. Tahan, M. R. Gouvea, S. U. Ahn and F. M. Figueiredo, "Daily load profiles for residential, commercial and industrial low voltage consumers," in IEEE Transactions on Power Delivery, vol. 15, no. 1, pp. 375-380, Jan. 2000, doi: 10.1109/61.847276.
 
 S. A. Villalba and C. A. Bel, "Hybrid demand model for load estimation and short term load forecasting in distribution electric systems," in IEEE Transactions on Power Delivery, vol. 15, no. 2, pp. 764-769, April 2000, doi: 10.1109/61.853017.
 
 ## 2001 - 2010
 H. Murata and T. Onoda, "Estimation of power consumption for household electric appliances," Proceedings of the 9th International Conference on Neural Information Processing, 2002. ICONIP '02., Singapore, 2002, pp. 2299-2303 vol.5, doi: 10.1109/ICONIP.2002.1201903.
+
+Erik Dotzauer,
+Simple model for prediction of loads in district-heating systems,
+Applied Energy,
+Volume 73, Issues 3–4,
+2002,
+Pages 277-284,
+ISSN 0306-2619,
+https://doi.org/10.1016/S0306-2619(02)00078-8.
+(https://www.sciencedirect.com/science/article/pii/S0306261902000788)
+Abstract: In order to improve the operation of district-heating systems, it is necessary for the energy companies to have reliable optimization routines, both computerized and manual, implemented in their organizations. However, before a production plan for the heat-producing units can be constructed, a prediction of the heat demand first needs to be determined. The outdoor temperature, together with the social behaviour of the consumers, have the greatest influence on the demand. This is also the core of the load prediction model developed in this paper. Several methodologies have been proposed for heat-load forecasting, but due to lack in measured data and due to the uncertainties that are present in the weather forecasts, many of them will fail in practice. In such situations, a more simple model may give as good predictions as an advanced one. This is also the experience from the applications analyzed in this paper.
+Keywords: Heat-load forecasting; District heating; Linear least squares
+
+M. Beccali, M. Cellura, V. Lo Brano, A. Marvuglia,
+Forecasting daily urban electric load profiles using artificial neural networks,
+Energy Conversion and Management,
+Volume 45, Issues 18–19,
+2004,
+Pages 2879-2900,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2004.01.006.
+(https://www.sciencedirect.com/science/article/pii/S0196890404000263)
+Abstract: The paper illustrates a combined approach based on unsupervised and supervised neural networks for the electric energy demand forecasting of a suburban area with a prediction time of 24 h. A preventive classification of the historical load data is performed during the unsupervised stage by means of a Kohonen's self organizing map (SOM). The actual forecast is obtained using a two layered feed forward neural network, trained with the back propagation with momentum learning algorithm. In order to investigate the influence of climate variability on the electricity consumption, the neural network is trained using weather data (temperature, relative humidity, global solar radiation) along with historical load data available for a part of the electric grid of the town of Palermo (Italy) from 2001 to 2003. The model validation is performed by comparing model predictions with load data that were not used for the network's training. The results obtained bear out the suitability of the adopted methodology for the short term load forecasting (STLF) problem also at so small a spatial scale as the suburban one.
+Keywords: Short term load forecasting; Weather-electricity demand relation; Artificial neural network (ANN); Self organizing map (SOM); Multi-layer perceptron (MLP)
 
 Stokes, M. (2005). Removing barriers to embedded generation : a fine-grained load model to support low voltage network performance analysis.
 
@@ -41,12 +79,54 @@ Giles, Lauren, Skolnik, Edward G, Marchionini, Brian, and Fall, Ndeye K. Remote 
 
 Muñoz, J., Narvarte, L. and Lorenzo, E. (2007), Experience with PV-diesel hybrid village power systems in Southern Morocco. Prog. Photovolt: Res. Appl., 15: 529-539. https://doi.org/10.1002/pip.756
 
+K. Kato, M. Sakawa, Keiichi Ishimaru, S. Ushiro and Toshihiro Shibano, "Heat load prediction through recurrent neural network in district heating and cooling systems," 2008 IEEE International Conference on Systems, Man and Cybernetics, Singapore, 2008, pp. 1401-1406, doi: 10.1109/ICSMC.2008.4811482.
+
+Linda Pedersen, Jacob Stang, Rolf Ulseth,
+Load prediction method for heat and electricity demand in buildings for the purpose of planning for mixed energy distribution systems,
+Energy and Buildings,
+Volume 40, Issue 7,
+2008,
+Pages 1124-1134,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2007.10.014.
+(https://www.sciencedirect.com/science/article/pii/S0378778807002381)
+Abstract: Energy planning for mixed energy distribution systems is important to increase the flexibility in the regional and national energy systems. Expected maximum loads, load profiles and yearly energy demands, all divided into heat and electricity purposes, are important input parameters to plan for the most economical, technical and environmental optimal energy distribution system for a planning area. First, this article presents a load prediction method which estimates heat and electricity load profiles for various building categories. The method is based on statistical analyses of hourly simultaneous measured district heat and electricity consumption in several buildings, as well as background information of the measured buildings. The heat load model is based on regression analyses, whereas the electricity load model is based on various statistical distributions. Second, a method for load aggregation based on the building categories’ load profiles is presented to estimate the maximum load demands, yearly load profiles, load duration profiles and yearly energy demands, all divided into heat and electricity purposes, for a planning area.
+Keywords: Energy planning; Load profiles; Heat load; Electricity load; Building category
+
+Yigzaw G. Yohanis, Jayanta D. Mondol, Alan Wright, Brian Norton,
+Real-life energy use in the UK: How occupancy and dwelling characteristics affect domestic electricity use,
+Energy and Buildings,
+Volume 40, Issue 6,
+2008,
+Pages 1053-1059,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2007.09.001.
+(https://www.sciencedirect.com/science/article/pii/S037877880700223X)
+Abstract: The patterns of electricity consumption were studied for 27 representative dwellings in Northern Ireland. The type of dwelling, its location, ownership and size, household appliances, attributes of the occupants including number of occupants, income, age and occupancy patterns have differing but significant impacts on electricity consumption. A clear correlation was found between average annual electricity consumption and floor area. The monthly consumption of detached houses is between 3.57 and 5.17kWhm−2; semi-detached between 3.44 and 4.59kWhm−2 and terraced houses between 2.5 and 3.9kWhm−2. The average winter consumption exceeded the average summer consumption by 1.59kWhm−2 for detached, by 1.16kWhm−2 for semi-detached and by 1.78kWhm−2 for terraced houses. The difference in the annual demand on the grid between detached and terraced houses is between 24 and 30%. The electricity consumption per person decreases as the number of occupants increases. This is particularly significant in large dwellings but smaller numbers of occupants.
+Keywords: Household energy; Electricity consumption; Occupancy; Dwelling characteristics
+
 Marianne M. Armstrong, Mike C. Swinton, Hajo Ribberink, Ian Beausoleil-Morrison & Jocelyn Millette (2009) Synthetically derived profiles for representing occupant-driven electric loads in Canadian housing, Journal of Building Performance Simulation, 2:1, 15-30, DOI: 10.1080/19401490802706653
+
+Lukas G. Swan, V. Ismet Ugursal,
+Modeling of end-use energy consumption in the residential sector: A review of modeling techniques,
+Renewable and Sustainable Energy Reviews,
+Volume 13, Issue 8,
+2009,
+Pages 1819-1835,
+ISSN 1364-0321,
+https://doi.org/10.1016/j.rser.2008.09.033.
+(https://www.sciencedirect.com/science/article/pii/S1364032108001949)
+Abstract: There is a growing interest in reducing energy consumption and the associated greenhouse gas emissions in every sector of the economy. The residential sector is a substantial consumer of energy in every country, and therefore a focus for energy consumption efforts. Since the energy consumption characteristics of the residential sector are complex and inter-related, comprehensive models are needed to assess the technoeconomic impacts of adopting energy efficiency and renewable energy technologies suitable for residential applications. The aim of this paper is to provide an up-to-date review of the various modeling techniques used for modeling residential sector energy consumption. Two distinct approaches are identified: top-down and bottom-up. The top-down approach treats the residential sector as an energy sink and is not concerned with individual end-uses. It utilizes historic aggregate energy values and regresses the energy consumption of the housing stock as a function of top-level variables such as macroeconomic indicators (e.g. gross domestic product, unemployment, and inflation), energy price, and general climate. The bottom-up approach extrapolates the estimated energy consumption of a representative set of individual houses to regional and national levels, and consists of two distinct methodologies: the statistical method and the engineering method. Each technique relies on different levels of input information, different calculation or simulation techniques, and provides results with different applicability. A critical review of each technique, focusing on the strengths, shortcomings and purposes, is provided along with a review of models reported in the literature.
+Keywords: Residential energy model; Residential energy consumption; Housing energy model; Energy model
 
 A. Rajoriya & E. Fernandez (2010) Sustainable energy generation using hybrid energy system for remote hilly rural area in India, International Journal of Sustainable Engineering, 3:3, 219-227, DOI: 10.1080/19397038.2010.484870
 
+Duffy, Aidan & McLoughlin, Fintan & Conlon, Michael. (2010). The Generation of Domestic Electricity Load Profiles through Markov Chain Modelling. 
+
 ## 2011 - 2020
 Al-Badi, Abdullah & Al Toobi, Mohamed & AL-Harthy, S. & Al-Hosni, Z. & AL-Harthy, A.. (2011). Hybrid systems for decentralized power generation in Oman. International Journal of Sustainable Energy. iFirst. 10.1080/14786451.2011.590898. 
+
+Ardakanian, Omid & Keshav, Srinivasan & Rosenberg, Catherine. (2011). Markovian models for home electricity consumption. Proceedings of the 2nd ACM SIGCOMM Workshop on Green Networking, GreenNets'11. 10.1145/2018536.2018544. 
 
 A.B. Kanase-Patil, R.P. Saini, M.P. Sharma,
 Development of IREOM model based on seasonally varying load profile for hilly remote areas of Uttarakhand state in India,
@@ -116,6 +196,18 @@ https://doi.org/10.1016/j.enbuild.2012.01.037.
 Abstract: This paper examines the influence of dwelling and occupant characteristics on domestic electricity consumption patterns by analysing data obtained from a smart metering survey of a representative cross section of approximately 4200 domestic Irish dwellings. A multiple linear regression model was applied to four parameters: total electricity consumption, maximum demand, load factor and time of use (ToU) of maximum electricity demand for a number of different dwelling and occupant socio-economic variables. In particular, dwelling type, number of bedrooms, head of household (HoH) age, household composition, social class, water heating and cooking type all had a significant influence over total domestic electricity consumption. Maximum electricity demand was significantly influenced by household composition as well as water heating and cooking type. A strong relationship also existed between maximum demand and most household appliances but, in particular, tumble dryers, dishwashers and electric cookers had the greatest influence over this parameter. Time of use (ToU) for maximum electricity demand was found to be strongly influenced by occupant characteristics, HoH age and household composition. Younger head of households were more inclined to use electricity later in the evening than older occupants. The appliance that showed the greatest potential for shifting demand away from peak time use was the dishwasher.
 Keywords: Domestic electricity consumption; Dwelling and occupant characteristics; Electricity load profiles
 
+Mo Chung, Hwa-Choon Park,
+Building energy demand patterns for department stores in Korea,
+Applied Energy,
+Volume 90, Issue 1,
+2012,
+Pages 241-249,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2011.05.008.
+(https://www.sciencedirect.com/science/article/pii/S0306261911002996)
+Abstract: The daily energy demand patterns for 14 department stores located in the five largest cities in Korea are surveyed to establish building-energy load models. Electricity and fuel consumption data are field-measured at one carefully chosen store among the sample stores that best represent the statistical characteristics of the department stores to extract hourly consumption profiles for the electricity, heating, hot water, and cooling loads. The data statistically processed to develop a generic computational model for future applications.
+Keywords: Building energy model; Department store; Korea; Electricity; Heat
+
 S. Y. Wong and A. Chai, "An Off-Grid Solar System for Rural Village in Malaysia," 2012 Asia-Pacific Power and Energy Engineering Conference, Shanghai, China, 2012, pp. 1-4, doi: 10.1109/APPEEC.2012.6307162.
 
 Sahu, A.K., Shandilya, D.A., & Bhardwaj, D.S. (2013). Forecasting and Management of Load for Rural Areas.
@@ -134,6 +226,8 @@ https://doi.org/10.1016/j.energy.2012.10.019.
 Abstract: Electricity is an important asset that influences not only the economy, but political or social security of a country. Reliable and accurate planning and prediction of electricity demand for a country are therefore vital. In this paper, electricity demand in Ontario province of Canada from the year 1976–2005 is modeled by using an (adaptive neuro fuzzy inference system) ANFIS. A neuro fuzzy structure can be defined as an ANN (artificial neural network) which is trained by experimental data to find the parameters of (fuzzy inference system) FIS. Inputs for the model include number of employment, (gross domestic product) GDP, population, dwelling count and two meteorological parameters related to annual weather temperature. The data were collected and screened using statistical methods. Then, based on the data, a neuro-fuzzy model for the electricity demand is built. It was found that electricity demand is most sensitive to employment.
 Keywords: Electricity demand; Neuro-fuzzy; Forecasting
 
+W. Labeeuw and G. Deconinck, "Residential Electrical Load Model Based on Mixture Model Clustering and Markov Models," in IEEE Transactions on Industrial Informatics, vol. 9, no. 3, pp. 1561-1569, Aug. 2013, doi: 10.1109/TII.2013.2240309.
+
 Philip C.M. Leung, Eric W.M. Lee,
 Estimation of electrical power consumption in subway station design by intelligent approach,
 Applied Energy,
@@ -146,7 +240,6 @@ https://doi.org/10.1016/j.apenergy.2012.07.017.
 Abstract: According to the records of Hong Kong rail operator, MTR Corporation, the weekly electrical consumption of each railway station ranges from 18MWh to 230MWh. Since the electrical consumption of stations is a major factor in the planning of infrastructure, a good prediction of the electrical consumption will greatly assist in the design of the station infrastructure. This study develops an intelligent approach to predict the energy consumption of railway stations. Multi-layered Perceptron (MLP) is adopted to mimic the non-linear correlation between energy consumption, the spatial design of the station, meteorological factors and also the usage of the 19 stations selected. Coefficient of correlation is obtained between the MLP predicted results and the actual collected data to evaluate the performance of the prediction. We apply statistical approach to assess the performance of the developed MLP model. It shows that minimum coefficient of correlation is 0.96 with a 95% confidence level which is considered sufficient for engineering application. This approach is also adopted to predict the profile of the weekly electrical consumption of a selected station. The predicted profile reasonably agrees with that of the actual consumption. This study develops a useful tool to estimate the electrical power consumption of new MTR stations.
 Keywords: Artificial neural network; Energy consumption; Subway station
 
-
 B. Ould. Bilal, V. Sambou, P.A. Ndiaye, C.M.F. Kébé, M. Ndongo,
 Study of the Influence of Load Profile Variation on the Optimal Sizing of a Standalone Hybrid PV/Wind/Battery/Diesel System,
 Energy Procedia,
@@ -157,9 +250,39 @@ ISSN 1876-6102,
 https://doi.org/10.1016/j.egypro.2013.07.143.
 (https://www.sciencedirect.com/science/article/pii/S1876610213012290)
 Abstract: This paper presents a methodology to size and to optimize a stand-alone hybrid PV/Wind/Diesel/Battery bank minimizing the Levelized Cost of Energy (LCE) and the CO2 emission using a Multi-Objectives Genetic Algorithm approach. The main objective of this work is to study the influence of the load profile variation on the optimal configuration. The methodology developed was applied using solar radiation, temperature and wind speed collected on the site of Gandon located in the northwestern coast of Senegal. Results show that, for the all load profiles, as the LCE increases the CO2 emission decreases. For the all solutions, the LCE was lower for the load profile 3 than for the load profiles 1 and 2.
-Keywords: Hybrid system; load profile; optimization,
+Keywords: Hybrid system; load profile; optimization
+
+Sahu, A.K., Shandilya, A.M., & Bhardwaj, S.K. (2013). Load Forecasting of Rural Areas for Rural Electrification.
+
+Velik, Rosemarie. (2013). Battery Storage versus Neighbourhood Energy Exchange to Maximize Local Photovoltaics Energy Consumption in Grid-Connected Residential Neighbourhoods. International Journal of Advanced Renewable Energy Research. 2. 
+
+Henrik Gadd, Sven Werner,
+Heat load patterns in district heating substations,
+Applied Energy,
+Volume 108,
+2013,
+Pages 176-183,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2013.02.062.
+(https://www.sciencedirect.com/science/article/pii/S0306261913001803)
+Abstract: Future smart energy grids will require more information exchange between interfaces in the energy system. One interface where dearth of information exists is in district heating substations, being the interfaces between the distribution network and the customer building heating systems. Previously, manual meter readings were collected once or a few times a year. Today, automatic meter readings are available resulting in low cost hourly meter reading data. In a district heating system, errors and deviations in customer substations propagates through the network to the heat supply plants. In order to reduce future customer and heat supplier costs, a demand appears for smart functions identifying errors and deviations in the substations. Hereby, also a research demand appears for defining normal and abnormal heat load patterns in customer substations. The main purpose with this article is to perform an introductory analysis of several high resolution measurements in order to provide valuable information about substations for creating future applications in smart heat grids. One year of hourly heat meter readings from 141 substations in two district heating networks were analysed. The connected customer buildings were classified into five different customer categories and four typical heat load patterns were identified. Two descriptive parameters, annual relative daily variation and annual relative seasonal variation, were defined from each 1year sequence for identifying normal and abnormal heat load patterns. The three major conclusions are associated both with the method used and the objects analysed. First, normal heat load patterns vary with applied control strategy, season, and customer category. Second, it is possible to identify obvious outliers compared to normal heat loads with the two descriptive parameters used in this initial analysis. Third, the developed method can probably be enhanced by redefining the customer categories by their indoor activities.
+Keywords: District heating; Heat load variation; Automatic meter reading; Heat load pattern; Smart heat grids; Smart energy grids
 
 M. B. Shadmand and R. S. Balog, "Multi-Objective Optimization and Design of Photovoltaic-Wind Hybrid System for Community Smart DC Microgrid," in IEEE Transactions on Smart Grid, vol. 5, no. 5, pp. 2635-2643, Sept. 2014, doi: 10.1109/TSG.2014.2315043.
+
+Kody M. Powell, Akshay Sriprasad, Wesley J. Cole, Thomas F. Edgar,
+Heating, cooling, and electrical load forecasting for a large-scale district energy system,
+Energy,
+Volume 74,
+2014,
+Pages 877-885,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2014.07.064.
+(https://www.sciencedirect.com/science/article/pii/S036054421400886X)
+Abstract: Load forecasting is critical for planning and optimizing operations for large energy systems on a dynamic basis. As system complexity increases, the task of developing accurate forecasting models from first principles becomes increasingly impractical. However, for large campuses with many buildings, the large sample size has a smoothing effect on the data so that aggregate trends can be predicted using empirical modeling techniques. The distinguishing features of this work are the large scale of the energy system (a college campus with approximately 70,000 students and employees) and the simultaneous forecasting of heating, cooling, and electrical loads. This work evaluates several different models and discusses each model's ability to accurately forecast hourly loads for a district energy system up to 24 h in advance using weather and time variables (month, hour, and day) as inputs. A NARX (Nonlinear Autoregressive Model with Exogenous Inputs) shows the best fit to data. This time series model uses a neural network with recursion so that measured loads can be used as a reference point for future load predictions. 95% confidence limits are used to quantify the uncertainty of the predictions and the model is validated with measured data and shown to be accurate for a 24 h prediction.
+Keywords: Load forecasting; District energy; Combined heat and power; Energy storage; Distributed energy; Microgrid
+
+B. J. Johnson, M. R. Starke, O. A. Abdelaziz, R. K. Jackson and L. M. Tolbert, "A MATLAB based occupant driven dynamic model for predicting residential power demand," 2014 IEEE PES T&D Conference and Exposition, Chicago, IL, USA, 2014, pp. 1-5, doi: 10.1109/TDC.2014.6863381.
 
 P. J. Boait and J. R. Snape, "Demand management for isolated mini-grids supplied by renewable generation," 2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET), Dhaka, Bangladesh, 2014, pp. 1-6, doi: 10.1109/ICDRET.2014.6861688.
 
@@ -187,6 +310,18 @@ https://doi.org/10.1016/j.enconman.2014.05.045.
 Abstract: In this work we present a detailed description of a 7.2kWp photovoltaic power plant installed in the remote rural village Elkaria (province of Essaouira in Morocco). This plant supplies 16 households with electricity through a local grid that was installed for this purpose. The results of monitoring some performance parameters of the plant such as load curve, the yields and the performance ratio are presented and discussed. The performance ratio of the PV plant varied between 33% and 70.2%. The low values of this parameter are mainly attributed to the way the battery inverter manages the energy flow.
 Keywords: PV plant; Performance ratio; Droop mode; Yields; Isolated grid
 
+Danielle Monfet, Maria Corsi, Daniel Choinière, Elena Arkhipova,
+Development of an energy prediction tool for commercial buildings using case-based reasoning,
+Energy and Buildings,
+Volume 81,
+2014,
+Pages 152-160,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2014.06.017.
+(https://www.sciencedirect.com/science/article/pii/S037877881400499X)
+Abstract: Building energy prediction is a key factor to assess the energy performance of commercial buildings, identify operation issues and propose better operating strategies based on the forecast information. Different models have been used to forecast energy demand in buildings, including whole building energy simulation, regression analysis, and black-box models (e.g., artificial neural networks). This paper presents a different approach to predict the energy demand of commercial buildings using case-based reasoning (CBR). The proposed approach is evaluated using monitored data in a real office building located in Varennes, Québec. The energy demand is predicted at every hour for the following 3h using weather forecasts. The results show that during occupancy, 7:00–18:00, the coefficient of variance of the root-mean-square-error (CV-RMSE) is below 13.2%, the normalized mean bias error (NMBE) is below 5.8% and the root-mean-square-error (RMSE) is below 14kW. When the statistical criteria are calculated for all hours of the day, the CV-RMSE is 12.1%, the NMBE is 1.0% and the RMSE is 11kW. The case study demonstrates that CBR can be used for energy demand prediction and could be implemented in building operation systems.
+Keywords: Case-based reasoning; Energy demand prediction; Weather forecast
+
 Ohijeagbon, O.D., & Ajayi, O.O. (2014). Potential and economic viability of standalone hybrid systems for a rural community of Sokoto, North-west Nigeria. Frontiers in Energy, 8, 145-159.
 
 Rohit Sen, Subhes C. Bhattacharyya,
@@ -203,6 +338,8 @@ Keywords: Hybrid systems; Off-grid electrification; HOMER; India
 
 Gangwar, Sachin & Bhanja, Dipankar & Biswas, Agnimitra. (2015). Cost, reliability, and sensitivity of a stand-alone hybrid renewable energy system—A case study on a lecture building with low load factor. JOURNAL OF RENEWABLE AND SUSTAINABLE ENERGY. 7. 10.1063/1.4906916. 
 
+Koronaki, I.P. & Škrjanc, Maja & Kenda, Klemen & Kalaboukas, Kostas & Markogiannakis, George & Giannis, Hamodrakas & Mokorel, Simon & Ljubljana, Envigence & Slovenia, & Nienke, Steffen & Calefato, Caterina. (2015). Energy Forecasting and Modelling in Rural Areas. 10.1109/IISA.2015.7388058. 
+
 P. Boait, V. Advani, R. Gammon,
 Estimation of demand diversity and daily demand profile for off-grid electrification in developing countries,
 Energy for Sustainable Development,
@@ -214,6 +351,18 @@ https://doi.org/10.1016/j.esd.2015.10.009.
 (https://www.sciencedirect.com/science/article/pii/S0973082615001040)
 Abstract: The potential for small self-contained grid systems to provide electricity for currently unserved regions of the developing world is widely recognised. However planning and managing the electrical demand that will be supported, so that a mini-grid system is not overloaded and its available resource is used as fully as possible, is actually more difficult than for a large scale grid system. This paper discusses the mathematical reasons why this is the case, and describes a practical software tool for mini-grid demand estimation and planning that is complementary to the widely used HOMER software. This software tool is made available for download on an open source basis. Finally a conclusion is offered that mini-grid systems should aim to serve at least 50 households so that demand variability is more manageable and economies of scale can be realised.
 Keywords: Mini-grid; Micro-grid; Demand diversity; Monte Carlo model
+
+Mo Chung, Hwa-Choon Park,
+Comparison of building energy demand for hotels, hospitals, and offices in Korea,
+Energy,
+Volume 92, Part 3,
+2015,
+Pages 383-393,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2015.04.016.
+(https://www.sciencedirect.com/science/article/pii/S0360544215004442)
+Abstract: Energy demand characteristics were surveyed and measured throughout Korea to establish load models for three types of buildings: hotels, hospitals, and offices. The consumption of electricity and fuel was collected and statistically analysed to establish four types of building loads: electricity, heating, hot water, and cooling energy. The annual, monthly, daily, and hourly patterns of the four load types were derived for the three building types. Key statistical values such as the annual mean, maximum, and minimum values are provided. A procedure is presented to compose building load models as a time series covering the 8760 h of a year by combining daily and hourly patterns. The key features of the load models were compared to better understand the energy consumption characteristics of the three building types. Substantial variations in the magnitudes and patterns were observed among the types of buildings and loads. The load models can be applied to a wide range of problems in building energy system design and planning, including simulations and optimizations of community energy systems.
+Keywords: Building energy demand model; Hotel; Hospital; Office; Electricity heating cooling hot-water; Korea
 
 Kush, Ramazon & Chen, George & Abelson, Brian & Nowocin, Kendall & Sakhrani, Vivek & Xu, Ling & Spatocco, Brian. (2015). Targeting Villages for Rural Development Using Satellite Image Analysis. Big Data. 3. 41-53. 10.1089/big.2014.0061. 
 
@@ -294,6 +443,18 @@ https://doi.org/10.1016/j.apenergy.2014.12.068.
 Abstract: We introduce an integrated model for characterization of spatiotemporal building energy consumption patterns in neighborhoods and city districts. The model addresses the need for a comprehensive method to identify present and potential states of building energy consumption in the context of urban transformation. The focus lies on determining the spatiotemporal variability of energy services in both standing and future buildings in the residential, commercial and industrial sectors. This detailed characterization facilitates the assessment of potential energy efficiency measures at the neighborhood and city district scales. In a novel approach we integrated existing methods in urban and energy planning domains such as spatial analysis, dynamic building energy modeling and energy mapping to provide a comprehensive, multi-scale and multi-dimensional model of analysis. The model is part of a geographic information system (GIS), which serves as a platform for the allocation and future dissemination of spatiotemporal data. The model is validated against measured data and a peer model for a city district in Switzerland. In this context, we present practical applications in the analysis of energy efficiency measures in buildings and urban zoning. We furthermore discuss potential applications in educational, urban and energy planning practices.
 Keywords: Urban energy modeling; Geographic information systems; Spatiotemporal analysis; Neighborhoods and city districts; Energy efficiency; Characterization of energy services
 
+Shahaboddin Shamshirband, Dalibor Petković, Rasul Enayatifar, Abdul Hanan Abdullah, Dušan Marković, Malrey Lee, Rodina Ahmad,
+Heat load prediction in district heating systems with adaptive neuro-fuzzy method,
+Renewable and Sustainable Energy Reviews,
+Volume 48,
+2015,
+Pages 760-767,
+ISSN 1364-0321,
+https://doi.org/10.1016/j.rser.2015.04.020.
+(https://www.sciencedirect.com/science/article/pii/S1364032115002907)
+Abstract: District heating systems can play significant role in achieving stringent targets for CO2 emissions with concurrent increase in fuel efficiency. However, there are a lot of the potentials for future improvement of their operation. One of the potential domains is control and prediction. Control of the most district heating systems is feed forward without any feedback from consumers. With reliable predictions of consumers heat need, production could be altered to match the real consumers’ needs. This will have effect on lowering the distribution cost, heat losses and especially on lowered return secondary and primary temperature which will result in increase of overall efficiency of combined heat and power plants. In this paper, to predict the heat load for individual consumers in district heating systems, an adaptive neuro-fuzzy inferences system (ANFIS) was constructed. Simulation results indicate that further improvements on model are needed especially for prediction horizons greater than 1h.
+Keywords: District heating systems; Heat load; Prediction; Neuro-fuzzy; ANFIS
+
 S.R. Tito, T.T. Lie, T.N. Anderson,
 Optimal sizing of a wind-photovoltaic-battery hybrid renewable energy system considering socio-demographic factors,
 Solar Energy,
@@ -305,6 +466,30 @@ https://doi.org/10.1016/j.solener.2016.07.036.
 (https://www.sciencedirect.com/science/article/pii/S0038092X16302948)
 Abstract: The sizing of a stand-alone wind-photovoltaic-battery hybrid renewable energy system (HRES) is greatly influenced by socio-demographic factors however, few studies have examined how socio-demographic factors, as borne out by different electrical usage patterns, influence the size of HRESs. This paper investigates how these factors influence the optimal sizing of a stand-alone HRES using a hybrid optimization method to match the available renewable energy with the demand. In this regard, different energy usage patterns resulting from users socio-demographic profile have been investigated and used for the optimal sizing of a HRES. The results show that the electricity usage profile of a site has a significant impact on the sizing and design of the system. Further, the results illustrate that one can design a system that meets the demand profiles resulting from socio-demographic factors with a minimum unmet load; however, by optimizing systems to the users socio-demographic profile, significant cost savings can be made.
 Keywords: Hybrid renewable energy system
+
+Rosemarie Velik, Pascal Nicolay,
+Energy management in storage-augmented, grid-connected prosumer buildings and neighborhoods using a modified simulated annealing optimization,
+Computers & Operations Research,
+Volume 66,
+2016,
+Pages 248-257,
+ISSN 0305-0548,
+https://doi.org/10.1016/j.cor.2015.03.002.
+(https://www.sciencedirect.com/science/article/pii/S030505481500060X)
+Abstract: This article introduces a modified simulated annealing optimization approach for automatically determining optimal energy management strategies in grid-connected, storage-augmented, photovoltaics-supplied prosumer buildings and neighborhoods based on user-specific goals. For evaluating the modified simulated annealing optimizer, a number of test scenarios in the field of energy self-consumption maximization are defined and results are compared to a gradient descent and a total state space search approach. The benchmarking against these two reference methods demonstrates that the modified simulated annealing approach is able to find significantly better solutions than the gradient descent algorithm – being equal or very close to the global optimum – with significantly less computational effort and processing time than the total state space search approach.
+Keywords: Batteries; Storage; Energy exchange; Energy management; Green buildings; Microgrids; Optimization; Photovoltaic systems; Renewable energy sources; Simulated annealing; Smart grids; Solar energy
+
+Lukas Lundström, Fredrik Wallin,
+Heat demand profiles of energy conservation measures in buildings and their impact on a district heating system,
+Applied Energy,
+Volume 161,
+2016,
+Pages 290-299,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2015.10.024.
+(https://www.sciencedirect.com/science/article/pii/S0306261915012519)
+Abstract: This study highlights the forthcoming problem with diminishing environmental benefits from heat demand reducing energy conservation measures (ECM) of buildings within district heating systems (DHS), as the supply side is becoming “greener” and more primary energy efficient. In this study heat demand profiles and annual electricity-to-heat factors of ECMs in buildings are computed and their impact on system efficiency and greenhouse gas emissions of a Swedish biomass fuelled and combined heat and power utilising DHS are assessed. A weather normalising method for the DHS heat load is developed, combining segmented multivariable linear regressions with typical meteorological year weather data to enable the DHS model and the buildings model to work under the same weather conditions. Improving the buildings’ envelope insulation level and thereby levelling out the DHS heat load curve reduces greenhouse gas emissions and improves primary energy efficiency. Reducing household electricity use proves to be highly beneficial, partly because it increases heat demand, allowing for more cogeneration of electricity. However the other ECMs considered may cause increased greenhouse gas emissions, mainly because of their adverse impact on the cogeneration of electricity. If biomass fuels are considered as residuals, and thus assigned low primary energy factors, primary energy efficiency decreases when implementing ECMs that lower heat demand.
+Keywords: District heating; Energy conservation; Weather normalisation; Typical meteorological year; Building energy simulation; Energy system assessment
 
 Prinsloo, Gerro & Dobson, Robert & Brent, Alan. (2016). Scoping exercise to determine load profile archetype reference shapes for solar co-generation models in isolated off-grid rural African villages. Journal of Energy in Southern Africa. 28. 
 
@@ -319,6 +504,18 @@ https://doi.org/10.1016/j.jclepro.2016.03.014.
 (https://www.sciencedirect.com/science/article/pii/S0959652616300749)
 Abstract: A large number of populations of the world; especially in developing countries; are living in rural or remote areas those are geographically isolated from the grid connection. Power supply and uninterrupted fuel transportation to produce electrical power for these areas poses a great challenge. Using renewable energy in off grid hybrid energy system might be a pathway to solve this problem. Malaysia is a hilly land with the gift of renewable energy resources. There is a possibility to utilize these renewable resources to produce electrical power and to limit the dependency on the fossil fuel. In this perspective, a research is carried out to analyze the performance of an off-grid PV (photovoltaic)-wind-diesel-battery hybrid energy system for a remote area named “KLIA Sepang Station” located in the state of Selangor, Malaysia. The system is designed as well as simulated to support a small community considering an average load demand of 33 kWh/day with a peak load of 3.9 kW. The simulation and optimization of operations of the system have been done by HOMER (Hybrid Optimization Model for Electric Renewable) software using the real time field data of solar radiation and wind speed of that area. The simulation ensures that the system is suitably feasible with respect to net present cost (NPC) and CO2 emission reduction purpose. The result shows that NPC and CO2 emission can be reduced about 29.65% and 16 tons per year respectively compared to the conventional power plants. The NPC of the optimized system has been found about USD 288,194.00 having the per unit Cost of Energy (COE) about USD 1.877/kWh. The analyzed hybrid energy system might be applicable for other region of the world where the climate conditions are similar.
 Keywords: Renewable energy; HOMER; Optimization; Sustainability; Clean energy; Malaysia
+
+Eiman Tamah Al-Shammari, Afram Keivani, Shahaboddin Shamshirband, Ali Mostafaeipour, Por Lip Yee, Dalibor Petković, Sudheer Ch,
+Prediction of heat load in district heating systems by Support Vector Machine with Firefly searching algorithm,
+Energy,
+Volume 95,
+2016,
+Pages 266-273,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2015.11.079.
+(https://www.sciencedirect.com/science/article/pii/S0360544215016424)
+Abstract: District heating systems operation can be improved by control strategies. One of the options is the introduction of predictive control model. Predictive models of heat load can be applied to improve district heating system performances. In this article, short-term multistep-ahead predictive models of heat load for consumers connected to district heating system were developed using SVMs (Support Vector Machines) with FFA (Firefly Algorithm). Firefly algorithm was used to optimize SVM parameters. Seven SVM-FFA predictive models for different time horizons were developed. Obtained results of the SVM-FFA models were compared with GP (genetic programming), ANNs (artificial neural networks), and SVMs models with grid search algorithm. The experimental results show that the developed SVM-FFA models can be used with certainty for further work on formulating novel model predictive strategies in district heating systems.
+Keywords: District heating systems; Heat load; Estimation; Prediction; Support Vector Machines; Firefly algorithm
 
 Stefano Mandelli, Marco Merlo, Emanuela Colombo,
 Novel procedure to formulate load profiles for off-grid rural areas,
@@ -560,6 +757,18 @@ https://doi.org/10.1016/j.aei.2019.100945.
 Abstract: The prospering Big data era is emerging in the power grid. Multiple world-wide studies are emphasizing the big data applications in the microgrid due to the huge amount of produced data. Big data analytics can impact the design and applications towards safer, better, more profitable, and effective power grid. This paper presents the recognition and challenges of the big data and the microgrid. The construction of big data analytics is introduced. The data sources, big data opportunities, and enhancement areas in the microgrid like stability improvement, asset management, renewable energy prediction, and decision-making support are summarized. Diverse case studies are presented including different planning, operation control, decision making, load forecasting, data attacks detection, and maintenance aspects of the microgrid. Finally, the open challenges of big data in the microgrid are discussed.
 Keywords: Big data; Microgrid
 
+Matteo Zatti, Marco Gabba, Marco Freschini, Michele Rossi, Agostino Gambarotta, Mirko Morini, Emanuele Martelli,
+k-MILP: A novel clustering approach to select typical and extreme days for multi-energy systems design optimization,
+Energy,
+Volume 181,
+2019,
+Pages 1051-1063,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2019.05.044.
+(https://www.sciencedirect.com/science/article/pii/S0360544219309077)
+Abstract: When optimizing the design of multi-energy systems, the operation strategy and the part-load behavior of the units must be considered in the optimization model, which therefore must be formulated as a two-stage problem. In order to guarantee computational tractability, the operation problem is solved for a limited set of typical and extreme periods. The selection of these periods is an important aspect of the design methodology, as the selection and sizing of the units is carried out on the basis of their optimal operation in the selected periods. This work proposes a novel Mixed Integer Linear Program clustering model, named k-MILP, devised to find at the same time the most representative days of the year and the extreme days. k-MILP allows controlling the features of the selected typical and extreme days and setting a maximum deviation tolerance on the integral of the load duration curves. The novel approach is tested on the design of two different multi-energy systems (a multiple-site university Campus and a single building) and compared with the two well-known clustering techniques k-means and k-medoids. Results show that k-MILP leads to a better representation of both typical and extreme operating conditions guiding towards more efficient and reliable designs.
+Keywords: Multi-energy systems; District energy systems; Typical days; Extreme days; Design optimization
+
 Simone Ferrari, Federica Zagarella, Paola Caputo, Antonino D'Amico,
 Results of a literature review on methods for estimating buildings energy demand at district level,
 Energy,
@@ -670,6 +879,10 @@ Keywords: Generative adversarial network; Building load profile; Machine learnin
 Cheng S, Tian Z, Wu X, Niu J. Bottom-Up Model of Random Daily Electrical Load Curve for Office Building. Applied Sciences. 2021; 11(21):10471. https://doi.org/10.3390/app112110471
 
 A. Pinceti, L. Sankar and O. Kosut, "Synthetic Time-Series Load Data via Conditional Generative Adversarial Networks," 2021 IEEE Power & Energy Society General Meeting (PESGM), Washington, DC, USA, 2021, pp. 1-5, doi: 10.1109/PESGM46819.2021.9637821.
+
+Namaganda-Kiyimba J, Mutale J, Azzopardi B. Improving the Load Estimation Process in the Design of Rural Electrification Systems. Energies. 2021; 14(17):5505. https://doi.org/10.3390/en14175505
+
+Proedrou, Beth. (2021). A Comprehensive Review of Residential Electricity Load Profile Models. IEEE Access. PP. 1-1. 10.1109/ACCESS.2021.3050074. 
 
 B. Ugwoke, S. Sulemanu, S.P. Corgnati, P. Leone, J.M. Pearce,
 Demonstration of the integrated rural energy planning framework for sustainable energy development in low-income countries: Case studies of rural communities in Nigeria,
@@ -788,3 +1001,5 @@ Abstract: Planners at utilities want automated and accurate load forecasts for s
 Keywords: Artificial intelligence; Data quality; Demand management; Electricity distribution management; Load forecasting; Time series analysis
 
 Dong, B., Liu, Y., Mu, W. et al. A Global Building Occupant Behavior Database. Sci Data 9, 369 (2022). https://doi.org/10.1038/s41597-022-01475-3
+
+Anvari, M., Proedrou, E., Schäfer, B. et al. Data-driven load profiles and the dynamics of residential electricity consumption. Nat Commun 13, 4593 (2022). https://doi.org/10.1038/s41467-022-31942-9
