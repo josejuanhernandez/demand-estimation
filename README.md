@@ -9,6 +9,7 @@
 ## 1981 - 1990
 C. W. Gellings and R. W. Taylor, "Electric Load Curve Synthesis - A Computer Simulation of an Electric Utility Load Shape," in IEEE Transactions on Power Apparatus and Systems, vol. PAS-100, no. 1, pp. 60-65, Jan. 1981, doi: 10.1109/TPAS.1981.316887.
 
+ALREADY DONE-->1984
 Aigner, D. J., Sorooshian, C., & Kerwin, P. (1984). Conditional Demand Analysis for Estimating Residential End-Use Load Profiles. The Energy Journal, 5(3), 81–97. http://www.jstor.org/stable/41321696
 
 C. F. Walker and J. L. Pokoski, "Residential Load Shape Modelling Based on Customer Behavior," in IEEE Transactions on Power Apparatus and Systems, vol. PAS-104, no. 7, pp. 1703-1711, July 1985, doi: 10.1109/TPAS.1985.319202.
@@ -38,10 +39,13 @@ https://doi.org/10.1016/0957-1787(92)90055-N.
 Abstract: DELMOD is a domestic end-use forecasting and simulation model for the residential electricity load curve in New South Wales, Australia. For a given scenario it produces profiles for average working and non-working days for a given month. With its detailed representation of the appliance stock and socio-demographic characteristics, and its facilities for investigating conservation effects and weather sensitivity, it is an extremely flexible tool for examining a great variety of future scenarios. The paper outlines the structure of DELMOD, discusses the estimation procedures employed, and presents a range of scenario forecasts produced by the model.
 Keywords: Electricity; End-use model; Forecasting
 
+
+ALREADY DONE --> 1994
 Capasso, A, Lamedica, R, Prudenzi, A, and Grattieri, W. A bottom-up approach to residential load modeling. United States: N. p., 1994. Web. doi:10.1109/59.317650.
 
 Bartels, R. and Fiebig, D.G. (1996), Metering and modelling residential end-use electricity load curves. J. Forecast., 15: 415-426. https://doi.org/10.1002/(SICI)1099-131X(199611)15:6<415::AID-FOR636>3.0.CO;2-J
 
+ALREADY DONE --> 2020
 R. Ruther, D. C. Martins and E. Bazzo, "Hybrid diesel/photovoltaic systems without storage for isolated mini-grids in Northern Brazil," Conference Record of the Twenty-Eighth IEEE Photovoltaic Specialists Conference - 2000 (Cat. No.00CH37036), Anchorage, AK, USA, 2000, pp. 1567-1570, doi: 10.1109/PVSC.2000.916196.
 
 J. A. Jardini, C. M. V. Tahan, M. R. Gouvea, S. U. Ahn and F. M. Figueiredo, "Daily load profiles for residential, commercial and industrial low voltage consumers," in IEEE Transactions on Power Delivery, vol. 15, no. 1, pp. 375-380, Jan. 2000, doi: 10.1109/61.847276.
@@ -51,6 +55,7 @@ S. A. Villalba and C. A. Bel, "Hybrid demand model for load estimation and short
 ## 2001 - 2010
 Stoecklein, A. & Pollard, Andrew & Camilleri, M. & Tries, J. & Isaacs, Nigel. (2001). The household energy end-use project: measurement approach and sample application of the New Zealand household energy model. CIB World Build. Congr.. 
 
+ALREADY DONE-->2002
 H. Murata and T. Onoda, "Estimation of power consumption for household electric appliances," Proceedings of the 9th International Conference on Neural Information Processing, 2002. ICONIP '02., Singapore, 2002, pp. 2299-2303 vol.5, doi: 10.1109/ICONIP.2002.1201903.
 
 Erik Dotzauer,
@@ -81,6 +86,7 @@ Feinberg, E.A. (2004). Chapter 12 LOAD FORECASTING.
 
 Ellegård, Kajsa & Cooper, Matthew. (2004). Complexity in daily life - A 3D-visualization showing activity patterns in their contexts. electronic International Journal of Time Use Research. 1. 37-59. 10.13085/eIJTUR.1.1.37-59. 
 
+ALREADY DONE --> 2005
 Stokes, M. (2005). Removing barriers to embedded generation : a fine-grained load model to support low voltage network performance analysis.
 
 Runming Yao, Koen Steemers,
@@ -97,8 +103,10 @@ Keywords: Domestic building; Load profiles; Energy-consumption; Appliance; Renew
 
 Paatero, Jukka & Lund, P.. (2006). A model for generating household electricity load profile. International Journal of Energy Research. 30. 273 - 290. 10.1002/er.1136. 
 
+ALREADY DONE --> 2007
 Giles, Lauren, Skolnik, Edward G, Marchionini, Brian, and Fall, Ndeye K. Remote Area Power Supply (RAPS) load and resource profiles.. United States: N. p., 2007. Web. doi:10.2172/912664.
 
+ALREADY DONE --> 2007
 Muñoz, J., Narvarte, L. and Lorenzo, E. (2007), Experience with PV-diesel hybrid village power systems in Southern Morocco. Prog. Photovolt: Res. Appl., 15: 529-539. https://doi.org/10.1002/pip.756
 
 A.N. Celik,
@@ -139,6 +147,7 @@ https://doi.org/10.1016/j.enbuild.2007.09.001.
 Abstract: The patterns of electricity consumption were studied for 27 representative dwellings in Northern Ireland. The type of dwelling, its location, ownership and size, household appliances, attributes of the occupants including number of occupants, income, age and occupancy patterns have differing but significant impacts on electricity consumption. A clear correlation was found between average annual electricity consumption and floor area. The monthly consumption of detached houses is between 3.57 and 5.17kWhm−2; semi-detached between 3.44 and 4.59kWhm−2 and terraced houses between 2.5 and 3.9kWhm−2. The average winter consumption exceeded the average summer consumption by 1.59kWhm−2 for detached, by 1.16kWhm−2 for semi-detached and by 1.78kWhm−2 for terraced houses. The difference in the annual demand on the grid between detached and terraced houses is between 24 and 30%. The electricity consumption per person decreases as the number of occupants increases. This is particularly significant in large dwellings but smaller numbers of occupants.
 Keywords: Household energy; Electricity consumption; Occupancy; Dwelling characteristics
 
+ALREADY DONE --> 2009
 Marianne M. Armstrong, Mike C. Swinton, Hajo Ribberink, Ian Beausoleil-Morrison & Jocelyn Millette (2009) Synthetically derived profiles for representing occupant-driven electric loads in Canadian housing, Journal of Building Performance Simulation, 2:1, 15-30, DOI: 10.1080/19401490802706653
 
 Lukas G. Swan, V. Ismet Ugursal,
@@ -165,6 +174,7 @@ https://doi.org/10.1016/j.enbuild.2009.02.013.
 Abstract: Time-use data, describing in detail the everyday life of household members as high-resolved activity sequences, have a largely unrealized potential of contributing to domestic energy demand modelling. A model for computation of daily electricity and hot-water demand profiles from time-use data was developed, using simple conversion schemes, mean appliance and water-tap data and general daylight availability distributions. Validation against detailed, end-use specific electricity measurements in a small sample of households reveals that the model for household electricity reproduces hourly load patterns with preservation of important qualitative features. The output from the model, when applied to a large data set of time use in Sweden, also shows correspondence to aggregate profiles for both household electricity and hot water from recent Swedish measurement surveys. Deviations on individual household level are predominantly due to occasionally ill-reported time-use data and on aggregate population level due to slightly non-representative samples. Future uses and developments are identified and it is suggested that modelling energy use from time-use data could be an alternative, or a complement, to energy demand measurements in households.
 Keywords: Load modelling; Time-use data; Household electricity; Hot water; Load profiles
 
+ALREADY DONE --> 2010
 A. Rajoriya & E. Fernandez (2010) Sustainable energy generation using hybrid energy system for remote hilly rural area in India, International Journal of Sustainable Engineering, 3:3, 219-227, DOI: 10.1080/19397038.2010.484870
 
 Sanjoy Kumar Nandi, Himangshu Ranjan Ghosh,
@@ -196,10 +206,12 @@ Abstract: The pattern of electricity use in an individual domestic dwelling is h
 Keywords: Domestic electricity use; Domestic appliances; Energy demand modelling; Occupancy; Time-use; Demand side management; Demand response; Flexible demand
 
 ## 2011 - 2020
+ALREADY DONE --> 2012
 Al-Badi, Abdullah & Al Toobi, Mohamed & AL-Harthy, S. & Al-Hosni, Z. & AL-Harthy, A.. (2011). Hybrid systems for decentralized power generation in Oman. International Journal of Sustainable Energy. iFirst. 10.1080/14786451.2011.590898. 
 
 Ardakanian, Omid & Keshav, Srinivasan & Rosenberg, Catherine. (2011). Markovian models for home electricity consumption. Proceedings of the 2nd ACM SIGCOMM Workshop on Green Networking, GreenNets'11. 10.1145/2018536.2018544. 
 
+ALREADY DONE --> 2011
 A.B. Kanase-Patil, R.P. Saini, M.P. Sharma,
 Development of IREOM model based on seasonally varying load profile for hilly remote areas of Uttarakhand state in India,
 Energy,
@@ -212,10 +224,12 @@ https://doi.org/10.1016/j.energy.2011.06.057.
 Abstract: An Integrated Renewable Energy Optimization Model (IREOM) model has been developed for sizing and optimization of renewable energy systems based on seasonal variation in the load profiles of the study area. An attempt has been made to develop correlations between renewable energy system sizes and their capital cost for the user specified system sizes. The developed correlations were used for the analysis of IREOM model using user specified system sizes and compared with manufacturer specified system sizes. The cluster of seven unelectrified villages having micro-hydro power, biomass, wind and solar energy resources in the state of Uttarakhand, India has been considered for the implementation of IREOM model. Based on the results obtained from the proposed model, suitable sizes of renewable energy systems have been suggested.
 Keywords: Sizing; Optimization; Off-grid electrification; Reliability index; Cost of energy
 
+ALREADY DONE-->2011
 J. Dickert and P. Schegner, "A time series probabilistic synthetic load curve model for residential customers," 2011 IEEE Trondheim PowerTech, Trondheim, Norway, 2011, pp. 1-6, doi: 10.1109/PTC.2011.6019365.
 
 Mahmud, Md. Apel. (2011). Isolated Area Load Forecasting Using Linear Regression Analysis: Practical Approach. Energy and Power Engineering. 3. 10.4236/epe.2011.34067. 
 
+ALREADY DONE --> 2011
 Lal, Deepak & Dash, Bibhuti & Akella, A.K.. (2011). Optimization of PV/Wind/Micro-Hydro/Diesel Hybrid Power System in HOMER for the Study Area. International Journal on Electrical Engineering and Informatics. 3. 307-325. 10.15676/ijeei.2011.3.3.4. 
 
 Sebastian Gottwalt, Wolfgang Ketter, Carsten Block, John Collins, Christof Weinhardt,
@@ -230,8 +244,10 @@ https://doi.org/10.1016/j.enpol.2011.10.016.
 Abstract: Within the next years, consumer households will be increasingly equipped with smart metering and intelligent appliances. These technologies are the basis for households to better monitor electricity consumption and to actively control loads in private homes. Demand side management (DSM) can be adopted to private households. We present a simulation model that generates household load profiles under flat tariffs and simulates changes in these profiles when households are equipped with smart appliances and face time-based electricity prices. We investigate the impact of smart appliances and variable prices on electricity bills of a household. We show that for households the savings from equipping them with smart appliances are moderate compared to the required investment. This finding is quite robust with respect to variation of tariff price spreads and to different types of appliance utilization patterns. Finally, our results indicate that electric utilities may face new demand peaks when day-ahead hourly prices are applied. However, a considerable amount of residential load is available for shifting, which is interesting for the utilities to balance demand and supply.
 Keywords: Demand side management; Smart appliances; Load shifting
 
+ALREADY DONE --> 2011
 T. Zia, D. Bruckner and A. Zaidi, "A hidden Markov model based procedure for identifying household electric loads," IECON 2011 - 37th Annual Conference of the IEEE Industrial Electronics Society, Melbourne, VIC, Australia, 2011, pp. 3218-3223, doi: 10.1109/IECON.2011.6119826.
 
+ALREADY DONE --> 2012
 Arash Asrari, Abolfazl Ghasemi, Mohammad Hossein Javidi,
 Economic evaluation of hybrid renewable energy systems for rural electrification in Iran—A case study,
 Renewable and Sustainable Energy Reviews,
@@ -244,6 +260,8 @@ https://doi.org/10.1016/j.rser.2012.02.052.
 Abstract: The Binalood region in Iran enjoys an average wind speed of 6.82m/s at 40m elevation and an average daily solar radiation of 4.79kWh/m2/day. Within this perspective, a remote rural village in Binalood region, called Sheikh Abolhassan, can readily be expected to have more than enough potential for its load demand to be supplied with a stand-alone hybrid renewable energy system. Yet the local state-run electrical service provider extended the utility grid to the village in 2006 to boost the already present diesel generator. This study aims, firstly, to explore how economical it would have been to keep supplying the electricity of the village by the diesel generator and add renewable energy generators to increase the renewable fraction of the system. On a second stage, we tried to investigate how renewable energy sources (RESs) can still be added to the current utility grid power supply in Sheikh Abolhassan to achieve a more economical and environmentally friendly system. The software HOMER is used in this study to evaluate the feasibility of various hybrid diesel-RES and grid-RES energy systems. Findings indicated that the addition of renewable power generators to the system both before and after the grid extension could and still can result in a more economical power system, which is obviously cleaner and more climate-benign.
 Keywords: Renewable energy source; Grid extension; Net present cost; HOMER; Renewable fraction; Sheikh Abolhassan
 
+
+ALREADY DONE --> 2012
 A. Grandjean, J. Adnot, G. Binet,
 A review and an analysis of the residential electric load curve models,
 Renewable and Sustainable Energy Reviews,
@@ -258,6 +276,7 @@ Keywords: Load curve modelling; Literature survey; Classification; Residential s
 
 J. K. Gruber and M. Prodanovic, "Residential Energy Load Profile Generation Using a Probabilistic Approach," 2012 Sixth UKSim/AMSS European Symposium on Computer Modeling and Simulation, Malta, Malta, 2012, pp. 317-322, doi: 10.1109/EMS.2012.30.
 
+ALREADY DONE --> 2012
 B. Ould. Bilal, V. Sambou, C.M.F Kébé, P.A. Ndiaye, M. Ndongo,
 Methodology to Size an Optimal Stand-Alone PV/wind/diesel/battery System Minimizing the Levelized cost of Energy and the CO2 Emissions,
 Energy Procedia,
@@ -270,8 +289,10 @@ https://doi.org/10.1016/j.egypro.2011.12.1145.
 Abstract: The objective of this paper is to propose a methodology for designing a stand-alone hybrid PV/wind/diesel/battery minimizing the Levelized Cost of Energy (LCE) and the CO2 emission using genetic algorithm. The methodology developed was applied using solar radiation, temperature and wind speed data, collected on the site of Gandon, located in the northwestern of Senegal. Obtained results were presented as optimal Pareto front. The optimal number of devices, the Levelized Cost of Energy (LCE) and the CO2 emission were determined for each solution. An influence study of the size of diesel generator on the optimal configuration was carried.
 Keywords: hybrid system; optimization; genetic algorithm
 
+ALREADY DONE --> 2012
 Bucher, Christof & Andersson, Göran. (2012). Generation of Domestic Load Profiles -an Adaptive Top-Down Approach. 
 
+ALREADY DONE --> 2012
 Fintan McLoughlin, Aidan Duffy, Michael Conlon,
 Characterising domestic electricity consumption patterns by dwelling and occupant socio-economic variables: An Irish case study,
 Energy and Buildings,
@@ -312,8 +333,10 @@ Keywords: Housing stock energy consumption; Hourly resolution; Physics-based mod
 
 O. Hafez and K. Bhattacharya, "Optimal break-even distance for design of microgrids," 2012 IEEE Electrical Power and Energy Conference, London, ON, Canada, 2012, pp. 139-144, doi: 10.1109/EPEC.2012.6474938.
 
+Already done--> 2012
 S. Y. Wong and A. Chai, "An Off-Grid Solar System for Rural Village in Malaysia," 2012 Asia-Pacific Power and Energy Engineering Conference, Shanghai, China, 2012, pp. 1-4, doi: 10.1109/APPEEC.2012.6307162.
 
+ALREADY DONE --> 2013
 Sahu, A.K., Shandilya, D.A., & Bhardwaj, D.S. (2013). Forecasting and Management of Load for Rural Areas.
 
 Kaden, Robert & Kolbe, Thomas. (2013). City-wide total energy demand estimation of buildings using semantic 3D city models and statistical data. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences. II-2/W1. 163-171. 10.5194/isprsannals-II-2-W1-163-2013. 
@@ -350,6 +373,7 @@ Wytock, Matt & Kolter, J.. (2013). Contextually Supervised Source Separation wit
 
 Islam, Asif & Hasib, Samiur & Shariful Islam, Md. (2013). Short term electricity demand forecasting of an isolated area using two different approach. Journal of Power Technololies. 93. 185-193. 
 
+ALREADY DONE --> 2013
 B. Ould. Bilal, V. Sambou, P.A. Ndiaye, C.M.F. Kébé, M. Ndongo,
 Study of the Influence of Load Profile Variation on the Optimal Sizing of a Standalone Hybrid PV/Wind/Battery/Diesel System,
 Energy Procedia,
@@ -398,6 +422,7 @@ From the Bottom Up: How Small Power Producers and Mini-Grids Can Deliver Electri
 Bernard Tenenbaum, Chris Greacen, Tilak Siyambalapitiya, and James Knuckles
 Directions in Development - Energy and Mining. January 2014
 
+ALREADY DONE --> 2014
 M. B. Shadmand and R. S. Balog, "Multi-Objective Optimization and Design of Photovoltaic-Wind Hybrid System for Community Smart DC Microgrid," in IEEE Transactions on Smart Grid, vol. 5, no. 5, pp. 2635-2643, Sept. 2014, doi: 10.1109/TSG.2014.2315043.
 
 Joana Ortiz, Francesco Guarino, Jaume Salom, Cristina Corchero, Maurizio Cellura,
@@ -428,8 +453,10 @@ Flynn, Damian & Neu, Olivier & sherlock, bronagh & Oxizidis, Simeon & finn, dona
 
 B. J. Johnson, M. R. Starke, O. A. Abdelaziz, R. K. Jackson and L. M. Tolbert, "A MATLAB based occupant driven dynamic model for predicting residential power demand," 2014 IEEE PES T&D Conference and Exposition, Chicago, IL, USA, 2014, pp. 1-5, doi: 10.1109/TDC.2014.6863381.
 
+ALREADY DONE --> 2014
 P. J. Boait and J. R. Snape, "Demand management for isolated mini-grids supplied by renewable generation," 2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET), Dhaka, Bangladesh, 2014, pp. 1-6, doi: 10.1109/ICDRET.2014.6861688.
 
+ALREADY DONE --> 2014
 Eklas Hossain, Ersan Kabalci, Ramazan Bayindir, Ronald Perez,
 Microgrid testbeds around the world: State of art,
 Energy Conversion and Management,
@@ -442,6 +469,7 @@ https://doi.org/10.1016/j.enconman.2014.05.012.
 Abstract: This paper deals with the recent evolution of microgrids being used around the world in real life applications as well as laboratory application for research. This study is intended to introduce the subject by reviewing the components level, structure and types of microgrid applications installed as a plant or modeled as a simulation environment. The paper also presents a survey regarding published papers on why the microgrid is required, and what the components and control systems are which constitute the actual microgrid studies. It leads the researcher to see the microgrid in terms of the actual bigger picture of today and creates a new outlook about the potential developments. Additionally, comparison of microgrids in various regions based on several parameters allows researchers to define the required criteria and features of a special microgrid that is chosen for a particular scenario. The authors of this paper also tabulated all the necessary information about microgrids, and proposed a standard microgrid for better power quality and optimizing energy generation. Consequently, it is focused on inadequate knowledge and technology gaps in the power system field with regards to the future, and it is this which has been illustrated for the reader. The existing microgrid testbeds all around the world have been studied and analyzed and several of them are explained as an example in this study. Later, those investigated distribution systems are classified based on region (North America, Europe and Asia) and, as presented in literature, a significant amount of deviation has been found. Several tabulated data sheets have been used to compare and contrast the existing test systems. This research has been concluded with worthy findings and potential areas of research that would enhance the current distributed network as well as introduce microgrid testbeds comprehensively, and aid designers in optimizing green distributed system efficiency for a reliable power supply.
 Keywords: Microgrid; Distributed system; Optimizing energy generation; Reliable power supply
 
+ALREADY DONE--> 2014
 Amine El Fathi, Lahcen Nkhaili, Amin Bennouna, Abdelkader Outzourhit,
 Performance parameters of a standalone PV plant,
 Energy Conversion and Management,
@@ -454,6 +482,7 @@ https://doi.org/10.1016/j.enconman.2014.05.045.
 Abstract: In this work we present a detailed description of a 7.2kWp photovoltaic power plant installed in the remote rural village Elkaria (province of Essaouira in Morocco). This plant supplies 16 households with electricity through a local grid that was installed for this purpose. The results of monitoring some performance parameters of the plant such as load curve, the yields and the performance ratio are presented and discussed. The performance ratio of the PV plant varied between 33% and 70.2%. The low values of this parameter are mainly attributed to the way the battery inverter manages the energy flow.
 Keywords: PV plant; Performance ratio; Droop mode; Yields; Isolated grid
 
+ALREADY DONE --> 2014
 Hafeez Olasunkanmi Tijani, Chee Wei Tan, and Nouruddeen Bashir , "Techno-economic analysis of hybrid photovoltaic/diesel/battery off-grid system in northern Nigeria", Journal of Renewable and Sustainable Energy 6, 033103 (2014) https://doi.org/10.1063/1.4873122
 
 Danielle Monfet, Maria Corsi, Daniel Choinière, Elena Arkhipova,
@@ -472,8 +501,10 @@ E. B. Alzate, N. H. Mallick and J. Xie, "A high-resolution smart home power dema
 
 A. J. Collin, G. Tsagarakis, A. E. Kiprakis and S. McLaughlin, "Development of Low-Voltage Load Models for the Residential Load Sector," in IEEE Transactions on Power Systems, vol. 29, no. 5, pp. 2180-2188, Sept. 2014, doi: 10.1109/TPWRS.2014.2301949.
 
+ALREADY DONE --> 2014
 Ohijeagbon, O.D., & Ajayi, O.O. (2014). Potential and economic viability of standalone hybrid systems for a rural community of Sokoto, North-west Nigeria. Frontiers in Energy, 8, 145-159.
 
+ALREADY DONE --> 2014
 Rohit Sen, Subhes C. Bhattacharyya,
 Off-grid electricity generation with renewable energy technologies in India: An application of HOMER,
 Renewable Energy,
@@ -488,10 +519,12 @@ Keywords: Hybrid systems; Off-grid electrification; HOMER; India
 
 A. Ridi, C. Gisler and J. Hennebert, "ACS-F2 — A new database of appliance consumption signatures," 2014 6th International Conference of Soft Computing and Pattern Recognition (SoCPaR), Tunis, Tunisia, 2014, pp. 145-150, doi: 10.1109/SOCPAR.2014.7007996.
 
+ALREADY DONE --> 2015
 Gangwar, Sachin & Bhanja, Dipankar & Biswas, Agnimitra. (2015). Cost, reliability, and sensitivity of a stand-alone hybrid renewable energy system—A case study on a lecture building with low load factor. JOURNAL OF RENEWABLE AND SUSTAINABLE ENERGY. 7. 10.1063/1.4906916. 
 
 Koronaki, I.P. & Škrjanc, Maja & Kenda, Klemen & Kalaboukas, Kostas & Markogiannakis, George & Giannis, Hamodrakas & Mokorel, Simon & Ljubljana, Envigence & Slovenia, & Nienke, Steffen & Calefato, Caterina. (2015). Energy Forecasting and Modelling in Rural Areas. 10.1109/IISA.2015.7388058. 
 
+ALREADY DONE--> 2015
 P. Boait, V. Advani, R. Gammon,
 Estimation of demand diversity and daily demand profile for off-grid electrification in developing countries,
 Energy for Sustainable Development,
@@ -534,6 +567,7 @@ L. Mauch and B. Yang, "A new approach for supervised power disaggregation by usi
 
 Kush, Ramazon & Chen, George & Abelson, Brian & Nowocin, Kendall & Sakhrani, Vivek & Xu, Ling & Spatocco, Brian. (2015). Targeting Villages for Rural Development Using Satellite Image Analysis. Big Data. 3. 41-53. 10.1089/big.2014.0061. 
 
+ALREADY DONE --> 2015
 Nathaniel J. Williams, Paulina Jaramillo, Jay Taneja, Taha Selim Ustun,
 Enabling private sector investment in microgrid-based rural electrification in developing countries: A review,
 Renewable and Sustainable Energy Reviews,
@@ -558,6 +592,7 @@ https://doi.org/10.1016/j.energy.2015.07.008.
 Abstract: In this study, a hybrid power system consisting of PV (Photovoltaics) panels, a wind turbine and a biogas engine is proposed to supply the electricity demand of a village in Kenya. The average and the peak load of the village are around 8 kW and 16.5 kW respectively. The feasibility of using locally produced biogas to drive a backup engine in comparison to using a diesel engine as backup has been explored through a techno-economic analysis using HOMER (Hybrid Optimization Model for Electric Renewables). This hybrid system has also been compared with a single diesel based power system. The results show that the hybrid system integrated with the biogas engine as backup can be a better solution than using a diesel engine as backup. The share of power generation by PV, wind and biogas are 49%, 19% and 32%, respectively. The LCOE (Levelized Cost of Electricity) of generated electricity by this hybrid system ($0.25/kWh) is about 20% cheaper than that with a diesel engine as backup ($0.31/kWh), while the capital cost and the total NPC (Net Present Cost) are about 30% and 18% lower, respectively. Regarding CO2 emissions, using a biogas engine as backup saves 17 tons of CO2 per year compared to using the diesel engine as backup.
 Keywords: Biogas engine; Decentralized energy system; Polygeneration; Techno-economic optimization; HOMER; Rural electrification
 
+ALREADY DONE --> 2015
 Lanre Olatomiwa, Saad Mekhilef, A.S.N. Huda, Olayinka S. Ohunakin,
 Economic evaluation of hybrid energy systems for rural electrification in six geo-political zones of Nigeria,
 Renewable Energy,
@@ -570,6 +605,7 @@ https://doi.org/10.1016/j.renene.2015.04.057.
 Abstract: Rural electrification improves the quality of life of rural dwellers having limited or non-access to electricity through decentralized electricity coverage. Since the price of oil is unstable and fluctuating day by day and grid expansion is not also a cost effective solution, integrating renewable energy sources thus become an important alternative for rural electrification. The present study investigated the feasibility of different power generation configurations comprising solar array, wind turbine and diesel generator in different locations within the geo-political zones of Nigeria. Six rural communities were randomly chosen from each of the six geo-political zones in Nigeria with the intention that the results of the study could be replicated in other remote locations of the selected zones with similar terrains. HOMER (Hybrid Optimization Model for Electric Renewable) simulation software was used to determine the economic feasibility of the systems. The simulations concentrated on the net present costs, cost of energy and renewable fraction of the given hybrid configurations for all the climatic zones. The analysis indicates that the PV/diesel/battery hybrid renewable system configuration is found as optimum architecture for both sensitivity cases of 1.1 and $1.3/l of diesel. It also displayed better performance in fuel consumption and CO2 reduction.
 Keywords: Hybrid system; Optimization; Rural electrification; Economic evaluation; Nigeria
 
+ALREADY DONE --> 2015
 Diana Neves, Carlos A. Silva,
 Optimal electricity dispatch on isolated mini-grids using a demand response strategy for thermal storage backup with genetic algorithms,
 Energy,
@@ -582,8 +618,10 @@ https://doi.org/10.1016/j.energy.2015.01.054.
 Abstract: The present study uses the DHW (domestic hot water) electric backup from solar thermal systems to optimize the total electricity dispatch of an isolated mini-grid. The proposed approach estimates the hourly DHW load, and proposes and simulates different DR (demand response) strategies, from the supply side, to minimize the dispatch costs of an energy system. The case study consists on optimizing the electricity load, in a representative day with low solar radiation, in Corvo Island, Azores. The DHW backup is induced by three different demand patterns. The study compares different DR strategies: backup at demand (no strategy), pre-scheduled backup using two different imposed schedules, a strategy based on linear programming, and finally two strategies using genetic algorithms, with different formulations for DHW backup – one that assigns number of systems and another that assigns energy demand. It is concluded that pre-determined DR strategies may increase the generation costs, but DR strategies based on optimization algorithms are able to decrease generation costs. In particular, linear programming is the strategy that presents the lowest increase on dispatch costs, but the strategy based on genetic algorithms is the one that best minimizes both daily operation costs and total energy demand, of the system.
 Keywords: Demand response; Thermal storage; Domestic hot water; Renewable energy; Genetic algorithms; Linear programming
 
+ALREADY DONE --> 2015
 A. Tesfaye and M. A. Khader, "Strategies for promoting the use of renewable energy in Ethiopia," AFRICON 2015, Addis Ababa, Ethiopia, 2015, pp. 1-7, doi: 10.1109/AFRCON.2015.7331914.
 
+ALREADY DONE --> 2015
 Subho Upadhyay, M.P. Sharma,
 Development of hybrid energy system with cycle charging strategy using particle swarm optimization for a remote area in India,
 Renewable Energy,
@@ -628,6 +666,7 @@ Mandelli, Stefano. (2016). Strategies for access to energy in developing countri
 
 Oladeji, Akinola & Sule, B.. (2015). Electrical Load Survey and Forecast for a Decentralized Hybrid Power System at Elebu, Kwara State, Nigeria. Nigerian Journal of Technology. 34. 591. 10.4314/njt.v34i3.23. 
 
+ALREADY DONE --> 2016
 S.R. Tito, T.T. Lie, T.N. Anderson,
 Optimal sizing of a wind-photovoltaic-battery hybrid renewable energy system considering socio-demographic factors,
 Solar Energy,
@@ -676,8 +715,10 @@ https://doi.org/10.1016/j.apenergy.2015.10.024.
 Abstract: This study highlights the forthcoming problem with diminishing environmental benefits from heat demand reducing energy conservation measures (ECM) of buildings within district heating systems (DHS), as the supply side is becoming “greener” and more primary energy efficient. In this study heat demand profiles and annual electricity-to-heat factors of ECMs in buildings are computed and their impact on system efficiency and greenhouse gas emissions of a Swedish biomass fuelled and combined heat and power utilising DHS are assessed. A weather normalising method for the DHS heat load is developed, combining segmented multivariable linear regressions with typical meteorological year weather data to enable the DHS model and the buildings model to work under the same weather conditions. Improving the buildings’ envelope insulation level and thereby levelling out the DHS heat load curve reduces greenhouse gas emissions and improves primary energy efficiency. Reducing household electricity use proves to be highly beneficial, partly because it increases heat demand, allowing for more cogeneration of electricity. However the other ECMs considered may cause increased greenhouse gas emissions, mainly because of their adverse impact on the cogeneration of electricity. If biomass fuels are considered as residuals, and thus assigned low primary energy factors, primary energy efficiency decreases when implementing ECMs that lower heat demand.
 Keywords: District heating; Energy conservation; Weather normalisation; Typical meteorological year; Building energy simulation; Energy system assessment
 
+ALREADY DONE--> 2016
 Prinsloo, Gerro & Dobson, Robert & Brent, Alan. (2016). Scoping exercise to determine load profile archetype reference shapes for solar co-generation models in isolated off-grid rural African villages. Journal of Energy in Southern Africa. 28. 
 
+ALREADY DONE --> 2016
 SK.A. Shezan, S. Julai, M.A. Kibria, K.R. Ullah, R. Saidur, W.T. Chong, R.K. Akikur,
 Performance analysis of an off-grid wind-PV (photovoltaic)-diesel-battery hybrid energy system feasible for remote areas,
 Journal of Cleaner Production,
@@ -714,6 +755,8 @@ https://doi.org/10.1016/j.esd.2016.08.002.
 Abstract: The proliferation of off-grid photovoltaic (PV) systems is rapidly increasing in the least developed countries. The sizing of system components—primarily PV panels and batteries—is critically influenced by the expected daily load. However, accurately estimating incipient electrical load of rural consumers is fraught with challenges. Load estimation error is propagated through the design phase, potentially resulting in a system that is unduly expensive or fails to meet reliability targets. This article investigates the effects of daily load estimation error on system design, cost and reliability. Load and insolation data from seven off-grid systems in Malawi were collected. The systems were redesigned using three different intuitive design approaches considering different levels of load estimation error, ranging from ±90% of the actual measured load. The cost of each design is estimated from in-country prices. The reliability of each design is determined from an hourly simulation using the measured data. The results show that PV array and battery sizing scale proportionately with load estimation error and that the cost of load over-estimation is approximately US$1.92 to US$6.02 per watthour, whereas under-estimation can precipitously degrade reliability. A cost-versus-reliability analysis shows that for the Malawi systems, on average 46% of the PV and battery costs are used to improve the simulated hourly reliability from 99% to 100%. Moreover, the results point to the challenges with intuitive design approaches, showing that consideration of average load alone can lead to over- or under-designed systems.
 Keywords: Microgrids; Solar power; Reliability; Rural electrification
 
+
+ALREADY DONE --> 2016
 Stefano Mandelli, Marco Merlo, Emanuela Colombo,
 Novel procedure to formulate load profiles for off-grid rural areas,
 Energy for Sustainable Development,
@@ -762,7 +805,7 @@ https://doi.org/10.1016/j.enbuild.2015.12.004.
 Abstract: In the residential sector, with the introduction of electric vehicles and photovoltaics, developments are taking place which have an impact on residential load curves. In order to assess the integration of these new types of technologies on both the generation and load side, as well as to develop mitigation strategies like demand side management, detailed information is required about the load curve of a household. To gain knowledge about this load curve a residential load model is developed based on publicly available data. The model utilises a Markov Chain Monte Carlo method to model the occupancy in a household based on time use surveys, which together with weather variables, neighbourhood characteristics and behavioural data are used to model the switching pattern of appliances. The modelling approach described in this paper is applied for the situation in the Netherlands. The resulting load curve probability distributions are validated with smart meter measurements for 100 Dutch households for a week. The validation shows that the model presented in this paper can be employed for further studies on demand side management approaches and integration issues of new appliances in distribution grids.
 Keywords: Residential energy consumption modelling; Electricity consumption; Occupancy; Household appliance; Markov Chain; Load curves
 
-
+ALREADY DONE --> 2016
 Normazlina Mat Isa, Himadry Shekhar Das, Chee Wei Tan, A.H.M. Yatim, Kwan Yiew Lau,
 A techno-economic assessment of a combined heat and power photovoltaic/fuel cell/battery energy system in Malaysia hospital,
 Energy,
@@ -787,8 +830,13 @@ https://doi.org/10.1016/j.enbuild.2016.05.060.
 Abstract: Domestic electricity load profile is essential for energy planning and renewable energy system design. This paper presents analysis of domestic electric load characteristics and a method to model domestic and regional load profile. Multiple Gaussian functions are used to express the load characteristics in the proposed model. This is done by associating the Gaussian function parameters with the peak load changes, e.g. changing height parameters to reflect the peak magnitude. The result of the load curve represented with multiple Gaussian functions allows the model to generate a regional load profile using the number of homes, the number of bedrooms (Nr) and the number of occupants (Np). The proposed model simulates domestic load profile by its load demand change characteristics instead of its appliance ownership and use pattern, etc. Data requirement for the proposed method is significantly lower than the previous top-down and bottom-up approaches. Seasonal change is not included in the present paper, but the method is capable of including seasonal changes if each season’s load demand changes in relation to Np and Nr is available. A demonstration of modelling England and Wales’s national hourly load profile in 2001 and 2011 is presented in this paper. Comparison is made of the proposed method with two other published domestic load profile models. Results show that the proposed method improves the mean percentage errors by at least 5.7% on average hourly load profile.
 Keywords: Electricity load modelling; Domestic load profiles; Energy-consumption; Energy planning; Multiple Gaussian functions
 
+ALREADY DONE --> 2017
+Sampathkumar V. Patil, Dr. S. B Shivakumar. (2017). Evolutionary Algorithms Based Optimization of PID Controller for Hybrid Renewable Energy System, International Journal of Advance Researchn, ideas and innovations in Technology.
+
+ALREADY DONE --> 2017
 Rahman, Mizanur & Faizal, Hasan & Saat, Aminuddin & Wahid, Mazlan. (2017). Renewable resource based decentralized power system to a remote village in Malaysia: Optimization and techno-economic evaluation. 1-17. 
 
+ALREADY DONE --> 2017
 Courtney Blodgett, Peter Dauenhauer, Henry Louie, Lauren Kickham,
 Accuracy of energy-use surveys in predicting rural mini-grid user consumption,
 Energy for Sustainable Development,
@@ -827,6 +875,7 @@ Keywords: Microgrid; Emerging Countries; Electrochemical Energy Storage; Photovo
 
 Boait P, Gammon R, Advani V, Wade N, Greenwood D, Davison P. ESCoBox: A Set of Tools for Mini-Grid Sustainability in the Developing World. Sustainability. 2017; 9(5):738. https://doi.org/10.3390/su9050738
 
+ALREADY DONE --> 2017
 Chukwuma Leonard Azimoh, Patrik Klintenberg, Charles Mbohwa, Fredrik Wallin,
 Replicability and scalability of mini-grid solution to rural electrification programs in sub-Saharan Africa,
 Renewable Energy,
@@ -839,8 +888,10 @@ https://doi.org/10.1016/j.renene.2017.01.017.
 Abstract: The assessment of off-grid electrification programs in developing countries largely based on mini-grid and solar home system (SHS) has shown that they are faced with low development imparts and sustainability challenges, which has resulted in failure of many projects. This study provides solutions on how to surmount these challenges, leaning on the experience of a hybrid solar-diesel mini-grid at Tsumkwe village in Namibia. It provides analyses of a case study based on empirical evidence from field studies, interviews of representatives of households, public institutions and energy providers. In addition, it investigates the technical challenges and economic impacts of the electrification program. HOMER™ and MATLAB™ models were used in the analysis and investigations. The findings show that despite the challenges, the system has been sustained because it keyed into an existing structure with growth potentials. The progressive tariff system adopted by the government helped to cushion costs and allow low income households in the energy matrix. Adoption of strict maintenance measures, and implementation of energy efficiency measures prior to the commissioning of the program, resulted in the reduction of costs. The success elements identified in this study could be extrapolated in other sub-Saharan African countries if the challenges are properly addressed.
 Keywords: Hybrid solar-diesel mini-grid; Rural electrification; Success elements for off-grid electrification; Net present cost; Levelized cost of electricity; Resource optimization
 
+ALREADY DONE --> 2017
 N. J. Williams, P. Jaramillo, B. Cornell, I. Lyons-Galante and E. Wynn, "Load characteristics of East African microgrids," 2017 IEEE PES PowerAfrica, Accra, Ghana, 2017, pp. 236-241, doi: 10.1109/PowerAfrica.2017.7991230.
 
+ALREADY DONE--> 2017
 Shreya Dutta, Yanling Li, Aditya Venkataraman, Luis M. Costa, Tianxiang Jiang, Robert Plana, Philippe Tordjman, Fook Hoong Choo, Chek Fok Foo, Hans B. Puttgen,
 Load and Renewable Energy Forecasting for a Microgrid using Persistence Technique,
 Energy Procedia,
@@ -853,6 +904,7 @@ https://doi.org/10.1016/j.egypro.2017.12.736.
 Abstract: A microgrid system, be it connected to the utility grid or an independent system, usually consists of a mix of generation - renewable and non-renewable; loads - controllable or non-controllable and Energy Storage Systems (ESSs) such as batteries or flywheels. In order to determine how much power is utilized from the controllable resources such as ESS, diesel generators, micro-turbines or gas turbines, we first need to determine how much the demand is or how much the renewable energy sources are generating is which is accomplished using forecasting techniques. Due to the intermittent nature of renewable resources such as wind energy or solar energy, it is difficult to forecast wind power or solar power accurately. These forecasts are highly dependent on weather forecasts. It is evident that forecast of any data based on forecast of other parameters would lead to further inaccuracy, even if the relation between the inputs and output maybe predetermined through regression methods. Therefore, this paper illustrates an approach to use historical power data instead of numerical weather predictions to produce short-term forecast results. The concept is based on persistence method presented in [1]. This method uses the “today equals tomorrow” concept. From [2], we know that persistence technique produces results that are more accurate as compared to other forecasting techniques for a look-ahead time of 4-6 hours. Both [1] and [2] were based on wind power forecasting. In this paper, we investigate persistence method for short-term electrical demand, solar PV (Photovoltaic) power and wind power forecasting. Since the forecasts are dependent on historical averages of the data in the ‘near’ past, the accuracy is inversely proportional to the variation of power between the historical data and the actual data.
 Keywords: load forecasting; renewable energy forecasting; microgrids; persistence
 
+ALREADY DONE--> 2017
 Subieta, S.L., Tarantino, A., Sabatini, S., Riva, F., Bonamini, G., & Quoilin, S. (2017). Feasibility Study of PV & Li-Ion Battery Based Micro-Grids for Bolivian Off-Grid Communities.
 
 D. J. Zimmerle and S. H. Kuppa, "Statistical failure estimation method to size off-grid electrical systems for villages in developing countries," 2017 IEEE Global Humanitarian Technology Conference (GHTC), San Jose, CA, USA, 2017, pp. 1-6, doi: 10.1109/GHTC.2017.8239285.
@@ -869,16 +921,20 @@ https://doi.org/10.1016/j.applthermaleng.2016.11.020.
 Abstract: Indian power supply is dominated by large coal based power plants connected to the national grid. Though it is economically viable for large consumption in industries but it may not be sustainable for many poor Indian villages, specifically for remote off-grid connection. Decentralized small scale power or even multi utility systems using local resources may be a sustainable option for these villages. Multi-utility energy system, i.e. polygeneration helps to cater to the secondary energy needs of a locality. But the secondary energy supply should be available at affordable cost. Minimization of the cost of secondary energy helps to increase the economic acceptability of a distributed energy system. In this paper, a polygeneration with solar PV, biomass power, ethanol production unit and cooling is proposed for an Indian off grid village. An economic model developed in MATLAB using linear programming approach to determine the optimal size of the system by maximization of the annualized profit has been reported. Results show that multiple energy utility supply is possible through distributed polygeneration. This renewable energy based polygeneration reduce CO2 emission significantly as compared to diesel generator set. Reliability and sensitivity analysis as well as comparison of estimated performance for four different locations in India is reported.
 Keywords: Polygeneration; Solar insolation; Reliability; Ethanol; Loss of power supply probability; Unmet load
 
+ALREADY DONE --> 2017
 Onasanya, M.A. (2017). An evaluation and development of the potentials of photovoltaic systems for water pumping and electricity services in rural areas of Nigeria.
 
+ALREADY DONE --> 2017
 C. Ghenai, T. Salameh, A. Merabet and A. K. Hamid, "Modeling and optimization of hybrid solar-diesel-battery power system," 2017 7th International Conference on Modeling, Simulation, and Applied Optimization (ICMSAO), Sharjah, United Arab Emirates, 2017, pp. 1-5, doi: 10.1109/ICMSAO.2017.7934885.
 
+ALREADY DONE --> 2018
 Sawle, Y, Gupta, SC, Bohre, AK. A novel methodology for scrutiny of autonomous hybrid renewable energy system. Int J Energy Res. 2018; 42: 570- 586. https://doi.org/10.1002/er.3841
 
 S. Thorve, S. Swarup, A. Marathe, Y. Chungbaek, E. K. Nordberg and M. V. Marathe, "SIMULATING RESIDENTIAL ENERGY DEMAND IN URBAN AND RURAL AREAS," 2018 Winter Simulation Conference (WSC), Gothenburg, Sweden, 2018, pp. 548-559, doi: 10.1109/WSC.2018.8632203.
 
 Wang, Huijuan & Yang, Wenrong. (2018). An Iterative Load Disaggregation Approach Based on Appliance Consumption Pattern. Applied Sciences. 8. 542. 10.3390/app8040542. 
 
+ALREADY DONE--> 2018
 Elias Hartvigsson, Erik O. Ahlgren,
 Comparison of load profiles in a mini-grid: Assessment of performance metrics using measured and interview-based data,
 Energy for Sustainable Development,
@@ -893,8 +949,13 @@ Keywords: Rural electrification; Load profiles; Load assessments; Mini-grids
 
 Dominguez, Cristina & Orehounig, Kristina & Carmeliet, Jan. (2018). One step further for electrifying rural households in Africa: A novel electricity demand modelling approach. 
 
+ALREADY DONE --> 2018
 Subieta, S.L., Haderspock, F., Canedo, W.S., Renan, O., & Quoilin, S. (2018). Techno-economic evaluation of rural electrification in Bolivia: lessons learned from the “El Espino” micro-grid.
 
+ALREADY DONE --> 2018
+Ahsan Kabir, Mazharul Hoque, Nazmus Sakib (2018). Design And Analysis Of Eco-Friendly Off-Grid Hybrid Power Generation For Remote Areas Of Chapainawabgonj District In Bangladesh.
+
+ALREADY DONE --> 2018
 El-Raouf, M.O., Mosaad, M.I., AL-AHMAR, M.A., & Bendary, F.M. (2018). Techno-Economic Analysis of Hybrid Renewable Energy Power Network for New Community in Egypt, Case Study New El-Farafra Oasis.
 
 Gao B, Liu X, Zhu Z. A Bottom-Up Model for Household Load Profile Based on the Consumption Behavior of Residents. Energies. 2018; 11(8):2112. https://doi.org/10.3390/en11082112
@@ -911,6 +972,7 @@ https://doi.org/10.1016/j.rser.2017.06.033.
 Abstract: PV and wind hybrid are found to be the most lucrative solution for the diminishing traditional energy sources. Whereas these alternatives sources of the energy have many remarkable rewards like cost of energy and feasibility etc. The attributes of these sources of being cost effective and stable are possible due to their complementary nature as compared to independent energy systems. Therefore, these systems have admirable capability to meet energy crisis up to some extent. The proposed work gives the idea about various configuration, control strategy, techno-economic analysis and social effect. The findings of comprehensive review will help for further improvements in hybrid system design and control with respect to practical system implementation. This paper also presents a case study of remote area Barwani, India and results are compared using Homer and PSO. The resulting analysis reveals that configurations of hybrid system are the most techno-economical feasible solution concerning COE, renewable fraction, maximum renewable penetration, levelized cost, operating cost, mean electrical efficiency, and emission amongst various hybrid system configurations using PSO as compared to HOMER.
 Keywords: PV system; Wind systems; Modeling; Homer; PSO techniques
 
+ALREADY DONE --> 2018
 C. Zhang, S. R. Kuppannagari, R. Kannan and V. K. Prasanna, "Generative Adversarial Network for Synthetic Time Series Data Generation in Smart Grids," 2018 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Aalborg, Denmark, 2018, pp. 1-6, doi: 10.1109/SmartGridComm.2018.8587464.
 
 Gao B, Liu X, Zhu Z. A Bottom-Up Model for Household Load Profile Based on the Consumption Behavior of Residents. Energies. 2018; 11(8):2112. https://doi.org/10.3390/en11082112
@@ -941,8 +1003,10 @@ https://doi.org/10.1016/j.solener.2019.07.008.
 Abstract: This paper validates the optimal design and techno-economic feasibility of hybrid renewable energy system (HRES) for rural area electrifying applications. Plan to a design of improved performance electrification system through village owned renewable resources, such as solar irradiations, wind speed and bio mass etc. The selected HRE system has to meet out electrical needs in optimum performance manner. Hear conducted a case study on remote village Korkadu is located in Union Territory of Pondicherry, India. The expected village demand of 179.32 Kwh/day and peak of 19.56 Kw was met with proposed HRE structure, which is consists of solar PV array, wind turbine, Bio mass power generator and Battery backup system in effectively. Load growth of the village was predicted through artificial neural network (ANN-BP) feed-back propagation and Levenberg-Marguardt (LM) data training optimum technique. Encounter the optimum performance of different HRE configuration was evaluated over by HOMER software. System’s economic dispatch was analysed through various dispatch strategy and come across the proposing companied dispatch strategy has more economical and performance benefits as total NPC of system as INR 1.21 million, one unit energy generation cost as INR 13.71 and annual battery throughput as 36.648 KWh/yr. This study also expresses the comparison analysis between proposed HRES structure performance with basic utility grid extension. The consequence of the proposed work shows the HRES in remote location can be a cost effective solution for sustainable development of rural regions.
 Keywords: Rural Electrification; PV; Wind; Bio-energy; Hybrid energy system; Economic analysis; Investment resource management
 
+ALREADY DONE --> 2019
 Barelli L, Bidini G, Cherubini P, Micangeli A, Pelosi D, Tacconelli C. How Hybridization of Energy Storage Technologies Can Provide Additional Flexibility and Competitiveness to Microgrids in the Context of Developing Countries. Energies. 2019; 12(16):3138. https://doi.org/10.3390/en12163138
 
+ALREADY DONE --> 2019
 Francesco Lombardi, Sergio Balderrama, Sylvain Quoilin, Emanuela Colombo,
 Generating high-resolution multi-energy load profiles for remote areas with an open-source stochastic model,
 Energy,
@@ -955,8 +1019,10 @@ https://doi.org/10.1016/j.energy.2019.04.097.
 Abstract: Energy access projects in remote off-grid areas would benefit from the adoption of a multi-energy system perspective, addressing all energy needs – not only lighting and power appliances, but also water-heating and cooking – by means of a mix of energy vectors. However, multi-energy analyses in remote areas are hindered by a lack of models allowing for the generation of multi-energy load profiles based on interview-based information characterised by high uncertainty. This study proposes a novel open-source bottom-up stochastic model specifically conceived for the generation of multi-energy loads for systems located in remote areas. The model is tested and validated against data obtained from a real system, showing a very good approximation of measured profiles, with percentage errors consistently below 2% for all the selected indicators, and an improved accuracy compared to existing approaches. In particular, some innovative features – such as the possibility to define and modulate throughout the day appliances’ duty cycles – seem to be determinant in marking a difference with previous approaches. This might arguably be even more beneficial for case studies characterised by a larger penetration of appliances that are subject to complex and unpredictable duty cycle behaviour.
 Keywords: Load profile; Energy demand; Multi-energy system; Off-grid; Rural areas
 
+ALREADY DONE --> 2019
 Bahaj A, Blunden L, Kanani C, James P, Kiva I, Matthews Z, Price H, Essendi H, Falkingham J, George G. The Impact of an Electrical Mini-grid on the Development of a Rural Community in Kenya. Energies. 2019; 12(5):778. https://doi.org/10.3390/en12050778
 
+ALREADY DONE --> 2019
 Sergio Balderrama, Francesco Lombardi, Fabio Riva, Walter Canedo, Emanuela Colombo, Sylvain Quoilin,
 A two-stage linear programming optimization framework for isolated hybrid microgrids in a rural context: The case study of the “El Espino” community,
 Energy,
@@ -973,6 +1039,7 @@ Schneider, Stefan & Hollmuller, Pierre & Chambers, Jonathan & Patel, M. (2019). 
 
 Yu J, Gao Y, Wu Y, Jiao D, Su C, Wu X. Non-Intrusive Load Disaggregation by Linear Classifier Group Considering Multi-Feature Integration. Applied Sciences. 2019; 9(17):3558. https://doi.org/10.3390/app9173558
 
+ALREADY DONE --> 2019
 Mulugeta W. Asres, Awet A. Girmay, Christian Camarda, Gebremichael T. Tesfamariam,
 Non-intrusive Load Composition Estimation from Aggregate ZIP Load Models using Machine Learning,
 International Journal of Electrical Power & Energy Systems,
@@ -985,8 +1052,10 @@ https://doi.org/10.1016/j.ijepes.2018.08.016.
 Abstract: Having continuous load structure and composition information of substations has a great relevance in power system analysis such as load modeling, load forecasting and demand-side management. In this paper, a parsimonious approach for load composition estimation using non-intrusive load disaggregation techniques for low voltage substations is presented with a concept of using ZIP load model characteristics of the aggregate active and reactive powers as predictor features. The disaggregation system uses machine learning algorithms such as Function Fitting Multi-Layer Perceptron Artificial Neural Network (MLP-ANN), Particle Swarm Optimization (PSO) and Genetic Algorithm (GA). During the study, a simulation dataset was generated using Monte Carlo simulation. Moreover, a comparative analysis with a benchmarked paper has been assessed and the proposed approach significantly outperforms.
 Keywords: Artificial neural network; Load composition estimation; Load disaggregation; Non-intrusive load monitoring; Substation; ZIP modeling
 
+ALREADY DONE --> 2019
 Y. Gu, Q. Chen, K. Liu, L. Xie and C. Kang, "GAN-based Model for Residential Load Generation Considering Typical Consumption Patterns," 2019 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), Washington, DC, USA, 2019, pp. 1-5, doi: 10.1109/ISGT.2019.8791575.
 
+ALREADY DONE --> 2019
 M. Saviozzi, S. Massucco, F. Silvestro,
 Implementation of advanced functionalities for Distribution Management Systems: Load forecasting and modeling through Artificial Neural Networks ensembles,
 Electric Power Systems Research,
@@ -1000,8 +1069,10 @@ Abstract: Electric power systems are undergoing significant changes in all secto
 Keywords: Distribution Management System; Load forecasting; Load modeling; Artificial Neural Networks
 
 
+ALREADY DONE--> 2019
 M. Kaselimi, E. Protopapadakis, A. Voulodimos, N. Doulamis and A. Doulamis, "Multi-Channel Recurrent Convolutional Neural Networks for Energy Disaggregation," in IEEE Access, vol. 7, pp. 81047-81056, 2019, doi: 10.1109/ACCESS.2019.2923742.
 
+ALREADY DONE --> 2019
 Karim Moharm,
 State of the art in big data applications in microgrid: A review,
 Advanced Engineering Informatics,
@@ -1040,9 +1111,10 @@ https://doi.org/10.1016/j.energy.2019.03.172.
 Abstract: In the framework of distributed energy planning, evaluating reliable energy profiles of different sectors has a prominent role. At the same time, it is a quite challenging task, since the availability of actual energy profiles of buildings at the district level is not widespread. A survey of over 70 studies in scientific literature has been accomplished and a set of criteria has been defined for classifying the selected contributions based on the energy demand data features, source and/or estimation methods, highlighting the ones adopting hourly energy profiles. As final results, tables summarizing the main methods characteristics and a selection of studies providing directly useable energy profiles are reported. Therefore, this study could be useful for stakeholders involved in energy simulations of buildings stocks and community energy planning in assessing the buildings energy demand, with different desired level of detail and available data. The research, broadly, demonstrates that the potential replicability of analysed methods is constrained to the datasets availability and, particularly, highlights the need of reliable hourly energy profiles definition for developing accurate energy scenarios.
 Keywords: Urban district energy planning; Distributed energy systems; Urban district energy demand estimation; Urban energy profiles estimation methods; Buildings hourly energy consumptions
 
-
+ALREADY DONE --> 2019
 Yousif M, Ai Q, Gao Y, Wattoo WA, Hao R, Jiang Z. Dataset for Scheduling Strategies for Microgrids Coupled with Natural Gas Networks. Data. 2019; 4(1):24. https://doi.org/10.3390/data4010024
 
+ALREADY DONE --> 2020
 Lorenzoni, Luca & Cherubini, Paolo & Fioriti, Davide & Poli, Davide & Micangeli, Andrea & Giglioli, Romano. (2020). Classification and modeling of load profiles of isolated mini-grids in developing countries: A data-driven approach. Energy for Sustainable Development. 59. 208-225. 10.1016/j.esd.2020.10.001. 
 
 Tianzhen Hong, Zhe Wang, Xuan Luo, Wanni Zhang,
@@ -1058,6 +1130,7 @@ Abstract: Fueled by big data, powerful and affordable computing resources, and a
 Keywords: Machine learning; Artificial intelligence; Buildings; Building life cycle; Building control; Building performance
 
 
+ALREADY DONE --> 2020
 Fekri MN, Ghosh AM, Grolinger K. Generating Energy Data for Machine Learning with Recurrent Generative Adversarial Networks. Energies. 2020; 13(1):130. https://doi.org/10.3390/en13010130
 
 Wang, Y., Chen, Q., Kang, C. (2020). Residential Load Data Generation. In: Smart Meter Data Analytics. Springer, Singapore. https://doi.org/10.1007/978-981-15-2624-4_5
@@ -1093,6 +1166,7 @@ Keywords: Machine learning; Artificial intelligence; Buildings; Building life cy
 
 Roth, Jonathan & Martin, Amory & Miller, Clayton & Jain, Rishee. (2020). SynCity: Using open data to create a synthetic city of hourly building energy estimates by integrating data-driven and physics-based methods. Applied Energy. 280. 10.1016/j.apenergy.2020.115981. 
 
+ALREADY DONE --> 2022
 Zhe Wang, Tianzhen Hong,
 Generating realistic building electrical load profiles through the Generative Adversarial Network (GAN),
 Energy and Buildings,
@@ -1105,7 +1179,7 @@ https://doi.org/10.1016/j.enbuild.2020.110299.
 Abstract: Building electrical load profiles can improve understanding of building energy efficiency, demand flexibility, and building-grid interactions. Current approaches to generating load profiles are time-consuming and not capable of reflecting the dynamic and stochastic behaviors of real buildings; some approaches also trigger data privacy concerns. In this study, we proposed a novel approach for generating realistic electrical load profiles of buildings through the Generative Adversarial Network (GAN), a machine learning technique that is capable of revealing an unknown probability distribution purely from data. The proposed approach has three main steps: (1) normalizing the daily 24-hour load profiles, (2) clustering the daily load profiles with the k-means algorithm, and (3) using GAN to generate daily load profiles for each cluster. The approach was tested with an open-source database – the Building Data Genome Project. We validated the proposed method by comparing the mean, standard deviation, and distribution of key parameters of the generated load profiles with those of the real ones. The KL divergence of the generated and real load profiles are within 0.3 for majority of parameters and clusters. Additionally, results showed the load profiles generated by GAN can capture not only the general trend but also the random variations of the actual electrical loads in buildings. The proposed GAN approach can be used to generate building electrical load profiles, verify other load profile generation models, detect changes to load profiles, and more importantly, anonymize smart meter data for sharing, to support research and applications of grid-interactive efficient buildings.
 Keywords: Electrical load profile; Generative Adversarial Network (GAN); Machine learning; Smart meter data; Load shape
 
-
+ALREADY DONE --> 2020
 Jhud Mikhail Aberilla, Alejandro Gallego-Schmid, Laurence Stamford, Adisa Azapagic,
 Design and environmental sustainability assessment of small-scale off-grid energy systems for remote rural communities,
 Applied Energy,
@@ -1120,8 +1194,10 @@ Keywords: Hybrid energy systems; Life cycle assessment (LCA); Microgeneration; O
 
 Falchetta, Giacomo & Stevanato, Nicolo & Moner-Girona, Magda & Mazzoni, Davide & Colombo, Emanuela & Hafner, Manfred. (2020). M-LED: Multi-sectoral Latent Electricity Demand Assessment for Energy Access Planning. SSRN Electronic Journal. 10.2139/ssrn.3700858. 
 
+ALREADY DONE --> 2020
 Massidda L, Marrocu M, Manca S. Non-Intrusive Load Disaggregation by Convolutional Neural Network and Multilabel Classification. Applied Sciences. 2020; 10(4):1454. https://doi.org/10.3390/app10041454
 ## 2021 and after
+ALREADY DONE --> 2021
 A. Yadav, S. Khan and M. T. Aahmad, "Economics and Environment Analysis of Hybrid System for Rural Hilly Terrain," 2021 1st International Conference on Power Electronics and Energy (ICPEE), Bhubaneswar, India, 2021, pp. 1-6, doi: 10.1109/ICPEE50452.2021.9358650.
 
 Cristina Dominguez, Kristina Orehounig, Jan Carmeliet,
@@ -1148,7 +1224,7 @@ https://doi.org/10.1016/j.deveng.2021.100073.
 Abstract: To design energy access solutions for rural households in developing countries it is important to have an accurate estimation of what their electricity consumption is. Studies reveal that they mainly use electricity to meet their lighting needs, as they cannot afford high power-consuming appliances. However, the scarce data availability and modeling complexity are a challenge to compute correctly the load profiles without collecting data on-site. This paper presents a methodology that computes the hourly lighting load profiles of rural households in East Africa requiring a small amount of publicly available input data. Combining data from household surveys, climate, and satellite imagery, the methodology applies machine learning for determining occupant behavior patterns, and lamps ownership for indoor and outdoor usage. For this, an average prediction accuracy of 80% is reached. After applying lighting requirement functions, load profiles are generated and then validated using measured data from 13 households in Kenya. Results show that the methodology is able to compute the load profiles with an average normalized root mean squared error of 0.7%, which is less compared to existing simulation approaches using on-site data. To demonstrate a broad application, the monthly lighting consumption is computed and projected geospatially for households in Kenya.
 Keywords: Lighting; Energy demand; Electricity consumption; Occupant behavior; Energy access; Rural electrification
 
-
+ALREADY DONE --> 2021
 Gaby Baasch, Guillaume Rousseau, Ralph Evins,
 A Conditional Generative adversarial Network for energy use in multiple buildings using scarce data,
 Energy and AI,
@@ -1187,12 +1263,14 @@ Keywords: Rural electrification; Poor communities; Electricity access; Poverty m
 
 Cheng S, Tian Z, Wu X, Niu J. Bottom-Up Model of Random Daily Electrical Load Curve for Office Building. Applied Sciences. 2021; 11(21):10471. https://doi.org/10.3390/app112110471
 
+ALREADY DONE --> 2021
 A. Pinceti, L. Sankar and O. Kosut, "Synthetic Time-Series Load Data via Conditional Generative Adversarial Networks," 2021 IEEE Power & Energy Society General Meeting (PESGM), Washington, DC, USA, 2021, pp. 1-5, doi: 10.1109/PESGM46819.2021.9637821.
 
 Namaganda-Kiyimba J, Mutale J, Azzopardi B. Improving the Load Estimation Process in the Design of Rural Electrification Systems. Energies. 2021; 14(17):5505. https://doi.org/10.3390/en14175505
 
 Proedrou, Beth. (2021). A Comprehensive Review of Residential Electricity Load Profile Models. IEEE Access. PP. 1-1. 10.1109/ACCESS.2021.3050074. 
 
+ALREADY DONE:--> 2021
 B. Ugwoke, S. Sulemanu, S.P. Corgnati, P. Leone, J.M. Pearce,
 Demonstration of the integrated rural energy planning framework for sustainable energy development in low-income countries: Case studies of rural communities in Nigeria,
 Renewable and Sustainable Energy Reviews,
@@ -1205,18 +1283,24 @@ https://doi.org/10.1016/j.rser.2021.110983.
 Abstract: With the vast rural population, the availability of locational renewable energy resources and limited finances in low-income (developing) countries, there is the need for an integrated and holistic energy planning framework to unlock their potential for achieving energy-based economic development. The integrated rural energy planning framework provides a unified road map for energy planning and system design with renewable energy integration geared towards improving energy access in rural areas. Therefore, this study presents the application of case studies to this framework to foster improved localized renewable energy access in low-income (developing) countries. Using rural Nigeria as the geographic scope, the site identification and selection and the locational estimation of annual energy demand steps of the framework are performed for rural areas. Utilizing GIS-based tools, rural communities are identified, and their viable renewable energy resources are estimated. Adopting the reference building approach, seasonal disaggregated energy demand profiles are obtained at community scale with an hourly time-step. These are obtained in the absence of smart-metering equipment and measured datasets on energy use. The obtained results provide insights to inform localized energy policy design by combining rural electrification with energy conservation strategies. This framework has wide applicability across areas with similar energy access and rural development issues especially in sub-Saharan Africa and developing Asia.
 Keywords: Integrated energy planning; Integrated rural planning; Demand profile; GIS; Nigeria
 
+ALREADY DONE -->2021
 Hecht, C., Sprake, D., Vagapov, Y. et al. Domestic demand-side management: analysis of microgrid with renewable energy sources using historical load data. Electr Eng 103, 1791–1806 (2021). https://doi.org/10.1007/s00202-020-01197-y
 
+ALREADY DONE --> 2022
 Rana, Md & Atef, Mohamed & Sarkar, Md. Rasel & Uddin, Moslem & Shafiullah, Gm. (2022). A Review on Peak Load Shaving in Microgrid—Potential Benefits, Challenges, and Future Trend. Energies. 15. 2278. 10.3390/en15062278. 
 
+ALREADY DONE --> 2022
 Mohamed, Azeroual & Boujoudar, Younes & El Iysaouy, Lahcen & Aljarbouh, Ayman & Qureshi, M. & Rabbi, Fazle & El Markhi, Hassane. (2022). Energy management and control system for microgrid based wind-PV-battery using multi-agent systems. Wind Engineering. 46. 10.1177/0309524X221075583. 
 
 Mumtaz, N., Awasthi, S.R., Upadhyay, S. (2022). Renewable Energy-Based Microgrid Design Considering the Real-Time Energy Availability. In: Gupta, O.H., Sood, V.K., Malik, O.P. (eds) Recent Advances in Power Systems. Lecture Notes in Electrical Engineering, vol 812. Springer, Singapore. https://doi.org/10.1007/978-981-16-6970-5_38
 
+ALREADY DONE: -->2022
 kamal, M.M., Ashraf, I. & Fernandez, E. Sustainable electrification planning of rural microgrid using renewable resources and its environmental impact assessment. Environ Sci Pollut Res 29, 86376–86399 (2022). https://doi.org/10.1007/s11356-022-19949-7
 
+ALREADY DONE --> 2022
 Belboul Z, Toual B, Kouzou A, Mokrani L, Bensalem A, Kennel R, Abdelrahem M. Multiobjective Optimization of a Hybrid PV/Wind/Battery/Diesel Generator System Integrated in Microgrid: A Case Study in Djelfa, Algeria. Energies. 2022; 15(10):3579. https://doi.org/10.3390/en15103579
 
+ALREADY DONE --> 2022
 Simone Negri, Federico Giani, Alessandro Massi Pavan, Adel Mellit, Enrico Tironi,
 MPC-based control for a stand-alone LVDC microgrid for rural electrification,
 Sustainable Energy, Grids and Networks,
@@ -1229,6 +1313,7 @@ https://doi.org/10.1016/j.segan.2022.100777.
 Abstract: Electricity access in developing countries, where the availability of public distribution grids is still poor, is considered a key factor for improvement of people life conditions. In these situations, the lack of a reliable grid can be mitigated by the introduction of stand-alone DC microgrids, including small Photovoltaic (PV) generators and storage devices. This paper focuses on optimal energy management and power supply reliability of such a microgrid. In particular, a Model-Predictive-Control (MPC) - based control system is introduced to optimally manage storage devices and coordinate load shedding actions. Additionally, an Artificial-Neural-Network (ANN) - based predictor is introduced to manage unpredictable solar irradiance and temperature variations. The availability of reliable adaptive forecasts provided by the ANN-based predictor increases the efficiency of the optimization performed by the MPC-based control over the prediction horizon, avoiding the well-known issues related to optimization performed on unreliable forecast. In this paper, the proposed control approach is detailed for a specific case study and its advantages with respect to traditional controller algorithms are highlighted by comprehensive numerical simulations. The presented results highlight that the proposed MPC controller provides a substantial increment in power supply reliability with respect to standard controls, especially for priority loads. This is obtained at the expense of an increased battery stress, which is acceptable for electricity access applications where power supply reliability is usually the foremost need.
 Keywords: Model predictive control; Neural networks; Photovoltaic generation; LVDC; Microgrids; Rural electrification
 
+Already done --> 2022
 Ángela Herraiz-Cañete, David Ribó-Pérez, Paula Bastida-Molina, Tomás Gómez-Navarro,
 Forecasting energy demand in isolated rural communities: A comparison between deterministic and stochastic approaches,
 Energy for Sustainable Development,
@@ -1241,8 +1326,10 @@ https://doi.org/10.1016/j.esd.2021.11.007.
 Abstract: Off-grid renewable energy grids will contribute to the achievement of SDG 7 on universal energy access, especially in off-grid communities. But the scarcity of resources for development aid requires very tight designs that minimize the cost of investment and operation of the mini-grid. To do this, the future energy demand of the community must be analysed very well, which is very difficult due to the lack of previous data. In the literature, two main approaches to analyse future energy demand, deterministic and stochastic methodologies. In this article, we compare both methodologies for a real case study in Honduras and discuss their advantages and disadvantages. Although the deterministic approach requires less information and less mathematical processing, it generates less accurate results. In contrast, the stochastic approach consumes more resources but gives more realistic results for the correct design of the mini-grid. In conclusion, the deterministic approach methods can be useful for the early stages of the project, when the investment is being sized. But for the advanced phases of the project, when the installation is being designed, the stochastic approach is recommended.
 Keywords: Rural electrification; Demand forecasting; SDG7; Deterministic methods; Stochastic methods
 
+ALREADY DONE --> 2022
 Tarife R, Nakanishi Y, Chen Y, Zhou Y, Estoperez N, Tahud A. Optimization of Hybrid Renewable Energy Microgrid for Rural Agricultural Area in Southern Philippines. Energies. 2022; 15(6):2251. https://doi.org/10.3390/en15062251
 
+ALREADY DONE --> 2022
 Liwei Ju, Zhe Yin, Qingqing Zhou, Qiaochu Li, Peng Wang, Wenxu Tian, Peng Li, Zhongfu Tan,
 Nearly-zero carbon optimal operation model and benefit allocation strategy for a novel virtual power plant using carbon capture, power-to-gas, and waste incineration power in rural areas,
 Applied Energy,
@@ -1255,12 +1342,16 @@ https://doi.org/10.1016/j.apenergy.2022.118618.
 Abstract: Aiming at utilizing a large number of distributed energy sources in rural areas such as straw and garbage biomass, rooftop photovoltaics, and decentralized wind power, this study designed a novel structure of a virtual power plant connected with gas-power plant carbon capture (GPPCC), power-to-gas (P2G), and waste incineration power (WI), namely, a GPW-VPP. Then, the information gap decision theory (IGDT) and fuzzy satisfaction method were applied to construct a nearly-zero carbon optimal operation model. In this model, the maximum revenue and minimum carbon emissions were selected as the initial objectives, which were converted into one maximum satisfaction objective. Three uncertainty variables, namely, wind power, photovoltaic power, and user’s load, were described using the IGDT. Secondly, to optimize the distribution of the cooperative operation revenue for the entities in GPW-VPP, a Nash negotiation-based benefit allocation strategy is established considering the multidimensional contribution factors of risks, benefits, and carbon emissions. Finally, the Lankao Rural Energy Revolution Pilot program in China was selected as the case study, the results showed: (1) GPW-VPP can aggregate and utilize different types of distributed energy sources such as rural wind power plants (WPPs) and photovoltaic power generation (PVs) to realize the electricity–carbon–electricity cycle effect. (2) The proposed operation optimization model can measure the uncertainty risk and formulate an optimal plan considering the above dual objectives. When the deviation coefficient of the predicted objectives is 0.5, the uncertainty degree is 0.142, and the cost of the decision plan is less than the expected cost of decision maker. Compared with the maximum revenue objective, the operation revenue and carbon emissions reduced by 4.6% and 35.76% under the comprehensive optimization objective, respectively, (3) The proposed benefit distribution strategy can be used to formulate a better benefit distribution plan that meets the comprehensive contributions of multiple entities. Affected by the risk of output uncertainty, the benefit proportion of WPP and PV increased, but it was 1.64% lower than that in the traditional distribution plan. Affected by carbon emissions, the benefit proportion of biomass power generation decreased, but it was 0.57% higher than that in the traditional distribution plan. Overall, the proposed operation optimization model and benefit distribution strategy can balance the interest requirements of different entities and promote the optimal aggregation and utilization of rural distributed energy resources, which is conducive to the realization of a clean and low-carbon transformation of the overall energy structure.
 Keywords: Virtual power plant; Power-to-gas; Benefit allocation; Optimal operation; Uncertainty
 
+ALREADY DONE --> 2022
 Babanezhad, Hamed & Ghafouri, Alireza. (2022). Increasing the Accessibility of Rural Microgrid's Load to Resources in Multi‐Microgrid System with Considering Minimum Operation Cost. IEEJ Transactions on Electrical and Electronic Engineering. 17. 10.1002/tee.23588. 
 
+ALREADY DONE --> 2022
 Rana MM, Rahman A, Uddin M, Sarkar MR, Shezan SA, Ishraque MF, Rafin SMSH, Atef M. A Comparative Analysis of Peak Load Shaving Strategies for Isolated Microgrid Using Actual Data. Energies. 2022; 15(1):330. https://doi.org/10.3390/en15010330
 
+ALREADY DONE --> 2022
 Trivedi, Rohit & Patra, Sandipan & Khadem, Md. Shafiuzzaman Khan. (2022). A Data-Driven Short-Term PV Generation and Load Forecasting Approach for Microgrid Applications. IEEE Journal of Emerging and Selected Topics in Industrial Electronics. 3. 1-1. 10.1109/JESTIE.2022.3179961. 
 
+ALREADY DONE --> 2022
 Md Mustafa Kamal, Imtiaz Ashraf, Eugene Fernandez,
 Planning and optimization of microgrid for rural electrification with integration of renewable energy resources,
 Journal of Energy Storage,
@@ -1273,14 +1364,19 @@ https://doi.org/10.1016/j.est.2022.104782.
 Abstract: Microgrids are an effective means to provide power to urban and rural communities. Microgrid planning must anticipate both the system's economic feasibility and long-term stability. Due to existing challenging ambitions, limitations, and the uncertainty of renewable energy production, the planning of microgrids is a difficult task. In the present work, a standalone microgrid is planned to integrate solar, wind turbine, diesel generator, and battery for the rural community of the hilly state of Uttarakhand (India). The Feasibility and techno-economic analysis of a proposed microgrid is conducted. The microgrid's performance is investigated using differential evolution and other existing algorithms, particle swarm optimization, and genetic algorithm to ascertain the cheapest option to energize the area. The sizing of components and sensitivity analysis of energy cost with changes in various parameters of the energy system is investigated. The optimization results suggest that the energy cost is $0.16/kWh, with a renewable fraction of 92% and a net present cost of $ 41,078. The obtained results indicated that a renewable-based energy system provides a more effective solution for the electrification of the rural population.
 Keywords: Renewable resources; Planning; Optimization; Cost of energy; Sensitivity; Viability solar; Wind
 
+ALREADY DONE --> 2022
 Yoo, Yeuntae & Jang, Gilsoo & Lee, Jaehyeong & Jung, Seungmin. (2022). Stochastic forecast error estimation of high PV penetration system considering net‐load/PV decoupling for microgrid operation. IET Renewable Power Generation. 16. n/a-n/a. 10.1049/rpg2.12506. 
 
+ALREADY DONE--> 2022
 Qiyue Huang, Yuqing Zheng, Yuxuan Xu, and François Vallée. 2022. Microgrid Load Forecasting Based on Improved Long Short-Term Memory Network. JECE 2022 (2022). https://doi.org/10.1155/2022/4017708
 
+ALREADY DONE --> 2022
 Kamal, Md & Ashraf, Imtiaz & Fernandez, Eugene. (2022). Efficient Two‐layer Rural Electrification Planning and Techno‐economic Assessment Integrating Renewable Sources. Energy Storage. 4. 10.1002/est2.314. 
 
-Kühnel, Sven & Ahmed, Tallal & Mehta, Kedar & Ehrenwirth, Mathias & Besner, Rebekka & Knepper, Karoline & Ileka, Helvi & Trinkl, Christoph & Zörner, Wilfried. (2022). Holistic approach to develop electricity load profiles for rural off- grid communities in sub-Saharan Africa. 
+ALREADY DONE--> 2021
+Kühnel, Sven & Ahmed, Tallal & Mehta, Kedar & Ehrenwirth, Mathias & Besner, Rebekka & Knepper, Karoline & Ileka, Helvi & Trinkl, Christoph & Zörner, Wilfried. (2021). Holistic Approach to Develop Electricity Load Profiles for Rural Off-Grid Communities in Sub-Saharan Africa. 1-13. 10.18086/swc.2021.20.02. 
 
+ALREADY DONE --> 2022
 Andante Hadi Pandyaswargo, Alan Dwi Wibowo, Hiroshi Onoda,
 Socio-techno-economic assessment to design an appropriate renewable energy system for remote agricultural communities in developing countries,
 Sustainable Production and Consumption,
@@ -1293,8 +1389,10 @@ https://doi.org/10.1016/j.spc.2022.03.009.
 Abstract: Access to clean energy for communities living in remote areas where grid extension is considered unfeasible can be provided by off-grid electrification systems using renewable energy (RE). Especially in developing countries, ensuring the appropriateness of such systems is crucial because it will determine the system's sustainability despite its limited resources. This study demonstrates the design process of an appropriate system by assessing the potential of three RE sources: solar, wind, and biomass in an oil palm and rubber-tree plantation village in South Kalimantan Province, Indonesia. A social assessment is done to avoid sustainability issues of the previously introduced technology intervention by identifying correlations between residents' attributes and satisfaction levels on a selection of social values through multiple correspondence analysis (MCA) and nonparametric methods. The techno-economic assessment and sensitivity analysis uses local data processed with the Hybrid Optimization of Multiple Energy Resources (HOMER) software. Results identified the need for a more appropriate clean energy supply for cooking, the potential role of modern technology, and access to information and communication in income generation, among other needs and opportunities that can be linked with the energy system design. The technical assessment showed that a centralized solar power plant paired with a diesel engine could provide power to the village. However, the cost of electricity (COE) is much higher than the price cap introduced by the national electricity company. This study urges a clear mechanism and a guarantee for the delivery of feed-in-tariffs (FIT) and a price cap exemption for off-grid RE systems. Furthermore, a people-centered public–private partnership business model and a remote capacity-building intervention are also needed. An appropriate energy system design must be supported by an enabling environment and supporting policies to be feasible.
 Keywords: Renewable energy; Off-grid electrification; Sustainable development; Rural development; MCA; Sustainability assessment
 
+ALREADY DONE --> 2022
 M. A. Zaman and M. A. Razzak, "Sustainable Microgrid Analysis for Kutubdia Island of Bangladesh," in IEEE Access, vol. 10, pp. 37533-37556, 2022, doi: 10.1109/ACCESS.2022.3164677.
 
+ALREADY DONE --> 2022
 Dwijendra Nath Dwivedi, Abhishek Gupta,
 11 - Artificial intelligence-driven power demand estimation and short-, medium-, and long-term forecasting,
 Editor(s): Ashutosh Kumar Dubey, Sushil Kumar Narang, Arun Lal Srivastav, Abhishek Kumar, Vicente García-Díaz,
@@ -1315,4 +1413,5 @@ Dong, B., Liu, Y., Mu, W. et al. A Global Building Occupant Behavior Database. S
 
 Anvari, M., Proedrou, E., Schäfer, B. et al. Data-driven load profiles and the dynamics of residential electricity consumption. Nat Commun 13, 4593 (2022). https://doi.org/10.1038/s41467-022-31942-9
 
+ALREADY DONE--> 2022
 Balderrama Subieta, S. L. (2022). <em>Optimal design and deployment of isolated energy systems: The Bolivian pathway to 100 % rural electrification</em>. Unpublished doctoral thesis, ULiège - Université de Liège, Liège, Belgium. <br />Jury: Quoilin, S. (Promotor), Dewallef, P., Lemort, V., Cornélusse, B., Colombo, E., ... Crespo del Granado, P.
