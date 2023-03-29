@@ -103,6 +103,7 @@ Feinberg, E.A., Genethliou, D. (2005). Load Forecasting. In: Chow, J.H., Wu, F.F
 ALREADY DONE --> 2005
 Stokes, M. (2005). Removing barriers to embedded generation : a fine-grained load model to support low voltage network performance analysis.
 
+ALREADY DONE --> 2005
 Runming Yao, Koen Steemers,
 A method of formulating energy load profile for domestic buildings in the UK,
 Energy and Buildings,
@@ -378,6 +379,7 @@ Kaden, Robert & Kolbe, Thomas. (2013). City-wide total energy demand estimation 
 ALREADY DONE --> 2013
 Caputo P, Gaia C, Zanotto V. A Methodology for Defining Electricity Demand in Energy Simulations Referred to the Italian Context. Energies. 2013; 6(12):6274-6292. https://doi.org/10.3390/en6126274
 
+ALREADY DONE --> 2013
 Gholamreza Zahedi, Saeed Azizi, Alireza Bahadori, Ali Elkamel, Sharifah R. Wan Alwi,
 Electricity demand estimation using an adaptive neuro-fuzzy network: A case study from the Ontario province – Canada,
 Energy,
@@ -1013,6 +1015,7 @@ Sawle, Y, Gupta, SC, Bohre, AK. A novel methodology for scrutiny of autonomous h
 ALREADY DONE --> 2018
 S. Thorve, S. Swarup, A. Marathe, Y. Chungbaek, E. K. Nordberg and M. V. Marathe, "SIMULATING RESIDENTIAL ENERGY DEMAND IN URBAN AND RURAL AREAS," 2018 Winter Simulation Conference (WSC), Gothenburg, Sweden, 2018, pp. 548-559, doi: 10.1109/WSC.2018.8632203.
 
+ALREADY DONE --> 2018
 Wang, Huijuan & Yang, Wenrong. (2018). An Iterative Load Disaggregation Approach Based on Appliance Consumption Pattern. Applied Sciences. 8. 542. 10.3390/app8040542. 
 
 ALREADY DONE--> 2018
@@ -1043,6 +1046,7 @@ El-Raouf, M.O., Mosaad, M.I., AL-AHMAR, M.A., & Bendary, F.M. (2018). Techno-Eco
 ALREADY DONE --> 2018
 Gao B, Liu X, Zhu Z. A Bottom-Up Model for Household Load Profile Based on the Consumption Behavior of Residents. Energies. 2018; 11(8):2112. https://doi.org/10.3390/en11082112
 
+ALREADY DONE --> 2018
 Yashwant Sawle, S.C. Gupta, Aashish Kumar Bohre,
 Review of hybrid renewable energy systems with comparative analysis of off-grid hybrid system,
 Renewable and Sustainable Energy Reviews,
@@ -1057,8 +1061,6 @@ Keywords: PV system; Wind systems; Modeling; Homer; PSO techniques
 
 ALREADY DONE --> 2018
 C. Zhang, S. R. Kuppannagari, R. Kannan and V. K. Prasanna, "Generative Adversarial Network for Synthetic Time Series Data Generation in Smart Grids," 2018 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Aalborg, Denmark, 2018, pp. 1-6, doi: 10.1109/SmartGridComm.2018.8587464.
-
-Gao B, Liu X, Zhu Z. A Bottom-Up Model for Household Load Profile Based on the Consumption Behavior of Residents. Energies. 2018; 11(8):2112. https://doi.org/10.3390/en11082112
 
 ALREADY DONE --> 2019
 Tefek, M.F., Uğuz, H. & Güçyetmez, M. A new hybrid gravitational search–teaching–learning-based optimization method for energy demand estimation of Turkey. Neural Comput & Applic 31, 2939–2954 (2019). https://doi.org/10.1007/s00521-017-3244-9
@@ -1124,6 +1126,7 @@ Keywords: Microgrids; Rural electrification; Isolated energy systems; Energy; Op
 ALREADY DONE --> 2019
 Schneider, Stefan & Hollmuller, Pierre & Chambers, Jonathan & Patel, M. (2019). A Heat Demand Load Curve Model of the Swiss National Territory. IOP Conference Series: Earth and Environmental Science. 290. 012107. 10.1088/1755-1315/290/1/012107. 
 
+ALREADY DONE --> 2019
 Yu J, Gao Y, Wu Y, Jiao D, Su C, Wu X. Non-Intrusive Load Disaggregation by Linear Classifier Group Considering Multi-Feature Integration. Applied Sciences. 2019; 9(17):3558. https://doi.org/10.3390/app9173558
 
 ALREADY DONE --> 2019
@@ -1207,6 +1210,7 @@ Yousif M, Ai Q, Gao Y, Wattoo WA, Hao R, Jiang Z. Dataset for Scheduling Strateg
 ALREADY DONE --> 2020
 Lorenzoni, Luca & Cherubini, Paolo & Fioriti, Davide & Poli, Davide & Micangeli, Andrea & Giglioli, Romano. (2020). Classification and modeling of load profiles of isolated mini-grids in developing countries: A data-driven approach. Energy for Sustainable Development. 59. 208-225. 10.1016/j.esd.2020.10.001. 
 
+ALREADY DONE --> 2020
 Tianzhen Hong, Zhe Wang, Xuan Luo, Wanni Zhang,
 State-of-the-art on research and applications of machine learning in the building life cycle,
 Energy and Buildings,
@@ -1239,6 +1243,7 @@ https://doi.org/10.1016/j.seta.2019.100613.
 Abstract: This paper demonstrates the optimum design and techno-economic assessment of hybrid renewable energy system (HRES) for rural electrification in the remote district of Korkadu, India. The renewable energy resources namely solar photovoltaic, wind turbine and bio generators are considered as the main sources because of its high potential in Korkadu district. This paper estimates the load forecasting for the selected district, which is a mixture of different load patterns namely residential, commercial, institutional and agricultural demands. The desired HRES has to meet the forecasted load demand for reliable electrification. The optimum design and techno-economic analysis of proposed HRES system is carried using powerful tool HOMER. This study also compares HRES’s operational behavior with different operational strategies such as load following strategy, cycle charging strategy and combined strategy of the system. The outcome of the proposed dispatched strategy expressed the contribution of solar power as 86.8%, wind as 12.7% and bio gen power as 0.5% to meet out developed rural load pattern with 6.8% of battery bank losses and 1.78% of converter losses. This research work also illustrate the HRES based power generation can be a cost effective sustainable power alternative to the conventional grid extension system.
 Keywords: Hybrid renewable energy system (PV/wind/Bioenergy); Rural electrification; Load following; Cycle charging and combined dispatch strategy; Techno-economic analysis
 
+ALREADY DONE --> 2020
 Narayan, Nishant & Qin, Zian & Popovic, Jelena & Diehl, Jan Carel & Bauer, Pavol & Zeman, Miro. (2020). Stochastic load profile construction for the multi-tier framework for household electricity access using off-grid DC appliances. Energy Efficiency. 13. 10.1007/s12053-018-9725-6. 
 
 ALREADY DONE --> 2020
@@ -1286,6 +1291,7 @@ https://doi.org/10.1016/j.apenergy.2019.114004.
 Abstract: Small-scale off-grid renewable energy systems are being increasingly used for rural electrification, commonly as stand-alone home systems or community micro-grids. With the variety of technologies and configurations available, it is not clear which options are sustainable for remote communities. This study investigates the life cycle environmental sustainability of both home and community installations, designed as part of this work, which utilise diesel, solar, and wind resources coupled with battery storage. A total of 21 system configurations (six home systems and 15 micro-grids) have been designed and optimised for a prototypical rural community in the Philippines, considering both stand-alone and hybrid systems. Life cycle assessment (LCA) considering 18 potential impact categories has been carried out to compare the environmental impacts associated with electricity production of each option. At the household level, hybrid solar photovoltaics (PV)-wind systems with storage have 17–40% lower impacts than the equivalent stand-alone installations per kWh generated. Batteries are a major environmental hotspot, causing up to 88% of the life cycle impacts of a home energy system. Among the community micro-grid options, the PV-wind-lead acid battery hybrid system has the lowest impacts in many categories, including climate change, ozone depletion, and acidification. Comparing equivalent architectures for single-household and community-scale installations, PV systems are environmentally more sustainable if installed individually in households, while larger turbines in community micro-grids are environmentally better for wind utilisation. The results suggest that a household-scale PV system integrated within a micro-grid with community-scale wind turbines and Li-ion batteries is environmentally the most sustainable configuration.
 Keywords: Hybrid energy systems; Life cycle assessment (LCA); Microgeneration; Off-grid energy; Rural electrification; Renewable energy
 
+ALREADY DONE --> 2020
 Falchetta, Giacomo & Stevanato, Nicolo & Moner-Girona, Magda & Mazzoni, Davide & Colombo, Emanuela & Hafner, Manfred. (2020). M-LED: Multi-sectoral Latent Electricity Demand Assessment for Energy Access Planning. SSRN Electronic Journal. 10.2139/ssrn.3700858. 
 
 ALREADY DONE --> 2020
@@ -1393,6 +1399,7 @@ Rana, Md & Atef, Mohamed & Sarkar, Md. Rasel & Uddin, Moslem & Shafiullah, Gm. (
 ALREADY DONE --> 2022
 Mohamed, Azeroual & Boujoudar, Younes & El Iysaouy, Lahcen & Aljarbouh, Ayman & Qureshi, M. & Rabbi, Fazle & El Markhi, Hassane. (2022). Energy management and control system for microgrid based wind-PV-battery using multi-agent systems. Wind Engineering. 46. 10.1177/0309524X221075583. 
 
+ALREADY DONE --> 2022
 Mumtaz, N., Awasthi, S.R., Upadhyay, S. (2022). Renewable Energy-Based Microgrid Design Considering the Real-Time Energy Availability. In: Gupta, O.H., Sood, V.K., Malik, O.P. (eds) Recent Advances in Power Systems. Lecture Notes in Electrical Engineering, vol 812. Springer, Singapore. https://doi.org/10.1007/978-981-16-6970-5_38
 
 ALREADY DONE: -->2022
