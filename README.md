@@ -62,6 +62,7 @@ ALREADY DONE --> 2000
 S. A. Villalba and C. A. Bel, "Hybrid demand model for load estimation and short term load forecasting in distribution electric systems," in IEEE Transactions on Power Delivery, vol. 15, no. 2, pp. 764-769, April 2000, doi: 10.1109/61.853017.
 
 ## 2001 - 2010
+ALREADY DONE --> 2001
 Stoecklein, A. & Pollard, Andrew & Camilleri, M. & Tries, J. & Isaacs, Nigel. (2001). The household energy end-use project: measurement approach and sample application of the New Zealand household energy model. CIB World Build. Congr.. 
 
 ALREADY DONE-->2002
