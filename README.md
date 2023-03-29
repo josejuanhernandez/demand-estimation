@@ -14,8 +14,10 @@ C. W. Gellings and R. W. Taylor, "Electric Load Curve Synthesis - A Computer Sim
 ALREADY DONE-->1984
 Aigner, D. J., Sorooshian, C., & Kerwin, P. (1984). Conditional Demand Analysis for Estimating Residential End-Use Load Profiles. The Energy Journal, 5(3), 81–97. http://www.jstor.org/stable/41321696
 
+ALREADY DONE --> 1985
 C. F. Walker and J. L. Pokoski, "Residential Load Shape Modelling Based on Customer Behavior," in IEEE Transactions on Power Apparatus and Systems, vol. PAS-104, no. 7, pp. 1703-1711, July 1985, doi: 10.1109/TPAS.1985.319202.
 
+ALREADY DONE --> 1985
 Kenneth Train, Joseph Herriges, Robert Windle,
 Statistically adjusted engineering (SAE) models of end-use load curves,
 Energy,
@@ -148,6 +150,7 @@ https://doi.org/10.1016/j.enbuild.2007.10.014.
 Abstract: Energy planning for mixed energy distribution systems is important to increase the flexibility in the regional and national energy systems. Expected maximum loads, load profiles and yearly energy demands, all divided into heat and electricity purposes, are important input parameters to plan for the most economical, technical and environmental optimal energy distribution system for a planning area. First, this article presents a load prediction method which estimates heat and electricity load profiles for various building categories. The method is based on statistical analyses of hourly simultaneous measured district heat and electricity consumption in several buildings, as well as background information of the measured buildings. The heat load model is based on regression analyses, whereas the electricity load model is based on various statistical distributions. Second, a method for load aggregation based on the building categories’ load profiles is presented to estimate the maximum load demands, yearly load profiles, load duration profiles and yearly energy demands, all divided into heat and electricity purposes, for a planning area.
 Keywords: Energy planning; Load profiles; Heat load; Electricity load; Building category
 
+ALREADY DONE --> 2008
 Yigzaw G. Yohanis, Jayanta D. Mondol, Alan Wright, Brian Norton,
 Real-life energy use in the UK: How occupancy and dwelling characteristics affect domestic electricity use,
 Energy and Buildings,
@@ -205,10 +208,13 @@ https://doi.org/10.1016/j.energy.2010.03.044.
 Abstract: A pre-feasibility of wind-PV-battery hybrid system has been performed for a small community in the east-southern part of Bangladesh. Solar radiation resources have been assessed from other meteorological parameters like sunshine duration and cloud cover as measured radiation data were not available at the site. The predicted monthly averaged daily global radiation over Chittagong is 4.36 kWh/m2/day. Measured wind speed at the site varies from 3 m/s to 5 m/s. For few months and hours the speed is below the cut in speeds of the available turbines in market. The hybrid system analysis has showed that for a small community consuming 53,317 kWh/year the cost energy is 0.47USD/kWh with 10% annual capacity of shortage and produces 89,151 kWh/year in which 53% electricity comes from wind and the remaining from solar energy. The sensitivity analysis showed that the hybrid system for the community is compatible with the 8 km–12 km grid extension depending on small variation of solar radiation and wind speed over the district whereas the proposed site is more away from the upper limit. Such a hybrid system will reduce about 25 tCO2/yr green house gases (GHG) emission in the local atmosphere.
 Keywords: Wind speed; Solar radiation; Hybrid system; Grid extension distance; Green house gas (GHG)
 
+ALREADY DONE --> 2010
 Duffy, Aidan & McLoughlin, Fintan & Conlon, Michael. (2010). The Generation of Domestic Electricity Load Profiles through Markov Chain Modelling. 
 
+ALREADY DONE --> 2010
 Dickert, Jörg & Schegner, Peter. (2010). Residential load models for network planning purposes. Proceedings - International Symposium: Modern Electric Power Systems, MEPS'10. 1 - 6. 
 
+ALREADY DONE --> 2010
 Ian Richardson, Murray Thomson, David Infield, Conor Clifford,
 Domestic electricity use: A high-resolution energy demand model,
 Energy and Buildings,
@@ -222,7 +228,7 @@ Abstract: The pattern of electricity use in an individual domestic dwelling is h
 Keywords: Domestic electricity use; Domestic appliances; Energy demand modelling; Occupancy; Time-use; Demand side management; Demand response; Flexible demand
 
 ## 2011 - 2020
-
+ALREADY DONE --> 2011
 Ardakanian, Omid & Keshav, Srinivasan & Rosenberg, Catherine. (2011). Markovian models for home electricity consumption. Proceedings of the 2nd ACM SIGCOMM Workshop on Green Networking, GreenNets'11. 10.1145/2018536.2018544. 
 
 ALREADY DONE --> 2011
@@ -341,6 +347,7 @@ https://doi.org/10.1016/j.apenergy.2011.05.008.
 Abstract: The daily energy demand patterns for 14 department stores located in the five largest cities in Korea are surveyed to establish building-energy load models. Electricity and fuel consumption data are field-measured at one carefully chosen store among the sample stores that best represent the statistical characteristics of the department stores to extract hourly consumption profiles for the electricity, heating, hot water, and cooling loads. The data statistically processed to develop a generic computational model for future applications.
 Keywords: Building energy model; Department store; Korea; Electricity; Heat
 
+ALREADY DONE --> 2012
 Zhengen Ren, Phillip Paevere, Cheryl McNamara,
 A local-community-level, physically-based model of end-use energy consumption by Australian housing stock,
 Energy Policy,
@@ -380,6 +387,7 @@ https://doi.org/10.1016/j.energy.2012.10.019.
 Abstract: Electricity is an important asset that influences not only the economy, but political or social security of a country. Reliable and accurate planning and prediction of electricity demand for a country are therefore vital. In this paper, electricity demand in Ontario province of Canada from the year 1976–2005 is modeled by using an (adaptive neuro fuzzy inference system) ANFIS. A neuro fuzzy structure can be defined as an ANN (artificial neural network) which is trained by experimental data to find the parameters of (fuzzy inference system) FIS. Inputs for the model include number of employment, (gross domestic product) GDP, population, dwelling count and two meteorological parameters related to annual weather temperature. The data were collected and screened using statistical methods. Then, based on the data, a neuro-fuzzy model for the electricity demand is built. It was found that electricity demand is most sensitive to employment.
 Keywords: Electricity demand; Neuro-fuzzy; Forecasting
 
+ALREADY DONE --> 2013
 W. Labeeuw and G. Deconinck, "Residential Electrical Load Model Based on Mixture Model Clustering and Markov Models," in IEEE Transactions on Industrial Informatics, vol. 9, no. 3, pp. 1561-1569, Aug. 2013, doi: 10.1109/TII.2013.2240309.
 
 ALREADY DONE --> 2013
@@ -449,6 +457,7 @@ https://doi.org/10.1016/j.apenergy.2013.02.057.
 Abstract: This paper presents a model to simulate the electricity demand of a single household consisting of multiple individuals. The total consumption is divided into four main categories, namely cold appliances, heating, ventilation, and air conditioning, lighting, and energy consumed by household members’ activities. The first three components are modeled using engineering physically-based models, while the activity patterns of individuals are modeled using a heterogeneous Markov chain. Using data collected by the U.S. Bureau of Labor Statistics, a case study for an average American household is developed. The data are used to conduct an in-sample validation of the modeled activities and a rigorous statistical validation of the predicted electricity demand against metered data is provided. The results show highly realistic patterns that capture annual and diurnal variations, load fluctuations, and diversity between household configuration, location, and size.
 Keywords: Energy demand modeling; Household power demand; Occupant behavior; Residential electricity use; Heterogeneous Markov chain; HVAC modeling
 
+ALREADY DONE --> 2013
 S. Shao, M. Pipattanasomporn and S. Rahman, "Development of physical-based demand response-enabled residential load models," in IEEE Transactions on Power Systems, vol. 28, no. 2, pp. 607-614, May 2013, doi: 10.1109/TPWRS.2012.2208232.
 
 From the Bottom Up: How Small Power Producers and Mini-Grids Can Deliver Electrification and Renewable Energy in Africa
@@ -487,6 +496,7 @@ Keywords: Load forecasting; District energy; Combined heat and power; Energy sto
 ALREADY DONE --> 2014
 Flynn, Damian & Neu, Olivier & sherlock, bronagh & Oxizidis, Simeon & finn, donal. (2014). Developing building archetypes for electrical load shifting assessment: Analysis of Irish residential stock. 
 
+ALREADY DONE --> 2014
 B. J. Johnson, M. R. Starke, O. A. Abdelaziz, R. K. Jackson and L. M. Tolbert, "A MATLAB based occupant driven dynamic model for predicting residential power demand," 2014 IEEE PES T&D Conference and Exposition, Chicago, IL, USA, 2014, pp. 1-5, doi: 10.1109/TDC.2014.6863381.
 
 ALREADY DONE --> 2014
@@ -556,6 +566,7 @@ https://doi.org/10.1016/j.renene.2013.07.028.
 Abstract: Renewable energy-based off-grid or decentralised electricity supply has traditionally considered a single technology-based limited level of supply to meet the basic needs, without considering reliable energy provision to rural consumers. The purpose of this paper is to propose the best hybrid technology combination for electricity generation from a mix of renewable energy resources to satisfy the electrical needs in a reliable manner of an off-grid remote village, Palari in the state of Chhattisgarh, India. Four renewable resources, namely, small-scale hydropower, solar photovoltaic systems, wind turbines and bio-diesel generators are considered. The paper estimates the residential, institutional, commercial, agricultural and small-scale industrial demand in the pre-HOMER analysis. Using HOMER, the paper identifies the optimal off-grid option and compares this with conventional grid extension. The solution obtained shows that a hybrid combination of renewable energy generators at an off-grid location can be a cost-effective alternative to grid extension and it is sustainable, techno-economically viable and environmentally sound. The paper also presents a post-HOMER analysis and discusses issues that are likely to affect/influence the realisation of the optimal solution.
 Keywords: Hybrid systems; Off-grid electrification; HOMER; India
 
+ALREADY DONE --> 2014
 A. Ridi, C. Gisler and J. Hennebert, "ACS-F2 — A new database of appliance consumption signatures," 2014 6th International Conference of Soft Computing and Pattern Recognition (SoCPaR), Tunis, Tunisia, 2014, pp. 145-150, doi: 10.1109/SOCPAR.2014.7007996.
 
 ALREADY DONE --> 2015
@@ -715,6 +726,7 @@ Keywords: District heating systems; Heat load; Prediction; Neuro-fuzzy; ANFIS
 ALREADY DONE --> 2015
 Oladeji, Akinola & Sule, B.. (2015). Electrical Load Survey and Forecast for a Decentralized Hybrid Power System at Elebu, Kwara State, Nigeria. Nigerian Journal of Technology. 34. 591. 10.4314/njt.v34i3.23. 
 
+ALREADY DONE --> 2016
 Mandelli, Stefano. (2016). Strategies for access to energy in developing countries: methods and models for off-grid power systems design. 
 
 ALREADY DONE --> 2016
@@ -877,6 +889,7 @@ https://doi.org/10.1016/j.energy.2016.06.056.
 Abstract: Due to the depletion of fossil fuel reserves, it is feared that the world will run out of its energy resources soon. Besides, unpredictable fluctuation of diesel prices in electricity generation is affecting the economy of a country. Thus, for developing country that's economically leans on the use of energy, renewable energy resources should be utilized to meet the increasing energy demand. In this regards, the cogeneration system using renewable energy sources is appropriate, because it has the advantage of producing both electrical power and heat energy from a single fuel. It is suitable for commercial clients like hospital buildings which requires to supply both electric and heat load. Therefore, the aim of this study is to assess the viability to develop a cogeneration system for a hospital building load in Malaysia. The proposed cogeneration system consists of grid connected photovoltaic (PV), fuel cell, and battery. Hybrid optimization model for electric renewable (HOMER) simulation software is used to perform the techno-economic analysis of the proposed system. The proposed system is then compared with other possible configurations. The economical comparison is based on the total net present cost (TNPC), levelized cost of energy (LCOE), renewable fraction, excess energy production and the pollutant gas emission of the system. The simulation result shows that, the proposed cogeneration system has the lowest TNPC, LCOE and operating cost which are $ 106,551, 0.091 $/kWh and 7245 $/yr respectively. Besides, the proposed cogeneration system is proven environmentally friendly as it only produces total 25,873 kg/yr of pollutant gas. The sensitivity analysis where fuel prices and annual interest rate are considered as sensitive parameters, shows impact on the TNPC and LCOE. Finally, the benefit from the Feed in Tariff (FiT) program provided by the government also has been presented.
 Keywords: Cogeneration; Solar PV; Fuel cell; Battery; HOMER optimization; Hybrid system
 
+ALREADY DONE --> 2016
 Yan Ge, Chengke Zhou, Donald M Hepburn,
 Domestic electricity load modelling by multiple Gaussian functions,
 Energy and Buildings,
@@ -1492,11 +1505,13 @@ https://doi.org/10.1016/B978-0-323-90396-7.00013-4.
 Abstract: Planners at utilities want automated and accurate load forecasts for short-, medium- and long-term load planning. Accurate forecasts are crucial to meet future load demand in response to national growth and to use as a baseline for tariff discussions. Here we propose an end-to-end approach for the data model, forecast model, and forecasting and demand reporting methods. Such an approach can help plan distribution across various geographic areas, such as urban areas, development areas, remote villages/villages, agricultural land, and farms. Such a solution and approach would also look at a top-down forecasting model to consider the electricity consumption pattern relative to macroeconomic factors and weather-related parameters and then disaggregate it while considering distribution losses and other parameters. This model also addresses the rebalancing of peak demand within a feeder. Optimization techniques can create a group of feeders for optimal demand management without needing a new feeder or substation. This study can be used for multiple purposes, and this system can provide a higher degree of predictability and productivity to identify gaps and accelerate reconciliation. Automated and peak load prediction solutions based on data and artificial intelligence can help create a variety of energy demand scenarios for annual peak load and energy requirements. Accurate load prediction can reduce the cost of holding capacity and reliably avoid power and related outages. Automating the forecasting process can help achieve consistent forecasting, supplement field knowledge, and reduce manual errors, leading to timely, high-level forecasts and efficient use of human resources.
 Keywords: Artificial intelligence; Data quality; Demand management; Electricity distribution management; Load forecasting; Time series analysis
 
+ALREADY DONE --> 2022
 Taheri, Saman, and Razban, Ali. A novel probabilistic regression model for electrical peak demand estimate of commercial and manufacturing buildings. United States: N. p., 2022. Web. doi:10.1016/j.scs.2021.103544.
 
 ALREADY DONE --> 2022
 Dong, B., Liu, Y., Mu, W. et al. A Global Building Occupant Behavior Database. Sci Data 9, 369 (2022). https://doi.org/10.1038/s41597-022-01475-3
 
+ALREADY DONE --> 2022
 Anvari, M., Proedrou, E., Schäfer, B. et al. Data-driven load profiles and the dynamics of residential electricity consumption. Nat Commun 13, 4593 (2022). https://doi.org/10.1038/s41467-022-31942-9
 
 ALREADY DONE--> 2022
